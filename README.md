@@ -5,3 +5,9 @@
 <li>https://github.com/citizen-stig/dockermutillidae</li>
 <li>https://github.com/remotephone/dvwa-lamp</li>
 </ul>
+
+
+<p2><b>Usefull Links</b></p2>
+<ul>
+<li>Bypass application whitelisting: http://www.blackhillsinfosec.com/?p=5633</li>
+</ul>
