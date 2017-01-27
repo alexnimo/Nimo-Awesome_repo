@@ -10,4 +10,5 @@
 <p2><b>Usefull Links</b></p2>
 <ul>
 <li>Bypass application whitelisting: http://www.blackhillsinfosec.com/?p=5633</li>
+<li>Malcious outlook rules: https://silentbreaksecurity.com/malicious-outlook-rules/ </li>
 </ul>
