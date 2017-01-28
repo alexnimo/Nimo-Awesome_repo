@@ -8,7 +8,7 @@
 <li>https://hub.docker.com/r/ahannigan/docker-arachni/</li>
 <li> Portainer - Docker manager - http://portainer.io/install.html</li>
   <ul ul style="list-style-type:circle">
-  <li> Connect to local host with persistance : docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v /path/on/host/data:/data portainer/portainer</li>
+  <li> Connect to local host with persistance : <b>docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v /path/on/host/data:/data portainer/portainer</b></li>
   </ul>
 </ul>
 
