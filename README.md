@@ -18,3 +18,8 @@
 <li>Bypass application whitelisting: http://www.blackhillsinfosec.com/?p=5633</li>
 <li>Malcious outlook rules: https://silentbreaksecurity.com/malicious-outlook-rules/ </li>
 </ul>
+
+<p2><b>Password Lists</b></p2>
+<ul>
+<li>https://wiki.skullsecurity.org/index.php?title=Passwords</li>
+</ul>
