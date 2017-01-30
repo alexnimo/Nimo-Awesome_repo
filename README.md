@@ -9,10 +9,10 @@
 <li> Portainer - Docker manager - http://portainer.io/install.html</li>
   <ul ul style="list-style-type:circle">
   <li> Connect to local host with persistance : <b>docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v /path/on/host/data:/data portainer/portainer</b></li>
-<li> Kali linux base + web tools installation: https://hub.docker.com/r/kalilinux/kali-linux-docker/
-  <ul style="list-style-type:circles">
-  <li>apt-get update && apt-get  -y dist-upgrade && apt-get -y install kali-linux-web && apt-get clean && apt-get purge</li>
   </ul>
+  <li> Kali linux base + web tools installation: https://hub.docker.com/r/kalilinux/kali-linux-docker/
+  <ul style="list-style-type:circle">
+  <li>apt-get update && apt-get  -y dist-upgrade && apt-get -y install kali-linux-web && apt-get clean && apt-get purge</li>
   </ul>
 </ul>
 
