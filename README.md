@@ -12,7 +12,7 @@
   </ul>
   <li> Kali linux base + web tools installation: https://hub.docker.com/r/kalilinux/kali-linux-docker/
   <ul style="list-style-type:circle">
-  <li>apt-get update && apt-get  -y dist-upgrade && apt-get -y install kali-linux-web && apt-get clean && apt-get purge</li>
+  <li>apt-get -y install kali-linux-web && apt-get purge</li>
   </ul>
   <li> Awesome docker repo: https://github.com/veggiemonk/awesome-docker </li>
 </ul>
