@@ -19,14 +19,14 @@ s
   <b>docker run -ti -p 127.0.0.1:443:5443 blabla1337/skf-flask</b></li>
   <li>OWASP security Shepard: https://hub.docker.com/r/ismisepaul/securityshepherd/<br>
   <b>docker run -i -p 80:80 -p 443:443 -t ismisepaul/securityshepherd /bin/bash /usr/bin/mysqld_safe & service tomcat7 start </b><br>
-If you don't have authbind installed and configured on your host machine e.g. on Ubuntu you'll need to do the following;
-<b>
-sudo apt-get install authbind   
-touch /etc/authbind/byport/80  
-touch /etc/authbind/byport/443  
-chmod 550 /etc/authbind/byport/80  
-chmod 550 /etc/authbind/byport/443  
-chown tomcat7 /etc/authbind/byport/80  
+If you don't have authbind installed and configured on your host machine e.g. on Ubuntu you'll need to do the following:
+<b><br> 
+sudo apt-get install authbind  <br> 
+touch /etc/authbind/byport/80  <br> 
+touch /etc/authbind/byport/443  <br> 
+chmod 550 /etc/authbind/byport/80  <br> 
+chmod 550 /etc/authbind/byport/443  <br> 
+chown tomcat7 /etc/authbind/byport/80  <br> 
 chown tomcat7 /etc/authbind/byport/443</b></li>
 </ul>
 
