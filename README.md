@@ -1,5 +1,5 @@
 # Nimo-Awesome_repo
-
+s
 <p2><b>Usefull Docker Images</b></p2>
 <ul>
 <li>https://github.com/citizen-stig/dockermutillidae</li>
@@ -9,14 +9,27 @@
 <li> Portainer - Docker manager - http://portainer.io/install.html</li>
   <ul ul style="list-style-type:circle">
   <li> Connect to local host with persistance : <b>docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v /path/on/host/data:/data portainer/portainer</b></li>
-  </ul>
+  </ul>s
   <li> Kali linux base + web tools installation: https://hub.docker.com/r/kalilinux/kali-linux-docker/
   <ul style="list-style-type:circle">
   <li>apt-get -y install kali-linux-web && apt-get purge</li>
   </ul>
   <li> Awesome docker repo: https://github.com/veggiemonk/awesome-docker </li>
   <li> OWASP Security Knowledge Framework: https://github.com/blabla1337/skf-flask <br>
-  <b>docker run -ti -p 127.0.0.1:443:5443 blabla1337/skf-flask</b>
+  <b>docker run -ti -p 127.0.0.1:443:5443 blabla1337/skf-flask</b></li>
+  <li>OWASP security Shepard: https://hub.docker.com/r/ismisepaul/securityshepherd/<br>
+  <b>docker run -i -p 80:80 -p 443:443 -t ismisepaul/securityshepherd /bin/bash
+/usr/bin/mysqld_safe &
+service tomcat7 start
+If you don't have authbind installed and configured on your host machine e.g. on Ubuntu you'll need to do the following;
+
+sudo apt-get install authbind   
+touch /etc/authbind/byport/80  
+touch /etc/authbind/byport/443  
+chmod 550 /etc/authbind/byport/80  
+chmod 550 /etc/authbind/byport/443  
+chown tomcat7 /etc/authbind/byport/80  
+chown tomcat7 /etc/authbind/byport/443</b></li>
 </ul>
 
 
