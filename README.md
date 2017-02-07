@@ -16,7 +16,7 @@
   </ul>
   <li> Awesome docker repo: https://github.com/veggiemonk/awesome-docker </li>
   <li> OWASP Security Knowledge Framework: https://github.com/blabla1337/skf-flask <br>
-       docker run -ti -p 127.0.0.1:443:5443 blabla1337/skf-flask
+  <b>docker run -ti -p 127.0.0.1:443:5443 blabla1337/skf-flask</b>
 </ul>
 
 
