@@ -37,6 +37,10 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>Malcious outlook rules: https://silentbreaksecurity.com/malicious-outlook-rules/ </li>
 </ul>
 
+<p2><b>Usefull Online Tools</b><p2>
+<li>Online packet Analyzer - http://packettotal.com/ </li>
+<li>https://gchq.github.io/CyberChef/</li>
+
 <p2><b>Password Lists</b></p2>
 <ul>
 <li>https://wiki.skullsecurity.org/index.php?title=Passwords</li>
