@@ -52,6 +52,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>OWASP - https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet</li>
 <li>Reddit - https://www.reddit.com/r/xss/</li>
 <li>Js payloads, great tutorials - http://www.xss-payloads.com/index.html</li>
+<li>Powerfull web tool for creating event based payloads - http://brutelogic.com.br/webgun/ </li>
 <li>Ultimate XSS protection Cheatsheet - https://xenotix.in/The%20Ultimate%20XSS%20Protection%20Cheat%20Sheet%20for%20Developers.pdf </li>
 <li>HTML5 attack Vectors - https://dl.packetstormsecurity.net/papers/attack/HTML5AttackVectors_RafayBaloch_UPDATED.pdf </li>
 </ul>
