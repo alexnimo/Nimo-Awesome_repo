@@ -6,7 +6,7 @@
 <li><b>Edit /etc/network/interfaces</b>
 auto {interface name}.{vlan id}
 iface {interface name}.{vlan id} inet static
-vlan-raw-device eth0
+vlan-raw-device eth0</li>
 </ul>
 
 
