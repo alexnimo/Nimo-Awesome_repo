@@ -3,9 +3,9 @@
 <li><b>sudo apt-get install vlan</b></li>
 <li><b>sudo modprobe 8021q</b></li>
 <li><b>sudo vconfig add {interface name} {vlan id}</b></li>
-<li>Edit /etc/network/interfaces
-auto {interface name}.{vlan id}
-iface {interface name}.{vlan id} inet static
+<li>Edit /etc/network/interfaces <br>
+auto {interface name}.{vlan id}<br>
+iface {interface name}.{vlan id} inet static<br>
 vlan-raw-device eth0</li>
 </ul>
 
