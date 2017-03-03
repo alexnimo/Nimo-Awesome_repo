@@ -35,6 +35,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <ul>
 <li>Bypass application whitelisting: http://www.blackhillsinfosec.com/?p=5633</li>
 <li>Malcious outlook rules: https://silentbreaksecurity.com/malicious-outlook-rules/ </li>
+<li>Great cheatsheets https://highon.coffee/blog/cheat-sheet/ </li>
 </ul>
 
 <p2><b>Usefull Online Tools</b><p2>
