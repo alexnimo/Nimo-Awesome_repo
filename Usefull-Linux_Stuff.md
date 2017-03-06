@@ -14,8 +14,8 @@ vlan-raw-device eth0</li>
 <li><b>apt-get install gnome-core kali-defaults kali-root-login desktop-base</b></li>
 <li>Set the resolution - <b>tightvncserver –geometry 1650x1280</b></li>
 <li><b>nano ~/.vnc/xstartup</b>
-#!/bin/sh
-
+#!/bin/sh</br>
+</br>
 # Uncomment the following two lines for normal desktop:
 unset SESSION_MANAGER
 # exec /etc/X11/xinit/xinitrc
