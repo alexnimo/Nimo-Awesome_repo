@@ -14,9 +14,9 @@ vlan-raw-device eth0</li>
 <li><b>apt-get install gnome-core kali-defaults kali-root-login desktop-base</b></li>
 <li>Set the resolution - <b>tightvncserver –geometry 1650x1280</b></li>
 <li><b>nano ~/.vnc/xstartup</b>
-/***
-#!/bin/sh
 
+#!/bin/sh
+s
 # Uncomment the following two lines for normal desktop:
 unset SESSION_MANAGER
 # exec /etc/X11/xinit/xinitrc
@@ -29,7 +29,6 @@ xsetroot -solid grey
 vncconfig -iconic &
 # x-terminal-emulator -geometry 80x24+10+10 -ls -title "$VNCDESKTOP Desktop" &
 # x-window-manager &
-/***
 </li>
 <li>Set the SSH tunnel using putty: <b>Connection-->SSH-->Tunnels--> 5901 AWS-Public-DNS(not the IP!):5901</b></li>
 
