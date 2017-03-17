@@ -1,6 +1,6 @@
 # Nimo-Awesome_repo
 
-<p2><b>Usefull Docker Images</b></p2>
+<p2><b><u>Usefull Docker Images</u></b></p2>
 <ul>
 <li>https://github.com/citizen-stig/dockermutillidae</li>
 <li>https://github.com/remotephone/dvwa-lamp</li>
@@ -38,9 +38,11 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>Great cheatsheets https://highon.coffee/blog/cheat-sheet/ </li>
 </ul>
 
-<p2><b>Usefull Online Tools</b><p2>
+<p2><b><u>Usefull Online Tools</u></b><p2>
 <li>Online packet Analyzer - http://packettotal.com/ </li>
 <li>https://gchq.github.io/CyberChef/</li>
+<li>Docker Image Analyzer - https://anchore.io/</li>
+<li>https://urlscan.io/</li>
 
 <p2><b>Password Lists</b></p2>
 <ul>
