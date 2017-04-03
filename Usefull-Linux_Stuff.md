@@ -32,8 +32,10 @@ vncconfig -iconic &</br>
 </ul>
 <li>Set the SSH tunnel using putty: <b>Connection-->SSH-->Tunnels--> 5901 AWS-Public-DNS(not the IP!):5901</b></li>
 Fix tab completion issue:
+<ul>
 <li>edit: <b>~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml</b></li>
 <li>Search for the following prepertity and unset it: &lt;property name="&lt;Super&gt;Tab" type="string" value="switch_window_key"/>'</br>
 &lt;property name="&lt;Super&gt;Tab" type="string" value="empty"/></li>
 <li>restart xfce or the server for the effect to take place</li>
+</ul>
 
