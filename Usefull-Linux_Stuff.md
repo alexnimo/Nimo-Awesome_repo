@@ -34,6 +34,6 @@ vncconfig -iconic &</br>
 Fix tab completion issue:
 <li>edit: <b>~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml</b></li>
 <li>Search for the following prepertity and unset it: &lt;property name="&lt;Super&gt;Tab" type="string" value="switch_window_key"/>'
-<property name="&lt;Super&gt;Tab" type="string" value="empty"/></li>
+&lt;property name="&lt;Super&gt;Tab" type="string" value="empty"/></li>
 <li>restart xfce or the server for the effect to take place</li>
 
