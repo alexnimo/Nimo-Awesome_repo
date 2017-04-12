@@ -1,11 +1,16 @@
 # Nimo-Awesome_repo
 
 <p2><b><u>Usefull Docker Images</u></b></p2>
-<ul><p1>Vulnerable Apps</p1>
+<ul><p1><b>Vulnerable Apps</b></p1>
 <li>https://github.com/citizen-stig/dockermutillidae</li>
 <li>https://hub.docker.com/r/opendns/security-ninjas/</li>
 <li>https://github.com/remotephone/dvwa-lamp</li>
+<li>https://hub.docker.com/r/ismisepaul/securityshepherd/</li>
+<li>https://hub.docker.com/r/danmx/docker-owasp-webgoat/</li>
+<li>https://github.com/bkimminich/juice-shop</li>
+<p1><b>Misc Docker</b></p1>
 <li>https://hub.docker.com/r/blacktop/cuckoo/    https://github.com/blacktop/docker-cuckoo </li>
+<li>Script to check docker security(CIS) - https://hub.docker.com/r/diogomonica/docker-bench-security/ </li>
 <li>https://hub.docker.com/r/ahannigan/docker-arachni/</li>
 <li>https://hub.docker.com/r/menzo/sn1per-docker/builds/bqez3h7hwfun4odgd2axvn4/</li>
 <li> Portainer - Docker manager - http://portainer.io/install.html</li>
