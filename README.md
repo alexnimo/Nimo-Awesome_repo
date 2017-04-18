@@ -21,6 +21,7 @@
   <ul style="list-style-type:circle">
   <li>apt-get -y install kali-linux-web && apt-get purge</li>
   </ul>
+  <li>Malware sample downloader - https://hub.docker.com/r/remnux/maltrieve/ </li>
   <li> Awesome docker repo: https://github.com/veggiemonk/awesome-docker </li>
   <li> OWASP Security Knowledge Framework: https://github.com/blabla1337/skf-flask <br>
   <b>docker run -ti -p 127.0.0.1:443:5443 blabla1337/skf-flask</b></li>
