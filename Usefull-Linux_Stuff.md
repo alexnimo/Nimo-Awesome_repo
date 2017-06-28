@@ -43,17 +43,17 @@ Fix tab completion issue:
 <ul>
 <li> Verify that you have all required tools</br>
 <b>sudo apt-get install python g++ make checkinstall fakeroot</b></li>
-# Create tmp dir and switch to it
-src=$(mktemp -d) && cd $src
-# Download the latest version of Node
-wget -N http://nodejs.org/dist/node-latest.tar.gz
-# Extract the content of the tar file
-tar xzvf node-latest.tar.gz && cd node-v*
-# Run configuration
-./configure
-# Create .deb for Node
-sudo fakeroot checkinstall -y --install=no --pkgversion $(echo $(pwd) | sed -n -re's/.+node-v(.+)$/\1/p') make -j$(($(nproc)+1)) install
-# Replace [node_*] with the name of the generated .deb package of the previous step
-sudo dpkg -i node_*
+<li>Create tmp dir and switch to it</br>
+<b>src=$(mktemp -d) && cd $src</b></li>
+<li> Download the latest version of Node</br>
+<b>wget -N http://nodejs.org/dist/node-latest.tar.gz<b></li>
+<li>Extract the content of the tar file</br>
+<b>tar xzvf node-latest.tar.gz && cd node-v*</b></li>
+<li> Run configuration</br>
+<b>./configure</b></li>
+<li>Create .deb for Node</br>
+<b>sudo fakeroot checkinstall -y --install=no --pkgversion $(echo $(pwd) | sed -n -re's/.+node-v(.+)$/\1/p') make -j$(($(nproc)+1)) install</b></li>
+<li> Replace [node_*] with the name of the generated .deb package of the previous step</br>
+<b>sudo dpkg -i node_*</b></li>
 </ul>
 
