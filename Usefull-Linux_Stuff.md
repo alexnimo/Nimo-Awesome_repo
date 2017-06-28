@@ -41,8 +41,8 @@ Fix tab completion issue:
 
 <b><u>Install Node.js on Linux</b></u>
 <ul>
-# Verify that you have all required tools
-sudo apt-get install python g++ make checkinstall fakeroot
+<li> Verify that you have all required tools
+sudo apt-get install python g++ make checkinstall fakeroot</li>
 # Create tmp dir and switch to it
 src=$(mktemp -d) && cd $src
 # Download the latest version of Node
