@@ -45,6 +45,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>Malcious outlook rules: https://silentbreaksecurity.com/malicious-outlook-rules/ </li>
 <li>Great cheatsheets https://highon.coffee/blog/cheat-sheet/ </li>
 <li>Headless Browseres https://github.com/dhamaniasad/HeadlessBrowsers </li>
+  <li> rockNSM(IDS) installation notes from SANS https://isc.sans.edu/diary/rss/22832 </li>
 </ul>
 
 <p2><b><u>Usefull Online Tools</u></b><p2>
