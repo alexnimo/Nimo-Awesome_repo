@@ -70,3 +70,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>Ultimate XSS protection Cheatsheet - https://xenotix.in/The%20Ultimate%20XSS%20Protection%20Cheat%20Sheet%20for%20Developers.pdf </li>
 <li>HTML5 attack Vectors - https://dl.packetstormsecurity.net/papers/attack/HTML5AttackVectors_RafayBaloch_UPDATED.pdf </li>
 </ul>
+
+| Test command | Somehting here |
+| --- | --- |
+| 'bla bla bla command' | something here |
+| 'short command' | short integer 'True' |
