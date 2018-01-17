@@ -60,6 +60,10 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>https://wiki.skullsecurity.org/index.php?title=Passwords</li>
 </ul>
 
+<p2><b><u>Stress Test</u></b><p2>
+<li>https://loader.io/</li>
+<li>https://a.blazemeter.com/app/sign-in</li>
+
 <p2><b>XSS Resources</b></p2>
 <ul>
 <li>HTML5 - http://html5sec.org/</li>
