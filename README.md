@@ -56,6 +56,10 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>https://github.com/uber-common/metta </li>
   <li> SANS HELK Part 1: https://isc.sans.edu/forums/diary/Threat+Hunting+Adversary+Emulation+The+HELK+vs+APTSimulator+Part+1/23525/ </li>
   <li> SANS HELK Part 2: https://isc.sans.edu/forums/diary/Threat+Hunting+Adversary+Emulation+The+HELK+vs+APTSimulator+Part+2/23529/ </li>
+  <li> https://github.com/mitre/caldera </li>
+  <li> Infection Monkey: https://github.com/guardicore/monkey  </li>
+  <li> https://github.com/alphasoc/flightsim </li>
+  <li> Blue Team Training Kit: https://www.bt3.no/  </li>
 </ul>
 <p2><b><u>Usefull Online Tools</u></b><p2>
 <li>Online packet Analyzer - http://packettotal.com/ </li>
