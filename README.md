@@ -45,10 +45,18 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>Malcious outlook rules: https://silentbreaksecurity.com/malicious-outlook-rules/ </li>
 <li>Great cheatsheets https://highon.coffee/blog/cheat-sheet/ </li>
 <li>Headless Browseres https://github.com/dhamaniasad/HeadlessBrowsers </li>
-  <li> rockNSM(IDS) installation notes from SANS https://isc.sans.edu/diary/rss/22832 </li>
   <li> Linode Linux useful IP commands: https://www.linode.com/docs/networking/linux-static-ip-configuration </li>
 </ul>
 
+<p2><b><u>Usefull Threat Hunting</u></b></p2>
+<ul>
+ <li> rockNSM(IDS) installation notes from SANS: https://isc.sans.edu/diary/rss/22832 </li>
+  <li>https://github.com/NextronSystems/APTSimulator</li>
+  <li>https://github.com/redcanaryco/atomic-red-team </li>
+  <li>https://github.com/uber-common/metta </li>
+  <li> SANS HELK Part 1: https://isc.sans.edu/forums/diary/Threat+Hunting+Adversary+Emulation+The+HELK+vs+APTSimulator+Part+1/23525/ </li>
+  <li> SANS HELK Part 2: https://isc.sans.edu/forums/diary/Threat+Hunting+Adversary+Emulation+The+HELK+vs+APTSimulator+Part+2/23529/ </li>
+</ul>
 <p2><b><u>Usefull Online Tools</u></b><p2>
 <li>Online packet Analyzer - http://packettotal.com/ </li>
 <li>https://gchq.github.io/CyberChef/</li>
