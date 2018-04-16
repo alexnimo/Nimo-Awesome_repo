@@ -48,7 +48,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li> Linode Linux useful IP commands: https://www.linode.com/docs/networking/linux-static-ip-configuration </li>
 </ul>
 
-<p2><b><u>Usefull Threat Hunting</u></b></p2>
+<p2><b><u>Threat Hunting</u></b></p2>
 <ul>
  <li> rockNSM(IDS) installation notes from SANS: https://isc.sans.edu/diary/rss/22832 </li>
   <li>https://github.com/NextronSystems/APTSimulator</li>
@@ -62,11 +62,12 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li> Blue Team Training Kit: https://www.bt3.no/  </li>
   <li> Ultimate AppLocker Bypass List: https://github.com/api0cradle/UltimateAppLockerByPassList/blob/master/README.md</li>
 </ul>
-<p2><b><u>Usefull Online Tools</u></b><p2>
+<p2><b><u>Online Tools</u></b><p2>
 <li>Online packet Analyzer - http://packettotal.com/ </li>
-<li>https://gchq.github.io/CyberChef/</li>
-<li>Docker Image Analyzer - https://anchore.io/</li>
-<li>https://urlscan.io/</li>
+<li>CyberChef: https://gchq.github.io/CyberChef/</li>
+<li>Docker Image Analyzer: https://anchore.io/</li>
+<li>URL Scanner / Sandbox: https://urlscan.io/</li>
+<li>Explain Shell Commands: https://explainshell.com/ </li>
 
 <p2><b>Password Lists</b></p2>
 <ul>
