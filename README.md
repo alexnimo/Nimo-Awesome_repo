@@ -67,7 +67,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>CyberChef: https://gchq.github.io/CyberChef/</li>
 <li>Docker Image Analyzer: https://anchore.io/</li>
 <li>URL Scanner / Sandbox: https://urlscan.io/</li>
-<li>Phish IO: https://app.phish.ai/#/scan_url </li>
+<li>Phish IA: https://app.phish.ai/#/scan_url </li>
 <li>Explain Shell Commands: https://explainshell.com/ </li>
 
 <p2><b>Password Lists</b></p2>
