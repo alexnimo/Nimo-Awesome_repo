@@ -71,6 +71,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>URL Scanner / Sandbox: https://urlscan.io/</li>
 <li>Phish IA: https://app.phish.ai/#/scan_url </li>
 <li>Explain Shell Commands: https://explainshell.com/ </li>
+<li>HTML/CSS/JS interactive Cheatsheet: http://htmlcheatsheet.com/ </li>
 
 <p2><b>Password Lists</b></p2>
 <ul>
