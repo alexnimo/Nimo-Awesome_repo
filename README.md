@@ -61,7 +61,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     <li>APTSimulator: https://github.com/NextronSystems/APTSimulator</li>
   <li>atomic-red-team: https://github.com/redcanaryco/atomic-red-team </li
   <li>Network Flight Simulator: https://github.com/alphasoc/flightsim </li>
-  <li> Blue Team Training Kit: [a(href='https://www.bt3.no/', target='_blank')  </li>
+  <li> Blue Team Training Kit: #[a(href='https://www.bt3.no/', target='_blank')]  </li>
   <li> Ultimate AppLocker Bypass List: https://github.com/api0cradle/UltimateAppLockerByPassList/blob/master/README.md</li>
 </ul>
 <p2><b><u>Online Tools</u></b><p2>
