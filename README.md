@@ -69,6 +69,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>CyberChef: https://gchq.github.io/CyberChef/</li>
 <li>Docker Image Analyzer: https://anchore.io/</li>
 <li>URL Scanner / Sandbox: https://urlscan.io/</li>
+<li>Steve Gibson Shields UP / UPNP Exposure Test: https://www.grc.com/x/ne.dll?rh1dkyd2 </li>
 <li>Phish IA: https://app.phish.ai/#/scan_url </li>
 <li>Explain Shell Commands: https://explainshell.com/ </li>
 <li>HTML/CSS/JS interactive Cheatsheet: http://htmlcheatsheet.com/</li>
