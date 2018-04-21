@@ -57,7 +57,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li> SANS HELK Part 2: https://isc.sans.edu/forums/diary/Threat+Hunting+Adversary+Emulation+The+HELK+vs+APTSimulator+Part+2/23529/ </li>
   <li>unfetter: https://github.com/unfetter-analytic/unfetter </li>
   <li> CALDERA: https://github.com/mitre/caldera </li>
-  <li> Infection Monkey: https://github.com/guardicore/monkey  https://www.guardicore.com/infectionmonkey/</li>
+  <li> Infection Monkey: https://github.com/guardicore/monkey || https://www.guardicore.com/infectionmonkey/</li>
     <li>APTSimulator: https://github.com/NextronSystems/APTSimulator</li>
   <li>atomic-red-team: https://github.com/redcanaryco/atomic-red-team </li
   <li>Network Flight Simulator: https://github.com/alphasoc/flightsim </li>
