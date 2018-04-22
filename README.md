@@ -39,13 +39,14 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 </ul>
 
 
-<p2><b>Usefull Links</b></p2>
+<p2><b>Misc Usefull Stuff</b></p2>
 <ul>
 <li>Bypass application whitelisting: http://www.blackhillsinfosec.com/?p=5633</li>
 <li>Malcious outlook rules: https://silentbreaksecurity.com/malicious-outlook-rules/ </li>
 <li>Great cheatsheets https://highon.coffee/blog/cheat-sheet/ </li>
 <li>Headless Browseres https://github.com/dhamaniasad/HeadlessBrowsers </li>
   <li> Linode Linux useful IP commands: https://www.linode.com/docs/networking/linux-static-ip-configuration </li>
+  <li>netdata - system for distributed real-time performance and health monitoring: https://github.com/firehol/netdata </li>
 </ul>
 
 <p2><b><u>Threat Hunting</u></b></p2>
@@ -55,13 +56,17 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>https://github.com/uber-common/metta </li>
   <li> SANS HELK Part 1: https://isc.sans.edu/forums/diary/Threat+Hunting+Adversary+Emulation+The+HELK+vs+APTSimulator+Part+1/23525/ </li>
   <li> SANS HELK Part 2: https://isc.sans.edu/forums/diary/Threat+Hunting+Adversary+Emulation+The+HELK+vs+APTSimulator+Part+2/23529/ </li>
+  <li> Endgame Malware BEnchmark for Research (ember): https://github.com/endgameinc/ember </li>
   <li>unfetter: https://github.com/unfetter-analytic/unfetter </li>
   <li> CALDERA: https://github.com/mitre/caldera </li>
   <li> Infection Monkey: https://github.com/guardicore/monkey || https://www.guardicore.com/infectionmonkey/</li>
     <li>APTSimulator: https://github.com/NextronSystems/APTSimulator</li>
   <li>atomic-red-team: https://github.com/redcanaryco/atomic-red-team </li
   <li>Network Flight Simulator: https://github.com/alphasoc/flightsim </li>
-  <li> Blue Team Training Kit: #[a(href='https://www.bt3.no/', target='_blank')]  </li>
+  <li> Blue Team Training Kit: https://www.bt3.no/ </li>
+  <li>pwnJS: https://github.com/theori-io/pwnjs </li>
+  <li>Fancy Bear - flatl1ne repo: https://github.com/FlatL1neAPT </li>
+  <li>portspoof: https://github.com/drk1wi/portspoof </li>
   <li> Ultimate AppLocker Bypass List: https://github.com/api0cradle/UltimateAppLockerByPassList/blob/master/README.md</li>
 </ul>
 <p2><b><u>Online Tools</u></b><p2>
@@ -71,18 +76,23 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>URL Scanner / Sandbox: https://urlscan.io/</li>
 <li>Steve Gibson Shields UP / UPNP Exposure Test: https://www.grc.com/x/ne.dll?rh1dkyd2 </li>
 <li>Phish IA: https://app.phish.ai/#/scan_url </li>
+<li>Mozilla Observatory: https://observatory.mozilla.org/ </li>
+<li>Qualys SSL Labs Server Test: https://www.ssllabs.com/ssltest/ </li>
+<li>Qualys SSL Labs Browser Test: https://www.ssllabs.com/ssltest/viewMyClient.html </li>
 <li>Explain Shell Commands: https://explainshell.com/ </li>
 <li>HTML/CSS/JS interactive Cheatsheet: http://htmlcheatsheet.com/</li>
+<li>Misc HTML tools: https://hreftools.com/ </li>
 
 <p2><b>Password Lists</b></p2>
 <ul>
 <li>https://wiki.skullsecurity.org/index.php?title=Passwords</li>
 </ul>
 
-<p2><b><u>Stress Test</u></b><p2>
+<p2><b><u>Stress Test / Web Traffic Simulation</u></b><p2>
 <li>https://loader.io/</li>
 <li>https://a.blazemeter.com/app/sign-in</li>
 <li>https://artillery.io/</li>
+<li> NodeJS Test Cafe: https://devexpress.github.io/testcafe/ </li>
 
 <p2><b>XSS Resources</b></p2>
 <ul>
