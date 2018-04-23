@@ -1,8 +1,8 @@
 # Nimo-Awesome_repo
 
 <p2><b><u>Usefull Docker Images</u></b></p2>
-<ul><p1><b>Vulnerable Apps</b></p1>
-<li>https://github.com/citizen-stig/dockermutillidae</li>
+<ul class="category-list"><p1><b>Vulnerable Apps</b></p1>
+<li class="item">https://github.com/citizen-stig/dockermutillidae</li>
 <li>https://hub.docker.com/r/opendns/security-ninjas/</li>
 <li>https://github.com/remotephone/dvwa-lamp</li>
 <li>https://hub.docker.com/r/ismisepaul/securityshepherd/</li>
@@ -112,8 +112,3 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 | --- | --- |
 | 'bla bla bla command' | something here |
 | 'short command' | short integer 'True' |
-
-<form>
-  <label for="email"> Email address </label>
-  <input type="form-control" type="email" id="email">
-  </form>
