@@ -112,3 +112,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 | --- | --- |
 | 'bla bla bla command' | something here |
 | 'short command' | short integer 'True' |
+
+<form>
+  <label for="email"> Email address </label>
+  <input type="form-control" type="email" id="email">
+  </form>
