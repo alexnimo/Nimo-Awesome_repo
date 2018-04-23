@@ -67,6 +67,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li> Blue Team Training Kit: https://www.bt3.no/ </li>
   <li>pwnJS: https://github.com/theori-io/pwnjs </li>
   <li>Fancy Bear - flatl1ne repo: https://github.com/FlatL1neAPT </li>
+  <li>Sensepost Data exfiltration Toolkit(DET): https://github.com/sensepost/DET </li>
+  <li>Pyexfil: https://github.com/ytisf/PyExfil </li>
   <li>portspoof: https://github.com/drk1wi/portspoof </li>
   <li> Ultimate AppLocker Bypass List: https://github.com/api0cradle/UltimateAppLockerByPassList/blob/master/README.md</li>
 </ul>
