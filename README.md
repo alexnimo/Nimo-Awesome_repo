@@ -51,6 +51,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 
 <p2><b><u>Threat Hunting</u></b></p2>
 <ul>
+  <li>Hunt for C&C channels using bro and rita: https://www.blackhillsinfosec.com/how-to-hunt-command-and-control-channels-using-bro-ids-and-rita/ </li>
  <li> rockNSM(IDS) installation notes from SANS: https://isc.sans.edu/diary/rss/22832 </li>
 
   <li>https://github.com/uber-common/metta </li>
