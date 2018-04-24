@@ -67,6 +67,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     <li>APTSimulator: https://github.com/NextronSystems/APTSimulator</li>
   <li>atomic-red-team: https://github.com/redcanaryco/atomic-red-team </li>
   <li>Network Flight Simulator: https://github.com/alphasoc/flightsim </li>
+  <li>Redhunt - Virtual Machine for Adversary Emulation and Threat Hunting: https://github.com/redhuntlabs/RedHunt-OS </li>
   <li> Blue Team Training Kit: https://www.bt3.no/ </li>
   <li> DNSCAT2: https://github.com/iagox86/dnscat2 </li>
   <li>pwnJS: https://github.com/theori-io/pwnjs </li>
@@ -75,6 +76,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Pyexfil: https://github.com/ytisf/PyExfil </li>
   <li>portspoof: https://github.com/drk1wi/portspoof </li>
   <li> Ultimate AppLocker Bypass List: https://github.com/api0cradle/UltimateAppLockerByPassList/blob/master/README.md</li>
+  <li>List of binaries and scripts that can be used for other purposes than they are designed to: https://github.com/api0cradle/LOLBAS </li>
 </ul>
 <p2><b><u>Online Tools</u></b><p2>
 <li>Online packet Analyzer - http://packettotal.com/ </li>
