@@ -65,9 +65,10 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li> CALDERA: https://github.com/mitre/caldera </li>
   <li> Infection Monkey: https://github.com/guardicore/monkey || https://www.guardicore.com/infectionmonkey/</li>
     <li>APTSimulator: https://github.com/NextronSystems/APTSimulator</li>
-  <li>atomic-red-team: https://github.com/redcanaryco/atomic-red-team </li
+  <li>atomic-red-team: https://github.com/redcanaryco/atomic-red-team </li>
   <li>Network Flight Simulator: https://github.com/alphasoc/flightsim </li>
   <li> Blue Team Training Kit: https://www.bt3.no/ </li>
+  <li> DNSCAT2: https://github.com/iagox86/dnscat2 </li>
   <li>pwnJS: https://github.com/theori-io/pwnjs </li>
   <li>Fancy Bear - flatl1ne repo: https://github.com/FlatL1neAPT </li>
   <li>Sensepost Data exfiltration Toolkit(DET): https://github.com/sensepost/DET </li>
