@@ -56,7 +56,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   
   
  <li> rockNSM(IDS) installation notes from SANS: https://isc.sans.edu/diary/rss/22832 </li>
-
+<li>DTAG(T-Pot creators) https://github.com/dtag-dev-sec </li>
   <li>https://github.com/uber-common/metta </li>
   <li> SANS HELK Part 1: https://isc.sans.edu/forums/diary/Threat+Hunting+Adversary+Emulation+The+HELK+vs+APTSimulator+Part+1/23525/ </li>
   <li> SANS HELK Part 2: https://isc.sans.edu/forums/diary/Threat+Hunting+Adversary+Emulation+The+HELK+vs+APTSimulator+Part+2/23529/ </li>
@@ -66,11 +66,14 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li> Infection Monkey: https://github.com/guardicore/monkey || https://www.guardicore.com/infectionmonkey/</li>
     <li>APTSimulator: https://github.com/NextronSystems/APTSimulator</li>
   <li>atomic-red-team: https://github.com/redcanaryco/atomic-red-team </li>
+  <li>Red Team Automation(RTA): https://github.com/endgameinc/RTA </li>
   <li>Network Flight Simulator: https://github.com/alphasoc/flightsim </li>
   <li>Redhunt - Virtual Machine for Adversary Emulation and Threat Hunting: https://github.com/redhuntlabs/RedHunt-OS </li>
   <li> Blue Team Training Kit: https://www.bt3.no/ </li>
   <li> DNSCAT2: https://github.com/iagox86/dnscat2 </li>
   <li>pwnJS: https://github.com/theori-io/pwnjs </li>
+  <li>SpookFlare: https://github.com/hlldz/SpookFlare </li>
+  <li>DoxuCannon: https://github.com/audibleblink/doxycannon </li>
   <li>Fancy Bear - flatl1ne repo: https://github.com/FlatL1neAPT </li>
   <li>Sensepost Data exfiltration Toolkit(DET): https://github.com/sensepost/DET </li>
   <li>Pyexfil: https://github.com/ytisf/PyExfil </li>
