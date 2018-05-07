@@ -1,6 +1,6 @@
 # Nimo-Awesome_repo
 
-<p2><b><u>Usefull Docker Images</u></b></p2>
+<h2><b><u>Usefull Docker Images</u></b></h2>
 <ul><p1><b>Vulnerable Apps</b></p1>
 <li>https://github.com/citizen-stig/dockermutillidae</li>
 <li>https://hub.docker.com/r/opendns/security-ninjas/</li>
@@ -49,19 +49,15 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>netdata - system for distributed real-time performance and health monitoring: https://github.com/firehol/netdata </li>
 </ul>
 
-<p2><b><u>Threat Hunting</u></b></p2>
-<ul>
-  <li>Hunt for C&C channels using bro and rita: https://www.blackhillsinfosec.com/how-to-hunt-command-and-control-channels-using-bro-ids-and-rita/ </li>
-  <li>sqrrl hunting email headers: https://sqrrl.com/hunting-email-headers/?utm_source=hs_email&utm_medium=email&utm_content=57387063&_hsenc=p2ANqtz-_PrKGdn4tPttGcvrdPzUazcpHci98ldPOXBJPNG3MssLSS9Ch1xwHq7p6Kq-5NiUlLnTBBasLoM1WT8zUdpLEnKGeFAA&_hsmi=57386424 </li>
-  
-  
- <li> rockNSM(IDS) installation notes from SANS: https://isc.sans.edu/diary/rss/22832 </li>
-<li>DTAG(T-Pot creators) https://github.com/dtag-dev-sec </li>
-  <li>https://github.com/uber-common/metta </li>
+<h2><strong><u>Threat Hunting && Simulation</u></strong></h2>
+
+  <h3><b>Adversary/Threat Simulation</b></h3>
+  <ul>
+    <p3>
+    <span>
+   <li>Uber metta: https://github.com/uber-common/metta </li>
   <li> SANS HELK Part 1: https://isc.sans.edu/forums/diary/Threat+Hunting+Adversary+Emulation+The+HELK+vs+APTSimulator+Part+1/23525/ </li>
-  <li> SANS HELK Part 2: https://isc.sans.edu/forums/diary/Threat+Hunting+Adversary+Emulation+The+HELK+vs+APTSimulator+Part+2/23529/ </li>
-  <li> Endgame Malware BEnchmark for Research (ember): https://github.com/endgameinc/ember </li>
-  <li>unfetter: https://github.com/unfetter-analytic/unfetter </li>
+  <li> SANS HELK Part 2: <font size="1"> https://isc.sans.edu/forums/diary/Threat+Hunting+Adversary+Emulation+The+HELK+vs+APTSimulator+Part+2/23529/ </font></li>
   <li> CALDERA: https://github.com/mitre/caldera </li>
   <li> Infection Monkey: https://github.com/guardicore/monkey || https://www.guardicore.com/infectionmonkey/</li>
     <li>APTSimulator: https://github.com/NextronSystems/APTSimulator</li>
@@ -70,9 +66,34 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Network Flight Simulator: https://github.com/alphasoc/flightsim </li>
   <li>Redhunt - Virtual Machine for Adversary Emulation and Threat Hunting: https://github.com/redhuntlabs/RedHunt-OS </li>
   <li> Blue Team Training Kit: https://www.bt3.no/ </li>
+    </span>
+  </p3>
+  </ul>
+  <h3><b>Payloads</b></h3>
+    <ul>
+      <p3>
+        <span>
+   <li>The Axer - Automatic msfvenom payload generator: https://github.com/ceh-tn/The-Axer </li>
+            <li>pwnJS - JS payloads: https://github.com/theori-io/pwnjs </li>
+            <li>SpookFlare: https://github.com/hlldz/SpookFlare </li>
+      </span>
+     </p3>
+          </ul>
+          <ul>
+  
+  <li>Hunt for C&C channels using bro and rita: https://www.blackhillsinfosec.com/how-to-hunt-command-and-control-channels-using-bro-ids-and-rita/ </li>
+  <li>sqrrl hunting email headers: https://sqrrl.com/hunting-email-headers/?utm_source=hs_email&utm_medium=email&utm_content=57387063&_hsenc=p2ANqtz-_PrKGdn4tPttGcvrdPzUazcpHci98ldPOXBJPNG3MssLSS9Ch1xwHq7p6Kq-5NiUlLnTBBasLoM1WT8zUdpLEnKGeFAA&_hsmi=57386424 </li>
+  
+  
+ <li> rockNSM(IDS) installation notes from SANS: https://isc.sans.edu/diary/rss/22832 </li>
+<li>DTAG(T-Pot creators) https://github.com/dtag-dev-sec </li>
+ 
+  <li> Endgame Malware BEnchmark for Research (ember): https://github.com/endgameinc/ember </li>
+  <li>unfetter: https://github.com/unfetter-analytic/unfetter </li>
+  
   <li> DNSCAT2: https://github.com/iagox86/dnscat2 </li>
-  <li>pwnJS: https://github.com/theori-io/pwnjs </li>
-  <li>SpookFlare: https://github.com/hlldz/SpookFlare </li>
+
+
   <li>DoxuCannon: https://github.com/audibleblink/doxycannon </li>
   <li>Fancy Bear - flatl1ne repo: https://github.com/FlatL1neAPT </li>
   <li>Sensepost Data exfiltration Toolkit(DET): https://github.com/sensepost/DET </li>
