@@ -76,9 +76,22 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
    <li>The Axer - Automatic msfvenom payload generator: https://github.com/ceh-tn/The-Axer </li>
             <li>pwnJS - JS payloads: https://github.com/theori-io/pwnjs </li>
             <li>SpookFlare: https://github.com/hlldz/SpookFlare </li>
+          <li>Sharpshooter - payload creation framework for the retrieval and execution of arbitrary CSharp source code: https://www.mdsec.co.uk/2018/03/payload-generation-using-sharpshooter/ || https://github.com/mdsecactivebreach/SharpShooter </li>
+          <li>CACTUSTORCH - A JavaScript and VBScript shellcode launcher: https://github.com/mdsecactivebreach/CACTUSTORCH </li>
+          <li>DotNetToJScript - A tool to generate a JScript which bootstraps an arbitrary .NET Assembly and class: https://github.com/tyranid/DotNetToJScript </li>
+          <li> 
       </span>
      </p3>
           </ul>
+            <h3><b>Stealthy Communicatin / Covert Channel</b></h3>
+    <ul>
+      <p3>
+        <span>
+          <li>PowerDNS: https://www.mdsec.co.uk/2017/07/powershell-dns-delivery-with-powerdns/ || https://github.com/mdsecactivebreach/PowerDNS </li>
+          <li> </li>
+          </p3>
+        </span>
+ 
           <ul>
   
   <li>Hunt for C&C channels using bro and rita: https://www.blackhillsinfosec.com/how-to-hunt-command-and-control-channels-using-bro-ids-and-rita/ </li>
