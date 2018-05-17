@@ -110,9 +110,10 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 
  
   <li> Endgame Malware BEnchmark for Research (ember): https://github.com/endgameinc/ember </li>
+  </ul>
 
   
-              <h3><b>Blue Teams - Honeypots / IDS / Traps</b></h3>
+       <h3><b>Blue Teams - Honeypots / IDS / Traps</b></h3>
     <ul>
       <p3>
         <span>
