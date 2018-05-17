@@ -7,8 +7,9 @@
 <li>https://github.com/remotephone/dvwa-lamp</li>
 <li>https://hub.docker.com/r/ismisepaul/securityshepherd/</li>
 <li>https://hub.docker.com/r/danmx/docker-owasp-webgoat/</li>
-<li>https://github.com/bkimminich/juice-shop</li><br>
+<li>https://github.com/bkimminich/juice-shop</li>
   <li>https://github.com/payatu/Tiredful-API</li>
+  <br>
 <p1 class="lead"><b>Misc Docker</b></p1>
 <li>https://hub.docker.com/r/blacktop/cuckoo/    https://github.com/blacktop/docker-cuckoo </li>
 <li>Script to check docker security(CIS) - https://hub.docker.com/r/diogomonica/docker-bench-security/ </li>
