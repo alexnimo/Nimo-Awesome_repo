@@ -81,6 +81,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Sharpshooter - payload creation framework for the retrieval and execution of arbitrary CSharp source code: https://www.mdsec.co.uk/2018/03/payload-generation-using-sharpshooter/ || https://github.com/mdsecactivebreach/SharpShooter </li>
           <li>CACTUSTORCH - A JavaScript and VBScript shellcode launcher: https://github.com/mdsecactivebreach/CACTUSTORCH </li>
           <li>DotNetToJScript - A tool to generate a JScript which bootstraps an arbitrary .NET Assembly and class: https://github.com/tyranid/DotNetToJScript </li>
+            <li>Fancy Bear - flatl1ne repo: https://github.com/FlatL1neAPT </li>
           <li> 
       </span>
      </p3>
@@ -93,6 +94,9 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Demiguise - generate .html files that contain an encrypted HTA: file:https://github.com/nccgroup/demiguise </li>
           <li>EmbedInHTML - Embed and hide any file in HTML: https://github.com/Arno0x/EmbedInHTML </li>
             <li> DNSCAT2: https://github.com/iagox86/dnscat2 </li>
+            <li>Sensepost Data exfiltration Toolkit(DET): https://github.com/sensepost/DET </li>
+  <li>Pyexfil: https://github.com/ytisf/PyExfil </li>
+            <li>DoxuCannon: https://github.com/audibleblink/doxycannon </li>
           </p3>
         </span>
  </ul>
@@ -116,15 +120,18 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>DTAG(T-Pot creators) https://github.com/dtag-dev-sec </li>
           <li> rockNSM(IDS) installation notes from SANS: https://isc.sans.edu/diary/rss/22832 </li>
             <li>unfetter: https://github.com/unfetter-analytic/unfetter </li>
+             <li>portspoof: https://github.com/drk1wi/portspoof </li>
+            </span>
+            </p3>
+            </ul>
           
           
 
 
-  <li>DoxuCannon: https://github.com/audibleblink/doxycannon </li>
-  <li>Fancy Bear - flatl1ne repo: https://github.com/FlatL1neAPT </li>
-  <li>Sensepost Data exfiltration Toolkit(DET): https://github.com/sensepost/DET </li>
-  <li>Pyexfil: https://github.com/ytisf/PyExfil </li>
-  <li>portspoof: https://github.com/drk1wi/portspoof </li>
+
+
+
+ 
   <li> Ultimate AppLocker Bypass List: https://github.com/api0cradle/UltimateAppLockerByPassList/blob/master/README.md</li>
   <li>List of binaries and scripts that can be used for other purposes than they are designed to: https://github.com/api0cradle/LOLBAS </li>
 </ul>
