@@ -92,6 +92,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>PowerDNS: https://www.mdsec.co.uk/2017/07/powershell-dns-delivery-with-powerdns/ || https://github.com/mdsecactivebreach/PowerDNS </li>
           <li>Demiguise - generate .html files that contain an encrypted HTA: file:https://github.com/nccgroup/demiguise </li>
           <li>EmbedInHTML - Embed and hide any file in HTML: https://github.com/Arno0x/EmbedInHTML </li>
+            <li> DNSCAT2: https://github.com/iagox86/dnscat2 </li>
           </p3>
         </span>
  </ul>
@@ -101,13 +102,22 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>sqrrl hunting email headers: https://sqrrl.com/hunting-email-headers/?utm_source=hs_email&utm_medium=email&utm_content=57387063&_hsenc=p2ANqtz-_PrKGdn4tPttGcvrdPzUazcpHci98ldPOXBJPNG3MssLSS9Ch1xwHq7p6Kq-5NiUlLnTBBasLoM1WT8zUdpLEnKGeFAA&_hsmi=57386424 </li>
   
   
- <li> rockNSM(IDS) installation notes from SANS: https://isc.sans.edu/diary/rss/22832 </li>
-<li>DTAG(T-Pot creators) https://github.com/dtag-dev-sec </li>
+ 
+
  
   <li> Endgame Malware BEnchmark for Research (ember): https://github.com/endgameinc/ember </li>
-  <li>unfetter: https://github.com/unfetter-analytic/unfetter </li>
+
   
-  <li> DNSCAT2: https://github.com/iagox86/dnscat2 </li>
+              <h3><b>Blue Teams - Honeypots / IDS / Traps</b></h3>
+    <ul>
+      <p3>
+        <span>
+          <li>honeybits - spread breadcrumbs & honeytokens: https://github.com/0x4D31/honeybits</li>
+          <li>DTAG(T-Pot creators) https://github.com/dtag-dev-sec </li>
+          <li> rockNSM(IDS) installation notes from SANS: https://isc.sans.edu/diary/rss/22832 </li>
+            <li>unfetter: https://github.com/unfetter-analytic/unfetter </li>
+          
+          
 
 
   <li>DoxuCannon: https://github.com/audibleblink/doxycannon </li>
