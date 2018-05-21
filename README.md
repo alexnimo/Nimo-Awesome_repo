@@ -49,6 +49,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>Headless Browseres https://github.com/dhamaniasad/HeadlessBrowsers </li>
   <li> Linode Linux useful IP commands: https://www.linode.com/docs/networking/linux-static-ip-configuration </li>
   <li>netdata - system for distributed real-time performance and health monitoring: https://github.com/firehol/netdata </li>
+  <li>yamot - Yet Another Monitoring Tool: https://github.com/knrdl/yamot</li>
 </ul>
 
 <h2><strong><u>Threat Hunting && Simulation</u></strong></h2>
@@ -71,7 +72,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     </span>
   </p3>
   </ul>
-  <h3><b>Payloads</b></h3>
+  <h3><b>Payloads / RATS</b></h3>
     <ul>
       <p3>
         <span>
@@ -82,7 +83,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>CACTUSTORCH - A JavaScript and VBScript shellcode launcher: https://github.com/mdsecactivebreach/CACTUSTORCH </li>
           <li>DotNetToJScript - A tool to generate a JScript which bootstraps an arbitrary .NET Assembly and class: https://github.com/tyranid/DotNetToJScript </li>
             <li>Fancy Bear - flatl1ne repo: https://github.com/FlatL1neAPT </li>
-          <li> 
+          <li>ShellPop - generate easy and sofisticated reverse or bind shell commands: https://github.com/0x00-0x00/ShellPop</li>
+          <li>Vayne-Rat - C# RAT: https://github.com/TheM4hd1/Vayne-RaT</li>
       </span>
      </p3>
           </ul>
@@ -97,6 +99,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
             <li>Sensepost Data exfiltration Toolkit(DET): https://github.com/sensepost/DET </li>
   <li>Pyexfil: https://github.com/ytisf/PyExfil </li>
             <li>DoxuCannon: https://github.com/audibleblink/doxycannon </li>
+          <li>Grok-backdoor: https://github.com/deepzec/Grok-backdoor </li>
           </p3>
         </span>
  </ul>
