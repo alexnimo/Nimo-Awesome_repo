@@ -107,15 +107,9 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   
   <li>Hunt for C&C channels using bro and rita: https://www.blackhillsinfosec.com/how-to-hunt-command-and-control-channels-using-bro-ids-and-rita/ </li>
   <li>sqrrl hunting email headers: https://sqrrl.com/hunting-email-headers/?utm_source=hs_email&utm_medium=email&utm_content=57387063&_hsenc=p2ANqtz-_PrKGdn4tPttGcvrdPzUazcpHci98ldPOXBJPNG3MssLSS9Ch1xwHq7p6Kq-5NiUlLnTBBasLoM1WT8zUdpLEnKGeFAA&_hsmi=57386424 </li>
-  
-  
- 
-
- 
   <li> Endgame Malware BEnchmark for Research (ember): https://github.com/endgameinc/ember </li>
   </ul>
-
-  
+  <br>
        <h3><b>Blue Teams - Honeypots / IDS / Traps</b></h3>
     <ul>
       <p3>
