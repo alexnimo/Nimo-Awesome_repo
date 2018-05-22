@@ -103,7 +103,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           </p3>
         </span>
  </ul>
-          <br>
+     
   <h3><b>Post Exploitation</b></h3>
   <ul>
     <p3>
@@ -111,7 +111,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <il>PowerLurk - PowerShell toolset for building malicious WMI Event Subsriptions: https://github.com/Sw4mpf0x/PowerLurk</li>
       </span>
   </p3>
-  </ul><br>
+  </ul>
   <h3><b>AIO Tools / Frameworks</b></h3>
   <ul>
     <p3>
