@@ -108,7 +108,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <ul>
     <p3>
     <span>
-      <il>PowerLurk - PowerShell toolset for building malicious WMI Event Subsriptions: https://github.com/Sw4mpf0x/PowerLurk</li>
+      <li>PowerLurk - PowerShell toolset for building malicious WMI Event Subsriptions: https://github.com/Sw4mpf0x/PowerLurk</li>
       </span>
   </p3>
   </ul>
@@ -121,17 +121,18 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       </span>
   </p3>
   </ul><br>
-  <h3><b>Hunting Guides</b></h3>
+  <h3><b>Hunting Guides / MISC</b></h3>
   <ul>
   <p3>
     <span>
   <li>Hunt for C&C channels using bro and rita: https://www.blackhillsinfosec.com/how-to-hunt-command-and-control-channels-using-bro-ids-and-rita/ </li>
   <li>sqrrl hunting email headers: https://sqrrl.com/hunting-email-headers/?utm_source=hs_email&utm_medium=email&utm_content=57387063&_hsenc=p2ANqtz-_PrKGdn4tPttGcvrdPzUazcpHci98ldPOXBJPNG3MssLSS9Ch1xwHq7p6Kq-5NiUlLnTBBasLoM1WT8zUdpLEnKGeFAA&_hsmi=57386424 </li>
+      <li> Ultimate AppLocker Bypass List: https://github.com/api0cradle/UltimateAppLockerByPassList/blob/master/README.md</li>
+       <li>List of binaries and scripts that can be used for other purposes than they are designed to: https://github.com/api0cradle/LOLBAS </li>
   <li> Endgame Malware BEnchmark for Research (ember): https://github.com/endgameinc/ember </li>
     </span>
   </p3>
   </ul>
-  <br>
        <h3><b>Blue Teams - Honeypots / IDS / Traps</b></h3>
     <ul>
       <p3>
@@ -143,18 +144,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
              <li>portspoof: https://github.com/drk1wi/portspoof </li>
             </span>
             </p3>
-            </ul>
+            </ul><br>
           
-          
-
-
-
-
-
- 
-  <li> Ultimate AppLocker Bypass List: https://github.com/api0cradle/UltimateAppLockerByPassList/blob/master/README.md</li>
-  <li>List of binaries and scripts that can be used for other purposes than they are designed to: https://github.com/api0cradle/LOLBAS </li>
-</ul>
 <p2><b><u>Online Tools</u></b><p2>
 <li>Online packet Analyzer - http://packettotal.com/ </li>
 <li>CyberChef: https://gchq.github.io/CyberChef/</li>
