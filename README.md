@@ -88,7 +88,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       </span>
      </p3>
           </ul>
-            <h3><b>Stealthy Communicatin / Covert Channel</b></h3>
+            <h3><b>Stealthy Communication / Covert Channel</b></h3>
     <ul>
       <p3>
         <span>
@@ -103,11 +103,33 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           </p3>
         </span>
  </ul>
-          <ul>
-  
+          <br>
+  <h3><b>Post Exploitation</b></h3>
+  <ul>
+    <p3>
+    <span>
+      <il>PowerLurk - PowerShell toolset for building malicious WMI Event Subsriptions: https://github.com/Sw4mpf0x/PowerLurk</li>
+      </span>
+  </p3>
+  </ul><br>
+  <h3><b>AIO Tools / Frameworks</b></h3>
+  <ul>
+    <p3>
+    <span>
+      <li>PowerSploit - A PowerShell Post-Exploitation Framework: https://github.com/PowerShellMafia/PowerSploit </li>
+      <li>Empire: https://www.powershellempire.com/ </li>
+      </span>
+  </p3>
+  </ul><br>
+  <h3><b>Hunting Guides</b></h3>
+  <ul>
+  <p3>
+    <span>
   <li>Hunt for C&C channels using bro and rita: https://www.blackhillsinfosec.com/how-to-hunt-command-and-control-channels-using-bro-ids-and-rita/ </li>
   <li>sqrrl hunting email headers: https://sqrrl.com/hunting-email-headers/?utm_source=hs_email&utm_medium=email&utm_content=57387063&_hsenc=p2ANqtz-_PrKGdn4tPttGcvrdPzUazcpHci98ldPOXBJPNG3MssLSS9Ch1xwHq7p6Kq-5NiUlLnTBBasLoM1WT8zUdpLEnKGeFAA&_hsmi=57386424 </li>
   <li> Endgame Malware BEnchmark for Research (ember): https://github.com/endgameinc/ember </li>
+    </span>
+  </p3>
   </ul>
   <br>
        <h3><b>Blue Teams - Honeypots / IDS / Traps</b></h3>
