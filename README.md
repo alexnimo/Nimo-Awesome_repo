@@ -142,6 +142,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li> rockNSM(IDS) installation notes from SANS: https://isc.sans.edu/diary/rss/22832 </li>
             <li>unfetter: https://github.com/unfetter-analytic/unfetter </li>
              <li>portspoof: https://github.com/drk1wi/portspoof </li>
+          <li>GeoLogonalyzer - a utility to perform location and metadata lookups on source IP addresses of remote access logs: https://github.com/fireeye/GeoLogonalyzer </li>
             </span>
             </p3>
             </ul><br>
@@ -170,6 +171,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>https://a.blazemeter.com/app/sign-in</li>
 <li>https://artillery.io/</li>
 <li> NodeJS Test Cafe: https://devexpress.github.io/testcafe/ </li>
+<li>Google puppeteer(headless chrome): https://github.com/GoogleChrome/puppeteer</li>
 
 <p2><b>XSS Resources</b></p2>
 <ul>
