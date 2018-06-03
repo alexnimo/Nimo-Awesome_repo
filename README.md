@@ -118,6 +118,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     <span>
       <li>PowerSploit - A PowerShell Post-Exploitation Framework: https://github.com/PowerShellMafia/PowerSploit </li>
       <li>Empire: https://www.powershellempire.com/ </li>
+      <li>Empire GUI: https://github.com/EmpireProject/Empire-GUI </li>
       </span>
   </p3>
   </ul><br>
