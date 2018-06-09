@@ -146,6 +146,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
             <li>unfetter: https://github.com/unfetter-analytic/unfetter </li>
              <li>portspoof: https://github.com/drk1wi/portspoof </li>
           <li>GeoLogonalyzer - a utility to perform location and metadata lookups on source IP addresses of remote access logs: https://github.com/fireeye/GeoLogonalyzer </li>
+          <li>Dejavu - open source deception framework which can be used to deploys deploy multiple interactive decoys: https://github.com/bhdresh/Dejavu</li>
             </span>
             </p3>
             </ul><br>
