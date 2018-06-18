@@ -39,6 +39,7 @@ chmod 550 /etc/authbind/byport/443  <br>
 chown tomcat7 /etc/authbind/byport/80  <br> 
 chown tomcat7 /etc/authbind/byport/443</b></li>
 </ul>
+<li>Whaler - reverse engineer a Docker Image into the Dockerfile: https://github.com/P3GLEG/Whaler</li>
 
 
 <p2><b>Misc Usefull Stuff</b></p2>
@@ -164,6 +165,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>Explain Shell Commands: https://explainshell.com/ </li>
 <li>HTML/CSS/JS interactive Cheatsheet: http://htmlcheatsheet.com/</li>
 <li>Misc HTML tools: https://hreftools.com/ </li>
+  <li>Search for open source repositories on github, gitlab, and bitbucket: https://www.bithublab.org/<li/>
 
 <p2><b>Password Lists</b></p2>
 <ul>
