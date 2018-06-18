@@ -9,6 +9,7 @@
 <li>https://hub.docker.com/r/danmx/docker-owasp-webgoat/</li>
 <li>https://github.com/bkimminich/juice-shop</li>
   <li>https://github.com/payatu/Tiredful-API</li>
+  <li>jackhammer - One Security vulnerability assessment/management tool: https://github.com/olacabs/jackhammer/blob/master/docker-build.sh</li>
   <br>
 <p1 class="lead"><b>Misc Docker</b></p1>
 <li>https://hub.docker.com/r/blacktop/cuckoo/    https://github.com/blacktop/docker-cuckoo </li>
@@ -86,6 +87,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
             <li>Fancy Bear - flatl1ne repo: https://github.com/FlatL1neAPT </li>
           <li>ShellPop - generate easy and sofisticated reverse or bind shell commands: https://github.com/0x00-0x00/ShellPop</li>
           <li>Vayne-Rat - C# RAT: https://github.com/TheM4hd1/Vayne-RaT</li>
+          <li>avet - AntiVirus Evasion Tool: https://github.com/govolution/avet</li>
       </span>
      </p3>
           </ul>
@@ -101,6 +103,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Pyexfil: https://github.com/ytisf/PyExfil </li>
             <li>DoxuCannon: https://github.com/audibleblink/doxycannon </li>
           <li>Grok-backdoor: https://github.com/deepzec/Grok-backdoor </li>
+          <li>foxtrot C2 - C&C to deliver content and shuttle command execution instructions: https://github.com/dsnezhkov/foxtrot</li>
           </p3>
         </span>
  </ul>
@@ -125,7 +128,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       </span>
   </p3>
   </ul><br>
-  <h3><b>Hunting Guides / MISC</b></h3>
+  <h3><b>Hunting Guides / Forensics / MISC</b></h3>
   <ul>
   <p3>
     <span>
@@ -134,6 +137,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li> Ultimate AppLocker Bypass List: https://github.com/api0cradle/UltimateAppLockerByPassList/blob/master/README.md</li>
        <li>List of binaries and scripts that can be used for other purposes than they are designed to: https://github.com/api0cradle/LOLBAS </li>
   <li> Endgame Malware BEnchmark for Research (ember): https://github.com/endgameinc/ember </li>
+      <li>snake - malware storage, centralised and unified storage solution for malicious samples: https://github.com/countercept/snake</li>
     </span>
   </p3>
   </ul>
