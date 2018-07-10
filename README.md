@@ -170,6 +170,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>HTML/CSS/JS interactive Cheatsheet: http://htmlcheatsheet.com/</li>
 <li>Misc HTML tools: https://hreftools.com/ </li>
   <li>Search for open source repositories on github, gitlab, and bitbucket: https://www.bithublab.org/<li/>
+  <li>dnstwister - domain name permutation engine: https://dnstwister.report/ </li>
 
 <p2><b>Password Lists</b></p2>
 <ul>
