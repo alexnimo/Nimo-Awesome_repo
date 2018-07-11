@@ -139,6 +139,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
        <li>List of binaries and scripts that can be used for other purposes than they are designed to: https://github.com/api0cradle/LOLBAS </li>
   <li> Endgame Malware BEnchmark for Research (ember): https://github.com/endgameinc/ember </li>
       <li>snake - malware storage, centralised and unified storage solution for malicious samples: https://github.com/countercept/snake</li>
+      <li>rastrea2r - multi-platform open source tool that allows incident responders and SOC analysts to triage suspect systems and hunt for Indicators of Compromise (IOCs): https://github.com/rastrea2r/rastrea2r </li>
     </span>
   </p3>
   </ul>
