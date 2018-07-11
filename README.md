@@ -88,6 +88,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>ShellPop - generate easy and sofisticated reverse or bind shell commands: https://github.com/0x00-0x00/ShellPop</li>
           <li>Vayne-Rat - C# RAT: https://github.com/TheM4hd1/Vayne-RaT</li>
           <li>avet - AntiVirus Evasion Tool: https://github.com/govolution/avet</li>
+          <li>ph0neutria - malware zoo builder that sources samples straight from the wild: https://github.com/phage-nz/ph0neutria</li>
       </span>
      </p3>
           </ul>
