@@ -89,6 +89,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Vayne-Rat - C# RAT: https://github.com/TheM4hd1/Vayne-RaT</li>
           <li>avet - AntiVirus Evasion Tool: https://github.com/govolution/avet</li>
           <li>ph0neutria - malware zoo builder that sources samples straight from the wild: https://github.com/phage-nz/ph0neutria</li>
+          <li>GreatSCT - tool designed to generate metasploit payloads that bypass common anti-virus solutions and application whitelisting solutions: https://github.com/GreatSCT/GreatSCT</li>
       </span>
      </p3>
           </ul>
