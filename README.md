@@ -14,6 +14,8 @@
 <p1 class="lead"><b>Misc Docker</b></p1>
 <li>https://hub.docker.com/r/blacktop/cuckoo/    https://github.com/blacktop/docker-cuckoo </li>
 <li>Script to check docker security(CIS) - https://hub.docker.com/r/diogomonica/docker-bench-security/ </li>
+  <li>clair - static analysis of vulnerabilities in application containers: https://github.com/coreos/clair</li>
+  <li>anchore - centralized service for inspection, analysis and certification of container images: https://github.com/anchore/anchore-engine</li>
 <li>https://hub.docker.com/r/ahannigan/docker-arachni/</li>
 <li>https://hub.docker.com/r/menzo/sn1per-docker/builds/bqez3h7hwfun4odgd2axvn4/</li>
 <li> Portainer - Docker manager - http://portainer.io/install.html</li>
