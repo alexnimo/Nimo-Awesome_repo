@@ -10,6 +10,7 @@
 <li>https://github.com/bkimminich/juice-shop</li>
   <li>https://github.com/payatu/Tiredful-API</li>
   <li>jackhammer - One Security vulnerability assessment/management tool: https://github.com/olacabs/jackhammer/blob/master/docker-build.sh</li>
+ <li>owtf - Offensive Web Testing Framework: https://github.com/owtf/owtf/tree/develop/docker</li>
   <br>
 <p1 class="lead"><b>Misc Docker</b></p1>
 <li>https://hub.docker.com/r/blacktop/cuckoo/    https://github.com/blacktop/docker-cuckoo </li>
@@ -73,7 +74,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Network Flight Simulator: https://github.com/alphasoc/flightsim </li>
   <li>Redhunt - Virtual Machine for Adversary Emulation and Threat Hunting: https://github.com/redhuntlabs/RedHunt-OS </li>
   <li> Blue Team Training Kit: https://www.bt3.no/ </li>
-    </span>
+    <li>blackeye - Phishing Tool, with 32 templates: https://github.com/thelinuxchoice/blackeye</li>
+</span>
   </p3>
   </ul>
   <h3><b>Payloads / RATS</b></h3>
@@ -92,6 +94,9 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>avet - AntiVirus Evasion Tool: https://github.com/govolution/avet</li>
           <li>ph0neutria - malware zoo builder that sources samples straight from the wild: https://github.com/phage-nz/ph0neutria</li>
           <li>GreatSCT - tool designed to generate metasploit payloads that bypass common anti-virus solutions and application whitelisting solutions: https://github.com/GreatSCT/GreatSCT</li>
+          <li>ASWCrypter - An Bash&Python Script For Generating Payloads that Bypasses Antivirus: https://github.com/AbedAlqaderSwedan1/ASWCrypter </li>
+        <li>WePWNise - generates architecture independent VBA code to be used in Office documents or templates and automates bypassing application control and exploit mitigation software: https://github.com/mwrlabs/wePWNise </li>
+      <li></li>  
       </span>
      </p3>
           </ul>
