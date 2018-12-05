@@ -16,6 +16,7 @@
 <li>https://hub.docker.com/r/blacktop/cuckoo/    https://github.com/blacktop/docker-cuckoo </li>
 <li>Script to check docker security(CIS) - https://hub.docker.com/r/diogomonica/docker-bench-security/ </li>
   <li>clair - static analysis of vulnerabilities in application containers: https://github.com/coreos/clair</li>
+  <li>WebMap - A Web Dashbord for Nmap XML Report: https://github.com/Rev3rseSecurity/WebMap/tree/v2.1/master/docker</li>
   <li>anchore - centralized service for inspection, analysis and certification of container images: https://github.com/anchore/anchore-engine</li>
 <li>https://hub.docker.com/r/ahannigan/docker-arachni/</li>
 <li>https://hub.docker.com/r/menzo/sn1per-docker/builds/bqez3h7hwfun4odgd2axvn4/</li>
@@ -75,6 +76,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Redhunt - Virtual Machine for Adversary Emulation and Threat Hunting: https://github.com/redhuntlabs/RedHunt-OS </li>
   <li> Blue Team Training Kit: https://www.bt3.no/ </li>
     <li>blackeye - Phishing Tool, with 32 templates: https://github.com/thelinuxchoice/blackeye</li>
+    <li>Phishing-API: https://github.com/curtbraz/Phishing-API</li>
 </span>
   </p3>
   </ul>
@@ -97,7 +99,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>ASWCrypter - An Bash&Python Script For Generating Payloads that Bypasses Antivirus: https://github.com/AbedAlqaderSwedan1/ASWCrypter </li>
         <li>WePWNise - generates architecture independent VBA code to be used in Office documents or templates and automates bypassing application control and exploit mitigation software: https://github.com/mwrlabs/wePWNise </li>
       <li>BYOB - is an open-source project that provides a framework for security researchers and developers to build and operate a basic botnet to deepen their understanding of the sophisticated malware that infects millions of devices every year and spawns modern botnets:
-          https://github.com/malwaredllc/byob </li>  
+          https://github.com/malwaredllc/byob </li> 
+          <li>Androspy - Backdoor Crypter & Creator with Automatic IP Poisener: https://github.com/TunisianEagles/Androspy </li>
       </span>
      </p3>
           </ul>
@@ -114,6 +117,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
             <li>DoxuCannon: https://github.com/audibleblink/doxycannon </li>
           <li>Grok-backdoor: https://github.com/deepzec/Grok-backdoor </li>
           <li>foxtrot C2 - C&C to deliver content and shuttle command execution instructions: https://github.com/dsnezhkov/foxtrot</li>
+          <li>Invisi-Shell - bypasses all of Powershell security features (ScriptBlock logging, Module logging, Transcription, AMSI) by hooking .Net assemblies: https://github.com/OmerYa/Invisi-Shell</li>
           </p3>
         </span>
  </ul>
@@ -127,6 +131,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>phpsploit - a remote control framework, aiming to provide a stealth interactive shell-like connection over HTTP between client and web server: https://github.com/nil0x42/phpsploit</li>
       <li>PE-Linux - Linux Privilege Escalation Tool: https://github.com/WazeHell/PE-Linux</li>
       <li>bad-Pdf - reate malicious PDF to steal NTLM(NTLMv1/NTLMv2) Hashes from windows machines: https://github.com/deepzec/Bad-Pdf</li>
+      <li>novahot - webshell framework for penetration testers: https://github.com/chrisallenlane/novahot</li>
       </span>
   </p3>
   </ul>
