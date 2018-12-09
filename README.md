@@ -118,6 +118,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Grok-backdoor: https://github.com/deepzec/Grok-backdoor </li>
           <li>foxtrot C2 - C&C to deliver content and shuttle command execution instructions: https://github.com/dsnezhkov/foxtrot</li>
           <li>Invisi-Shell - bypasses all of Powershell security features (ScriptBlock logging, Module logging, Transcription, AMSI) by hooking .Net assemblies: https://github.com/OmerYa/Invisi-Shell</li>
+          <li>SILENTTRINITY: https://github.com/byt3bl33d3r/SILENTTRINITY </li>
           </p3>
         </span>
  </ul>
@@ -191,8 +192,15 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>Explain Shell Commands: https://explainshell.com/ </li>
 <li>HTML/CSS/JS interactive Cheatsheet: http://htmlcheatsheet.com/</li>
 <li>Misc HTML tools: https://hreftools.com/ </li>
-  <li>Search for open source repositories on github, gitlab, and bitbucket: https://www.bithublab.org/<li/>
+<li>JSfiddle: https://jsfiddle.net/ </li>
+  <li>Search for open source repositories on github, gitlab, and bitbucket: https://www.bithublab.org/</li>
+  <li>Python Regex tester: https://pythex.org/ </li>
   <li>dnstwister - domain name permutation engine: https://dnstwister.report/ </li>
+
+  <p2><b><u>API Stuff</u></b><p2>
+  <li>Postman Cheatsheet: https://postman-quick-reference-guide.readthedocs.io/en/latest/index.html </li>
+  <li>explore-with-postman: https://github.com/ambertests/explore-with-postman</li>
+  <li>All CheatSheets: http://overapi.com/ <li>
 
 <p2><b>Password Lists</b></p2>
 <ul>
