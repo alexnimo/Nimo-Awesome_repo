@@ -200,6 +200,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <p2><b><u>API Stuff</u></b><p2>
   <li>Postman Cheatsheet: https://postman-quick-reference-guide.readthedocs.io/en/latest/index.html </li>
   <li>explore-with-postman: https://github.com/ambertests/explore-with-postman</li>
+  <li>Loops with Postman: https://thisendout.com/2017/02/22/loops-dynamic-variables-postman-pt2/</li>
   <li>All CheatSheets: http://overapi.com/ <li>
 
 <p2><b>Password Lists</b></p2>
