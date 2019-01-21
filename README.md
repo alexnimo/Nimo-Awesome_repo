@@ -53,9 +53,10 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>Malcious outlook rules: https://silentbreaksecurity.com/malicious-outlook-rules/ </li>
 <li>Great cheatsheets https://highon.coffee/blog/cheat-sheet/ </li>
 <li>Headless Browseres https://github.com/dhamaniasad/HeadlessBrowsers </li>
-  <li> Linode Linux useful IP commands: https://www.linode.com/docs/networking/linux-static-ip-configuration </li>
+  <li>Linode Linux useful IP commands: https://www.linode.com/docs/networking/linux-static-ip-configuration </li>
   <li>netdata - system for distributed real-time performance and health monitoring: https://github.com/firehol/netdata </li>
   <li>yamot - Yet Another Monitoring Tool: https://github.com/knrdl/yamot</li>
+  <li>NSIS (Nullsoft Scriptable Install System) is a professional open source system to create Windows installers: https://sourceforge.net/projects/nsis/</li>
 </ul>
 
 <h2><strong><u>Threat Hunting && Simulation</u></strong></h2>
@@ -75,6 +76,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Network Flight Simulator: https://github.com/alphasoc/flightsim </li>
   <li>Redhunt - Virtual Machine for Adversary Emulation and Threat Hunting: https://github.com/redhuntlabs/RedHunt-OS </li>
   <li> Blue Team Training Kit: https://www.bt3.no/ </li>
+  <li>UBoat - POC HTTP Botnet designed to replicate a full weaponised commercial botnet: https://github.com/Souhardya/UBoat</li>
 
 </span>
   </p3>
@@ -213,6 +215,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Postman Cheatsheet: https://postman-quick-reference-guide.readthedocs.io/en/latest/index.html </li>
   <li>explore-with-postman: https://github.com/ambertests/explore-with-postman</li>
   <li>Great collection of examples: https://github.com/DannyDainton</li>
+  <li>Test automation university: https://testautomationu.applitools.com/Automation </li>
   <li>Loops with Postman: https://thisendout.com/2017/02/22/loops-dynamic-variables-postman-pt2/</li>
   <li>All CheatSheets: http://overapi.com/ <li>
 
@@ -227,19 +230,16 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>https://artillery.io/</li>
 <li> NodeJS Test Cafe: https://devexpress.github.io/testcafe/ </li>
 <li>Google puppeteer(headless chrome): https://github.com/GoogleChrome/puppeteer</li>
+<li>GoldenEye - HTTP DoS Test Tool: https://github.com/jseidl/GoldenEye</li>
 
-<p2><b>XSS Resources</b></p2>
+<p2><b><u>XSS Resources</u></b></p2>
 <ul>
-<li>HTML5 - http://html5sec.org/</li>
-<li>OWASP - https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet</li>
-<li>Reddit - https://www.reddit.com/r/xss/</li>
-<li>Js payloads, great tutorials - http://www.xss-payloads.com/index.html</li>
-<li>Powerfull web tool for creating event based payloads - http://brutelogic.com.br/webgun/ </li>
-<li>Ultimate XSS protection Cheatsheet - https://xenotix.in/The%20Ultimate%20XSS%20Protection%20Cheat%20Sheet%20for%20Developers.pdf </li>
-<li>HTML5 attack Vectors - https://dl.packetstormsecurity.net/papers/attack/HTML5AttackVectors_RafayBaloch_UPDATED.pdf </li>
+<li>HTML5: http://html5sec.org/</li>
+<li>OWASP: https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet</li>
+<li>Reddit: https://www.reddit.com/r/xss/</li>
+<li>Js payloads, great tutorials: http://www.xss-payloads.com/index.html</li>
+<li>Powerfull web tool for creating event based payloads: http://brutelogic.com.br/webgun/ </li>
+<li>Ultimate XSS protection Cheatsheet: https://xenotix.in/The%20Ultimate%20XSS%20Protection%20Cheat%20Sheet%20for%20Developers.pdf </li>
+<li>HTML5 attack Vectors: https://dl.packetstormsecurity.net/papers/attack/HTML5AttackVectors_RafayBaloch_UPDATED.pdf </li>
+<li>XSS Vulnerability Payload List: https://github.com/ismailtasdelen/xss-payload-list</li>
 </ul>
-
-| Test command | Somehting here |
-| --- | --- |
-| 'bla bla bla command' | something here |
-| 'short command' | short integer 'True' |
