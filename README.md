@@ -75,8 +75,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Network Flight Simulator: https://github.com/alphasoc/flightsim </li>
   <li>Redhunt - Virtual Machine for Adversary Emulation and Threat Hunting: https://github.com/redhuntlabs/RedHunt-OS </li>
   <li> Blue Team Training Kit: https://www.bt3.no/ </li>
-    <li>blackeye - Phishing Tool, with 32 templates: https://github.com/thelinuxchoice/blackeye</li>
-    <li>Phishing-API: https://github.com/curtbraz/Phishing-API</li>
+
 </span>
   </p3>
   </ul>
@@ -136,6 +135,19 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       </span>
   </p3>
   </ul>
+  <h3><b>Social Engineering</b></h3>
+  <ul>
+    <p3>
+      <span>
+          <li>blackeye - Phishing Tool, with 32 templates: https://github.com/thelinuxchoice/blackeye</li>
+          <li>Phishing-API: https://github.com/curtbraz/Phishing-API</li>
+          <li>Social Phish - https://github.com/UndeadSec/SocialFish</li>
+          <li>Modlishka is a flexible and powerful reverse proxy, that will take your phishing campaigns to the next level: https://github.com/drk1wi/Modlishka</li>
+          <li>The Social-Engineer Toolkit: https://github.com/trustedsec/social-engineer-toolkit</li>
+      </span>
+    </p3>
+    </ul><br>
+
   <h3><b>AIO Tools / Frameworks</b></h3>
   <ul>
     <p3>
@@ -178,7 +190,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
             </span>
             </p3>
             </ul><br>
-          
+
 <p2><b><u>Online Tools</u></b><p2>
 <li>Online packet Analyzer - http://packettotal.com/ </li>
 <li>CyberChef: https://gchq.github.io/CyberChef/</li>
@@ -200,6 +212,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <p2><b><u>API Stuff</u></b><p2>
   <li>Postman Cheatsheet: https://postman-quick-reference-guide.readthedocs.io/en/latest/index.html </li>
   <li>explore-with-postman: https://github.com/ambertests/explore-with-postman</li>
+  <li>Great collection of examples: https://github.com/DannyDainton</li>
   <li>Loops with Postman: https://thisendout.com/2017/02/22/loops-dynamic-variables-postman-pt2/</li>
   <li>All CheatSheets: http://overapi.com/ <li>
 
