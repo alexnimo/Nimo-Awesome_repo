@@ -134,6 +134,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>PE-Linux - Linux Privilege Escalation Tool: https://github.com/WazeHell/PE-Linux</li>
       <li>bad-Pdf - reate malicious PDF to steal NTLM(NTLMv1/NTLMv2) Hashes from windows machines: https://github.com/deepzec/Bad-Pdf</li>
       <li>novahot - webshell framework for penetration testers: https://github.com/chrisallenlane/novahot</li>
+      <li>Windows-Exploit-Suggester - This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target: https://github.com/GDSSecurity/Windows-Exploit-Suggester</li>
       </span>
   </p3>
   </ul>
@@ -174,6 +175,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>rastrea2r - multi-platform open source tool that allows incident responders and SOC analysts to triage suspect systems and hunt for Indicators of Compromise (IOCs): https://github.com/rastrea2r/rastrea2r </li>
       <li>operative-framework-HD - digital investigation framework, you can interact with websites, email address, company, people, ip address,etc :https://github.com/graniet/operative-framework-HD</li>
       <li>THRecon - Collect endpoint information for use in incident response triage / threat hunting / live forensics: https://github.com/TonyPhipps/THRecon</li>
+    <li>Active Directory Kill Chain Attack & Defense: https://github.com/infosecn1nja/AD-Attack-Defense</li>
     </span>
   </p3>
   </ul>
@@ -207,6 +209,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>HTML/CSS/JS interactive Cheatsheet: http://htmlcheatsheet.com/</li>
 <li>Misc HTML tools: https://hreftools.com/ </li>
 <li>JSfiddle: https://jsfiddle.net/ </li>
+<li>social IDE: https://codepen.io/</li>
+<li>JS lint: https://jshint.com/</li>
   <li>Search for open source repositories on github, gitlab, and bitbucket: https://www.bithublab.org/</li>
   <li>Python Regex tester: https://pythex.org/ </li>
   <li>dnstwister - domain name permutation engine: https://dnstwister.report/ </li>
