@@ -12,6 +12,7 @@
   <li>jackhammer - One Security vulnerability assessment/management tool: https://github.com/olacabs/jackhammer/blob/master/docker-build.sh</li>
  <li>owtf - Offensive Web Testing Framework: https://github.com/owtf/owtf/tree/develop/docker</li>
   <br>
+
 <p1 class="lead"><b>Misc Docker</b></p1>
 <li>https://hub.docker.com/r/blacktop/cuckoo/    https://github.com/blacktop/docker-cuckoo </li>
 <li>Script to check docker security(CIS) - https://hub.docker.com/r/diogomonica/docker-bench-security/ </li>
@@ -45,6 +46,7 @@ chown tomcat7 /etc/authbind/byport/80  <br>
 chown tomcat7 /etc/authbind/byport/443</b></li>
 </ul>
 <li>Whaler - reverse engineer a Docker Image into the Dockerfile: https://github.com/P3GLEG/Whaler</li>
+<li>ntopng - https://github.com/lucaderi/ntopng-docker</li>
 
 
 <p2><b>Misc Usefull Stuff</b></p2>
@@ -102,6 +104,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>BYOB - is an open-source project that provides a framework for security researchers and developers to build and operate a basic botnet to deepen their understanding of the sophisticated malware that infects millions of devices every year and spawns modern botnets:
           https://github.com/malwaredllc/byob </li> 
           <li>Androspy - Backdoor Crypter & Creator with Automatic IP Poisener: https://github.com/TunisianEagles/Androspy </li>
+          <li>Phantom-Evasion - an interactive antivirus evasion tool written in python capable to generate (almost) FUD executable even with the most common 32 bit msfvenom payload (lower detection ratio with 64 bit payloads): https://github.com/oddcod3/Phantom-Evasion</li>
       </span>
      </p3>
           </ul>
@@ -226,6 +229,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <p2><b>Password Lists</b></p2>
 <ul>
 <li>https://wiki.skullsecurity.org/index.php?title=Passwords</li>
+<li>Seclists - https://github.com/danielmiessler/SecLists</li>
 </ul>
 
 <p2><b><u>Stress Test / Web Traffic Simulation</u></b><p2>
