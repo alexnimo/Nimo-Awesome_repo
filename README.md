@@ -11,6 +11,7 @@
   <li>https://github.com/payatu/Tiredful-API</li>
   <li>jackhammer - One Security vulnerability assessment/management tool: https://github.com/olacabs/jackhammer/blob/master/docker-build.sh</li>
  <li>owtf - Offensive Web Testing Framework: https://github.com/owtf/owtf/tree/develop/docker</li>
+ <li>docker-blackeye - container for running the phishing attack using Blackeye: https://github.com/vishnudxb/docker-blackeye </li>
   <br>
 
 <p1 class="lead"><b>Misc Docker</b></p1>
@@ -47,6 +48,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 </ul>
 <li>Whaler - reverse engineer a Docker Image into the Dockerfile: https://github.com/P3GLEG/Whaler</li>
 <li>ntopng - https://github.com/lucaderi/ntopng-docker</li>
+<li>goca - a FOCA fork written in Go: https://github.com/gocaio/goca</li>
 
 
 <p2><b>Misc Usefull Stuff</b></p2>
@@ -59,6 +61,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>netdata - system for distributed real-time performance and health monitoring: https://github.com/firehol/netdata </li>
   <li>yamot - Yet Another Monitoring Tool: https://github.com/knrdl/yamot</li>
   <li>NSIS (Nullsoft Scriptable Install System) is a professional open source system to create Windows installers: https://sourceforge.net/projects/nsis/</li>
+  <li>awesome-pentest: https://github.com/enaqx/awesome-pentest </li>
 </ul>
 
 <h2><strong><u>Threat Hunting && Simulation</u></strong></h2>
@@ -105,6 +108,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           https://github.com/malwaredllc/byob </li> 
           <li>Androspy - Backdoor Crypter & Creator with Automatic IP Poisener: https://github.com/TunisianEagles/Androspy </li>
           <li>Phantom-Evasion - an interactive antivirus evasion tool written in python capable to generate (almost) FUD executable even with the most common 32 bit msfvenom payload (lower detection ratio with 64 bit payloads): https://github.com/oddcod3/Phantom-Evasion</li>
+          <li>Kage - designed for Metasploit RPC Server to interact with meterpreter sessions and generate payloads: https://github.com/WayzDev/Kage </li>
+          <li>pypykatz_server - This is the server part of a server-agent model credential acquiring tool(mimikatz) based on pypykatz: https://github.com/skelsec/pypykatz_server</li>
       </span>
      </p3>
           </ul>
@@ -116,6 +121,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Demiguise - generate .html files that contain an encrypted HTA: file:https://github.com/nccgroup/demiguise </li>
           <li>EmbedInHTML - Embed and hide any file in HTML: https://github.com/Arno0x/EmbedInHTML </li>
             <li> DNSCAT2: https://github.com/iagox86/dnscat2 </li>
+            <li>DNS-Shell - an interactive Shell over DNS channel: https://github.com/sensepost/DNS-Shell</li>
             <li>Sensepost Data exfiltration Toolkit(DET): https://github.com/sensepost/DET </li>
   <li>Pyexfil: https://github.com/ytisf/PyExfil </li>
             <li>DoxuCannon: https://github.com/audibleblink/doxycannon </li>
@@ -123,6 +129,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>foxtrot C2 - C&C to deliver content and shuttle command execution instructions: https://github.com/dsnezhkov/foxtrot</li>
           <li>Invisi-Shell - bypasses all of Powershell security features (ScriptBlock logging, Module logging, Transcription, AMSI) by hooking .Net assemblies: https://github.com/OmerYa/Invisi-Shell</li>
           <li>SILENTTRINITY: https://github.com/byt3bl33d3r/SILENTTRINITY </li>
+          <li>PowerHub - A web application to transfer PowerShell modules, executables, snippets and files while bypassing AV and application whitelisting: https://github.com/AdrianVollmer/PowerHub</li>
           </p3>
         </span>
  </ul>
@@ -162,6 +169,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>Empire: https://www.powershellempire.com/ </li>
       <li>Empire GUI: https://github.com/EmpireProject/Empire-GUI </li>
       <li>One-Lin3r - consists of various one-liners that aids in penetration testing operations: https://github.com/D4Vinci/One-Lin3r</li>
+      <li>mad-metasploit - Metasploit custom modules, plugins, resource script: https://github.com/hahwul/mad-metasploit </li>
       </span>
   </p3>
   </ul><br>
