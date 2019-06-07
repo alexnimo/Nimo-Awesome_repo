@@ -12,6 +12,7 @@
   <li>jackhammer - One Security vulnerability assessment/management tool: https://github.com/olacabs/jackhammer/blob/master/docker-build.sh</li>
  <li>owtf - Offensive Web Testing Framework: https://github.com/owtf/owtf/tree/develop/docker</li>
  <li>docker-blackeye - container for running the phishing attack using Blackeye: https://github.com/vishnudxb/docker-blackeye </li>
+ <li>h8mail - Powerful and user-friendly password finder: https://github.com/khast3x/h8mail/blob/master/Dockerfile</li>
   <br>
 
 <p1 class="lead"><b>Misc Docker</b></p1>
@@ -130,6 +131,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Invisi-Shell - bypasses all of Powershell security features (ScriptBlock logging, Module logging, Transcription, AMSI) by hooking .Net assemblies: https://github.com/OmerYa/Invisi-Shell</li>
           <li>SILENTTRINITY: https://github.com/byt3bl33d3r/SILENTTRINITY </li>
           <li>PowerHub - A web application to transfer PowerShell modules, executables, snippets and files while bypassing AV and application whitelisting: https://github.com/AdrianVollmer/PowerHub</li>
+          <li>FruityC2 - post-exploitation framework based on the deployment of agents on compromised machines: https://github.com/xtr4nge/FruityC2</li>
+          <li>hershell - Simple TCP reverse shell written in Go: https://github.com/lesnuages/hershell</li>
           </p3>
         </span>
  </ul>
