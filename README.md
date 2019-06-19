@@ -13,6 +13,7 @@
  <li>owtf - Offensive Web Testing Framework: https://github.com/owtf/owtf/tree/develop/docker</li>
  <li>docker-blackeye - container for running the phishing attack using Blackeye: https://github.com/vishnudxb/docker-blackeye </li>
  <li>h8mail - Powerful and user-friendly password finder: https://github.com/khast3x/h8mail/blob/master/Dockerfile</li>
+ <li>Instatbox -  a project that spins up temporary Linux systems with instant webshell access from any browser: https://github.com/instantbox/instantbox/blob/master/Dockerfile</li>
   <br>
 
 <p1 class="lead"><b>Misc Docker</b></p1>
@@ -83,6 +84,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Redhunt - Virtual Machine for Adversary Emulation and Threat Hunting: https://github.com/redhuntlabs/RedHunt-OS </li>
   <li> Blue Team Training Kit: https://www.bt3.no/ </li>
   <li>UBoat - POC HTTP Botnet designed to replicate a full weaponised commercial botnet: https://github.com/Souhardya/UBoat</li>
+  <li>FireProx - FireProx leverages the AWS API Gateway to create pass-through proxies that rotate the source IP address with every request: https://github.com/ustayready/fireprox</li>
 
 </span>
   </p3>
@@ -111,6 +113,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Phantom-Evasion - an interactive antivirus evasion tool written in python capable to generate (almost) FUD executable even with the most common 32 bit msfvenom payload (lower detection ratio with 64 bit payloads): https://github.com/oddcod3/Phantom-Evasion</li>
           <li>Kage - designed for Metasploit RPC Server to interact with meterpreter sessions and generate payloads: https://github.com/WayzDev/Kage </li>
           <li>pypykatz_server - This is the server part of a server-agent model credential acquiring tool(mimikatz) based on pypykatz: https://github.com/skelsec/pypykatz_server</li>
+          <li>macro pack - a tool used to automatize obfuscation and generation of retro formats such as MS Office documents or VBS like format: https://github.com/sevagas/macro_pack </li>
+          <li>Evil Clippy - a cross-platform assistant for creating malicious MS Office documents: https://github.com/outflanknl/EvilClippy</li>
       </span>
      </p3>
           </ul>
@@ -133,6 +137,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>PowerHub - A web application to transfer PowerShell modules, executables, snippets and files while bypassing AV and application whitelisting: https://github.com/AdrianVollmer/PowerHub</li>
           <li>FruityC2 - post-exploitation framework based on the deployment of agents on compromised machines: https://github.com/xtr4nge/FruityC2</li>
           <li>hershell - Simple TCP reverse shell written in Go: https://github.com/lesnuages/hershell</li>
+          <li>Reverse Shell Cheat Sheet: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md </li>
+          <li>Silver - a general purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS: https://github.com/BishopFox/sliver/blob/master/README.md </li>
           </p3>
         </span>
  </ul>
@@ -190,6 +196,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>operative-framework-HD - digital investigation framework, you can interact with websites, email address, company, people, ip address,etc :https://github.com/graniet/operative-framework-HD</li>
       <li>THRecon - Collect endpoint information for use in incident response triage / threat hunting / live forensics: https://github.com/TonyPhipps/THRecon</li>
     <li>Active Directory Kill Chain Attack & Defense: https://github.com/infosecn1nja/AD-Attack-Defense</li>
+    <li>Free Blocklists of Suspected Malicious IPs and URLs: https://zeltser.com/malicious-ip-blocklists/</li>
+    <li>Endgame event query language(EQL): https://github.com/endgameinc/eql/blob/master/README.md </li>
     </span>
   </p3>
   </ul>
@@ -205,6 +213,10 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>GeoLogonalyzer - a utility to perform location and metadata lookups on source IP addresses of remote access logs: https://github.com/fireeye/GeoLogonalyzer </li>
           <li>Dejavu - open source deception framework which can be used to deploys deploy multiple interactive decoys: https://github.com/bhdresh/Dejavu</li>
           <li>gravwell-community-edition: https://www.gravwell.io/blog/gravwell-community-edition</li>
+          <li>logz.io: https://logz.io/</li>
+          <li>SIEMonster: https://siemonster.com/</li>
+          <li>CyberSponse - community edtion: https://cybersponse.com/community-edition/</li>
+          <li>Dflabs - community edition: https://www.dflabs.com/incman-soar-community-edition/</li>
             </span>
             </p3>
             </ul><br>
@@ -224,6 +236,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>Misc HTML tools: https://hreftools.com/ </li>
 <li>JSfiddle: https://jsfiddle.net/ </li>
 <li>social IDE: https://codepen.io/</li>
+<li>json path finder: https://jsonpath.com/ </li>
+<li>repl.it - online Python compiler: https://repl.it/languages/Python%3F__s=ws9cqndijs3fipi6sacu</li>
 <li>JS lint: https://jshint.com/</li>
   <li>Search for open source repositories on github, gitlab, and bitbucket: https://www.bithublab.org/</li>
   <li>Python Regex tester: https://pythex.org/ </li>
@@ -236,6 +250,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Test automation university: https://testautomationu.applitools.com/Automation </li>
   <li>Loops with Postman: https://thisendout.com/2017/02/22/loops-dynamic-variables-postman-pt2/</li>
   <li>All CheatSheets: http://overapi.com/ <li>
+  <li>Hosted REST API: https://reqres.in/ </li>
+  
 
 <p2><b>Password Lists</b></p2>
 <ul>
