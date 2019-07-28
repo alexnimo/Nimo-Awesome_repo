@@ -139,6 +139,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>hershell - Simple TCP reverse shell written in Go: https://github.com/lesnuages/hershell</li>
           <li>Reverse Shell Cheat Sheet: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md </li>
           <li>Silver - a general purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS: https://github.com/BishopFox/sliver/blob/master/README.md </li>
+          <li>Slackor - A Golang implant that uses Slack as a command and control channel: https://github.com/Coalfire-Research/Slackor </li>
           </p3>
         </span>
  </ul>
@@ -154,6 +155,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>bad-Pdf - reate malicious PDF to steal NTLM(NTLMv1/NTLMv2) Hashes from windows machines: https://github.com/deepzec/Bad-Pdf</li>
       <li>novahot - webshell framework for penetration testers: https://github.com/chrisallenlane/novahot</li>
       <li>Windows-Exploit-Suggester - This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target: https://github.com/GDSSecurity/Windows-Exploit-Suggester</li>
+      <li>LOLBAS - Living Off The Land Binaries And Scripts - https://github.com/LOLBAS-Project/LOLBAS | https://lolbas-project.github.io/#</li>
+      <li>Koadic - COM Command & Control, is a Windows post-exploitation rootkit.Koadic does most of its operations using Windows Script Host (a.k.a. JScript/VBScript): https://github.com/zerosum0x0/koadic <li>
       </span>
   </p3>
   </ul>
@@ -198,6 +201,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     <li>Active Directory Kill Chain Attack & Defense: https://github.com/infosecn1nja/AD-Attack-Defense</li>
     <li>Free Blocklists of Suspected Malicious IPs and URLs: https://zeltser.com/malicious-ip-blocklists/</li>
     <li>Endgame event query language(EQL): https://github.com/endgameinc/eql/blob/master/README.md </li>
+    <li>Awesome YARA - curated list of awesome YARA rules, tools, and resources: https://github.com/InQuest/awesome-yara/blob/master/README.md </li>
     </span>
   </p3>
   </ul>
@@ -217,6 +221,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>SIEMonster: https://siemonster.com/</li>
           <li>CyberSponse - community edtion: https://cybersponse.com/community-edition/</li>
           <li>Dflabs - community edition: https://www.dflabs.com/incman-soar-community-edition/</li>
+          <li>Sigma - generic and open signature format that allows you to describe relevant log events in a straight forward manner: https://github.com/Neo23x0/sigma | https://github.com/socprime/SigmaUI </li>
+          <li>MozDef - The Mozilla Enterprise Defense Platform (MozDef) seeks to automate the security incident handling process and facilitate the real-time activities of incident handlers: https://github.com/mozilla/MozDef </li>
             </span>
             </p3>
             </ul><br>
