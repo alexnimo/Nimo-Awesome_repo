@@ -115,6 +115,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>pypykatz_server - This is the server part of a server-agent model credential acquiring tool(mimikatz) based on pypykatz: https://github.com/skelsec/pypykatz_server</li>
           <li>macro pack - a tool used to automatize obfuscation and generation of retro formats such as MS Office documents or VBS like format: https://github.com/sevagas/macro_pack </li>
           <li>Evil Clippy - a cross-platform assistant for creating malicious MS Office documents: https://github.com/outflanknl/EvilClippy</li>
+          <li>pixload - Set of tools for creating/injecting payload into images: https://github.com/chinarulezzz/pixload </li>
       </span>
      </p3>
           </ul>
@@ -140,6 +141,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Reverse Shell Cheat Sheet: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md </li>
           <li>Silver - a general purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS: https://github.com/BishopFox/sliver/blob/master/README.md </li>
           <li>Slackor - A Golang implant that uses Slack as a command and control channel: https://github.com/Coalfire-Research/Slackor </li>
+          <li>FudgeC2 - a campaign orientated Powershell C2 framework built on Python3/Flask - Designed for team collaboration, client interaction, campaign timelining, and usage visibility: https://github.com/Ziconius/FudgeC2 </li>
           </p3>
         </span>
  </ul>
@@ -157,6 +159,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>Windows-Exploit-Suggester - This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target: https://github.com/GDSSecurity/Windows-Exploit-Suggester</li>
       <li>LOLBAS - Living Off The Land Binaries And Scripts - https://github.com/LOLBAS-Project/LOLBAS | https://lolbas-project.github.io/#</li>
       <li>Koadic - COM Command & Control, is a Windows post-exploitation rootkit.Koadic does most of its operations using Windows Script Host (a.k.a. JScript/VBScript): https://github.com/zerosum0x0/koadic </li>
+      <li>0xsp-Mongoose - Linux Privilege Escalation intelligent Enumeration Toolkit: https://github.com/lawrenceamer/0xsp-Mongoose </li>
+      <li>wmigen - generate Batch, C, C++, C#, Delphi, F#, Java, JScript, KiXtart, Lua, Object Pascal, (Open) Object Rexx, Perl, PHP, PowerShell, Python, Ruby, Tcl, VB .NET or VBScript code for menu selected WMI queries: https://www.robvanderwoude.com/wmigen.php</li>
       </span>
   </p3>
   </ul>
@@ -169,6 +173,9 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Social Phish - https://github.com/UndeadSec/SocialFish</li>
           <li>Modlishka is a flexible and powerful reverse proxy, that will take your phishing campaigns to the next level: https://github.com/drk1wi/Modlishka</li>
           <li>The Social-Engineer Toolkit: https://github.com/trustedsec/social-engineer-toolkit</li>
+          <li>HiddenEye - Modern Phishing Tool With Advanced Functionality: https://github.com/DarkSecDevelopers/HiddenEye</li>
+          <li>o365-attack-toolkit - allows operators to perform an OAuth phishing attack and later on use the Microsoft Graph API to extract interesting information: https://github.com/mdsecactivebreach/o365-attack-toolkit</li>
+          <li>Phishing Simulation - mainly aims to increase phishing awareness by providing an intuitive tutorial and customized assessment: https://github.com/jenyraval/Phishing-Simulation</li>
       </span>
     </p3>
     </ul><br>
@@ -202,6 +209,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     <li>Free Blocklists of Suspected Malicious IPs and URLs: https://zeltser.com/malicious-ip-blocklists/</li>
     <li>Endgame event query language(EQL): https://github.com/endgameinc/eql/blob/master/README.md </li>
     <li>Awesome YARA - curated list of awesome YARA rules, tools, and resources: https://github.com/InQuest/awesome-yara/blob/master/README.md </li>
+    <li>DeepBlueCLI - PowerShell Module for Threat Hunting via Windows Event Logs: https://github.com/sans-blue-team/DeepBlueCLI </li>
     </span>
   </p3>
   </ul>
