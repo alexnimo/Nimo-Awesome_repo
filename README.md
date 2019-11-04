@@ -284,6 +284,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>Google puppeteer(headless chrome): https://github.com/GoogleChrome/puppeteer</li>
 <li>GoldenEye - HTTP DoS Test Tool: https://github.com/jseidl/GoldenEye</li>
 <li>Cisco TRex - open source, low cost, stateful and stateless traffic generator fuelled by DPDK: https://trex-tgn.cisco.com/</li>
+<li>UBoat - Botnet simulator: https://github.com/Souhardya/UBoat </li>
 
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
