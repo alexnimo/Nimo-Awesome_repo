@@ -230,6 +230,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>gravwell-community-edition: https://www.gravwell.io/blog/gravwell-community-edition</li>
           <li>logz.io: https://logz.io/</li>
           <li>SIEMonster: https://siemonster.com/</li>
+          <li>Dsiem - Dsiem is a security event correlation engine for ELK stack, allowing the platform to be used as a       dedicated and full-featured SIEM system: https://github.com/defenxor/dsiem </li>
           <li>CyberSponse - community edtion: https://cybersponse.com/community-edition/</li>
           <li>Dflabs - community edition: https://www.dflabs.com/incman-soar-community-edition/</li>
           <li>Sigma - generic and open signature format that allows you to describe relevant log events in a straight forward manner: https://github.com/Neo23x0/sigma | https://github.com/socprime/SigmaUI </li>
@@ -259,6 +260,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Search for open source repositories on github, gitlab, and bitbucket: https://www.bithublab.org/</li>
   <li>Python Regex tester: https://pythex.org/ </li>
   <li>dnstwister - domain name permutation engine: https://dnstwister.report/ </li>
+  <li>mozilla SSL Configuration Generator: https://ssl-config.mozilla.org/ </li>
 
   <p2><b><u>API Stuff</u></b><p2>
   <li>Postman Cheatsheet: https://postman-quick-reference-guide.readthedocs.io/en/latest/index.html </li>
