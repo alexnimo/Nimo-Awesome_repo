@@ -213,6 +213,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     <li>Awesome YARA - curated list of awesome YARA rules, tools, and resources: https://github.com/InQuest/awesome-yara/blob/master/README.md </li>
     <li>DeepBlueCLI - PowerShell Module for Threat Hunting via Windows Event Logs: https://github.com/sans-blue-team/DeepBlueCLI </li>
     <li>JA3 - a method for creating SSL/TLS client fingerprints that should be easy to produce on any platform and can be easily shared for threat intelligence: https://github.com/salesforce/ja3/blob/master/README.md
+    <li>zBang - is a special risk assessment tool that detects potential privileged account threats in the scanned network: https://github.com/cyberark/zBang/blob/master/README.md</li>
     </span>
   </p3>
   </ul>
@@ -256,6 +257,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>json path finder: https://jsonpath.com/ </li>
 <li>repl.it - online Python compiler: https://repl.it/languages/Python%3F__s=ws9cqndijs3fipi6sacu</li>
 <li>JS lint: https://jshint.com/</li>
+<li>JSON schema data generator: https://json-schema-faker.js.org/ </li>
   <li>Search for open source repositories on github, gitlab, and bitbucket: https://www.bithublab.org/</li>
   <li>Python Regex tester: https://pythex.org/ </li>
   <li>dnstwister - domain name permutation engine: https://dnstwister.report/ </li>
