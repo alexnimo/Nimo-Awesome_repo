@@ -214,6 +214,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     <li>DeepBlueCLI - PowerShell Module for Threat Hunting via Windows Event Logs: https://github.com/sans-blue-team/DeepBlueCLI </li>
     <li>JA3 - a method for creating SSL/TLS client fingerprints that should be easy to produce on any platform and can be easily shared for threat intelligence: https://github.com/salesforce/ja3/blob/master/README.md
     <li>zBang - is a special risk assessment tool that detects potential privileged account threats in the scanned network: https://github.com/cyberark/zBang/blob/master/README.md</li>
+    <li>Pentesting with certutil: https://www.hackingarticles.in/windows-for-pentester-certutil/ </li>
     </span>
   </p3>
   </ul>
@@ -272,6 +273,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Loops with Postman: https://thisendout.com/2017/02/22/loops-dynamic-variables-postman-pt2/</li>
   <li>All CheatSheets: http://overapi.com/ <li>
   <li>Hosted REST API: https://reqres.in/ </li>
+  <li>httpbin - A simple HTTP Request & Response Service: http://httpbin.org/</li>
   
 
 <p2><b>Password Lists</b></p2>
