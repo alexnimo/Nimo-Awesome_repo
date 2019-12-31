@@ -51,6 +51,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>Whaler - reverse engineer a Docker Image into the Dockerfile: https://github.com/P3GLEG/Whaler</li>
 <li>ntopng - https://github.com/lucaderi/ntopng-docker</li>
 <li>goca - a FOCA fork written in Go: https://github.com/gocaio/goca</li>
+<li>Mondoo - docker image scanner: https://github.com/mondoolabs/mondoo</li>
 
 
 <p2><b>Misc Usefull Stuff</b></p2>
@@ -116,6 +117,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>macro pack - a tool used to automatize obfuscation and generation of retro formats such as MS Office documents or VBS like format: https://github.com/sevagas/macro_pack </li>
           <li>Evil Clippy - a cross-platform assistant for creating malicious MS Office documents: https://github.com/outflanknl/EvilClippy</li>
           <li>pixload - Set of tools for creating/injecting payload into images: https://github.com/chinarulezzz/pixload </li>
+          <li>Pown.js - is a security testing and exploitation toolkit built on top of Node.js and NPM. Unlike traditional security tools like Metasploits, Pown.js considers frameworks to be an anti-pattern: https://github.com/pownjs/pown/blob/master/README.md </li>
+          <li>nodeCrypto - is a linux Ransomware written in NodeJs that encrypt predefined files: https://github.com/atmoner/nodeCrypto</li>
       </span>
      </p3>
           </ul>
@@ -143,6 +146,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Slackor - A Golang implant that uses Slack as a command and control channel: https://github.com/Coalfire-Research/Slackor </li>
           <li>FudgeC2 - a campaign orientated Powershell C2 framework built on Python3/Flask - Designed for team collaboration, client interaction, campaign timelining, and usage visibility: https://github.com/Ziconius/FudgeC2 </li>
           <li>HRShell - an HTTPS/HTTP reverse shell built with flask. It is an advanced C2 server with many features & capabilities: https://github.com/chrispetrou/HRShell</li>
+          <li>DNS-Shell - is an interactive Shell over DNS channel: https://github.com/sensepost/DNS-Shell </li>
           </p3>
         </span>
  </ul>
@@ -163,6 +167,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>0xsp-Mongoose - Linux Privilege Escalation intelligent Enumeration Toolkit: https://github.com/lawrenceamer/0xsp-Mongoose </li>
       <li>wmigen - generate Batch, C, C++, C#, Delphi, F#, Java, JScript, KiXtart, Lua, Object Pascal, (Open) Object Rexx, Perl, PHP, PowerShell, Python, Ruby, Tcl, VB .NET or VBScript code for menu selected WMI queries: https://www.robvanderwoude.com/wmigen.php</li>
       <li>CryptonDie - a ransomware developed for study purposes: https://github.com/zer0dx/cryptondie </li>
+      <li>CQTools - This toolkit allows to deliver complete attacks within the infrastructure, starting with sniffing and spoofing activities, going through information extraction, password extraction, custom shell generation, custom payload generation, hiding code from antivirus solutions, various keyloggers and leverage this information to deliver attacks: https://4f2bcn3u2m2u2z7ghc17a5jm-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/cqtools-the-new-ultimate-hacking-toolkit-black-hat-asia-2019-2.7z | password: CQUREAcademy#123! | Documentation: https://i.blackhat.com/asia-19/Thu-March-28/bh-asia-Januszkiewicz-CQTools-New-Ultimate-Hacking-Toolkit-wp.pdf </li> 
       </span>
   </p3>
   </ul>
@@ -178,6 +183,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>HiddenEye - Modern Phishing Tool With Advanced Functionality: https://github.com/DarkSecDevelopers/HiddenEye</li>
           <li>o365-attack-toolkit - allows operators to perform an OAuth phishing attack and later on use the Microsoft Graph API to extract interesting information: https://github.com/mdsecactivebreach/o365-attack-toolkit</li>
           <li>Phishing Simulation - mainly aims to increase phishing awareness by providing an intuitive tutorial and customized assessment: https://github.com/jenyraval/Phishing-Simulation</li>
+          <li>ShellPhish - Phishing Tool for Instagram, Facebook, Twitter, Snapchat, Github, Yahoo and more: https://github.com/thelinuxchoice/shellphish</li>
       </span>
     </p3>
     </ul><br>
@@ -191,6 +197,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>Empire GUI: https://github.com/EmpireProject/Empire-GUI </li>
       <li>One-Lin3r - consists of various one-liners that aids in penetration testing operations: https://github.com/D4Vinci/One-Lin3r</li>
       <li>mad-metasploit - Metasploit custom modules, plugins, resource script: https://github.com/hahwul/mad-metasploit </li>
+      <li>EasySploit - Metasploit automation: https://github.com/KALILINUXTRICKSYT/easysploit </li>
       </span>
   </p3>
   </ul><br>
@@ -215,6 +222,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     <li>JA3 - a method for creating SSL/TLS client fingerprints that should be easy to produce on any platform and can be easily shared for threat intelligence: https://github.com/salesforce/ja3/blob/master/README.md
     <li>zBang - is a special risk assessment tool that detects potential privileged account threats in the scanned network: https://github.com/cyberark/zBang/blob/master/README.md</li>
     <li>Pentesting with certutil: https://www.hackingarticles.in/windows-for-pentester-certutil/ </li>
+    <li>Tool-X - is a Kali Linux hacking tools installer for Termux and linux system: https://github.com/Rajkumrdusad/Tool-X</li>
+    <li>jpcertcc - This site summarizes the results of examining logs recorded in Windows upon execution of the 49 tools which are likely to be used by the attacker that has infiltrated a network: https://jpcertcc.github.io/ToolAnalysisResultSheet/#</li>
     </span>
   </p3>
   </ul>
@@ -240,6 +249,11 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
             </span>
             </p3>
             </ul><br>
+
+
+<p2><b><u>Web PT</u></b><p2>
+<li>Automatic API Attack Tool - Imperva's customizable API attack tool takes an API specification as an input, and generates and runs attacks that are based on it as an output: https://github.com/imperva/automatic-api-attack-tool</li>
+
 
 <p2><b><u>Online Tools</u></b><p2>
 <li>Online packet Analyzer - http://packettotal.com/ </li>
