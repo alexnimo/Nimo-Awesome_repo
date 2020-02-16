@@ -246,6 +246,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Dflabs - community edition: https://www.dflabs.com/incman-soar-community-edition/</li>
           <li>Sigma - generic and open signature format that allows you to describe relevant log events in a straight forward manner: https://github.com/Neo23x0/sigma | https://github.com/socprime/SigmaUI </li>
           <li>MozDef - The Mozilla Enterprise Defense Platform (MozDef) seeks to automate the security incident handling process and facilitate the real-time activities of incident handlers: https://github.com/mozilla/MozDef </li>
+          <li>glastof - is a Python web application honeypot founded by Lukas Rist:https://github.com/mushorg/glastopf </li>
             </span>
             </p3>
             </ul><br>
