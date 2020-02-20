@@ -247,8 +247,12 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Dflabs - community edition: https://www.dflabs.com/incman-soar-community-edition/</li>
           <li>Sigma - generic and open signature format that allows you to describe relevant log events in a straight forward manner: https://github.com/Neo23x0/sigma | https://github.com/socprime/SigmaUI </li>
           <li>MozDef - The Mozilla Enterprise Defense Platform (MozDef) seeks to automate the security incident handling process and facilitate the real-time activities of incident handlers: https://github.com/mozilla/MozDef </li>
+<<<<<<< HEAD
           <li>spidertrap - Trap web crawlers and spiders in an infinite set of dynamically generated webpage: https://github.com/adhdproject/adhdproject.github.io/blob/master/Tools/Spidertrap.md </li>
           <li>ElastAlert - a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch: https://github.com/Yelp/elastalert</li>
+=======
+          <li>glastof - is a Python web application honeypot founded by Lukas Rist:https://github.com/mushorg/glastopf </li>
+>>>>>>> 6f1706fba7480c3c852d391af076df778992c657
             </span>
             </p3>
             </ul><br>
