@@ -86,6 +86,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li> Blue Team Training Kit: https://www.bt3.no/ </li>
   <li>UBoat - POC HTTP Botnet designed to replicate a full weaponised commercial botnet: https://github.com/Souhardya/UBoat</li>
   <li>FireProx - FireProx leverages the AWS API Gateway to create pass-through proxies that rotate the source IP address with every request: https://github.com/ustayready/fireprox</li>
+  <li>Chain Reactor - is an open source framework for composing executables that can simulate adversary behaviors and techniques on Linux endpoints: https://github.com/redcanaryco/chain-reactor </li>
 
 </span>
   </p3>
@@ -246,6 +247,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Dflabs - community edition: https://www.dflabs.com/incman-soar-community-edition/</li>
           <li>Sigma - generic and open signature format that allows you to describe relevant log events in a straight forward manner: https://github.com/Neo23x0/sigma | https://github.com/socprime/SigmaUI </li>
           <li>MozDef - The Mozilla Enterprise Defense Platform (MozDef) seeks to automate the security incident handling process and facilitate the real-time activities of incident handlers: https://github.com/mozilla/MozDef </li>
+          <li>spidertrap - Trap web crawlers and spiders in an infinite set of dynamically generated webpage: https://github.com/adhdproject/adhdproject.github.io/blob/master/Tools/Spidertrap.md </li>
+          <li>ElastAlert - a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch: https://github.com/Yelp/elastalert</li>
             </span>
             </p3>
             </ul><br>
@@ -253,6 +256,10 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 
 <p2><b><u>Web PT</u></b><p2>
 <li>Automatic API Attack Tool - Imperva's customizable API attack tool takes an API specification as an input, and generates and runs attacks that are based on it as an output: https://github.com/imperva/automatic-api-attack-tool</li>
+<li>Taipan - an automated web application vulnerability scanner that allows to identify web vulnerabilities in an automatic fashion: https://github.com/enkomio/Taipan/blob/master/README.md </li>
+
+
+</br>
 
 
 <p2><b><u>Online Tools</u></b><p2>
