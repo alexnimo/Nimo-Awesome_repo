@@ -250,6 +250,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>spidertrap - Trap web crawlers and spiders in an infinite set of dynamically generated webpage: https://github.com/adhdproject/adhdproject.github.io/blob/master/Tools/Spidertrap.md </li>
           <li>ElastAlert - a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch: https://github.com/Yelp/elastalert</li>
           <li>glastof - is a Python web application honeypot founded by Lukas Rist:https://github.com/mushorg/glastopf </li>
+          <li>Malcolm - an easily deployable network analysis tool suite for full packet capture artifacts (PCAP files) and Zeek logs: https://github.com/idaholab/Malcolm/blob/master/README.md</li>
             </span>
             </p3>
             </ul><br>
@@ -258,6 +259,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <p2><b><u>Web PT</u></b><p2>
 <li>Automatic API Attack Tool - Imperva's customizable API attack tool takes an API specification as an input, and generates and runs attacks that are based on it as an output: https://github.com/imperva/automatic-api-attack-tool</li>
 <li>Taipan - an automated web application vulnerability scanner that allows to identify web vulnerabilities in an automatic fashion: https://github.com/enkomio/Taipan/blob/master/README.md </li>
+<li>fuzz-lightyear -  pytest-inspired, DAST framework, capable of identifying vulnerabilities in a distributed, micro-service ecosystem through stateful Swagger fuzzing: https://github.com/Yelp/fuzz-lightyear/blob/master/README.md</li>
 
 
 </br>
@@ -304,7 +306,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>Seclists - https://github.com/danielmiessler/SecLists</li>
 </ul>
 
-<p2><b><u>Stress Test / Web Traffic Simulation</u></b><p2>
+<p2><b><u>Stress Test / Web Traffic Simulation / Test Automation</u></b><p2>
 <li>https://loader.io/</li>
 <li>https://a.blazemeter.com/app/sign-in</li>
 <li>https://artillery.io/</li>
@@ -313,6 +315,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>GoldenEye - HTTP DoS Test Tool: https://github.com/jseidl/GoldenEye</li>
 <li>Cisco TRex - open source, low cost, stateful and stateless traffic generator fuelled by DPDK: https://trex-tgn.cisco.com/</li>
 <li>UBoat - Botnet simulator: https://github.com/Souhardya/UBoat </li>
+<li>TestProject - free end-to-end test automation platform for web, mobile, and API testing that’s supported by the #1 test automation community: https://testproject.io/ </li>
+<li>Karate - open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework: https://github.com/intuit/karate/blob/master/README.md</li>
 
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
