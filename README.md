@@ -52,7 +52,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>ntopng - https://github.com/lucaderi/ntopng-docker</li>
 <li>goca - a FOCA fork written in Go: https://github.com/gocaio/goca</li>
 <li>Mondoo - docker image scanner: https://github.com/mondoolabs/mondoo</li>
-
+</br>
 
 <p2><b>Misc Usefull Stuff</b></p2>
 <ul>
@@ -256,11 +256,12 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
             </ul><br>
 
 
-<p2><b><u>Web PT</u></b><p2>
+<h3><b>Web PT</h3></b>
+<ul>
 <li>Automatic API Attack Tool - Imperva's customizable API attack tool takes an API specification as an input, and generates and runs attacks that are based on it as an output: https://github.com/imperva/automatic-api-attack-tool</li>
 <li>Taipan - an automated web application vulnerability scanner that allows to identify web vulnerabilities in an automatic fashion: https://github.com/enkomio/Taipan/blob/master/README.md </li>
 <li>fuzz-lightyear -  pytest-inspired, DAST framework, capable of identifying vulnerabilities in a distributed, micro-service ecosystem through stateful Swagger fuzzing: https://github.com/Yelp/fuzz-lightyear/blob/master/README.md</li>
-
+</ul>
 
 </br>
 
@@ -288,7 +289,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Python Regex tester: https://pythex.org/ </li>
   <li>dnstwister - domain name permutation engine: https://dnstwister.report/ </li>
   <li>mozilla SSL Configuration Generator: https://ssl-config.mozilla.org/ </li>
-
+</br>
   <p2><b><u>API Stuff</u></b><p2>
   <li>Postman Cheatsheet: https://postman-quick-reference-guide.readthedocs.io/en/latest/index.html </li>
   <li>explore-with-postman: https://github.com/ambertests/explore-with-postman</li>
@@ -299,7 +300,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Hosted REST API: https://reqres.in/ </li>
   <li>httpbin - A simple HTTP Request & Response Service: http://httpbin.org/</li>
   
-
+</br>
 <p2><b>Password Lists</b></p2>
 <ul>
 <li>https://wiki.skullsecurity.org/index.php?title=Passwords</li>
@@ -318,6 +319,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>TestProject - free end-to-end test automation platform for web, mobile, and API testing that’s supported by the #1 test automation community: https://testproject.io/ </li>
 <li>Karate - open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework: https://github.com/intuit/karate/blob/master/README.md</li>
 
+</br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
 <li>HTML5: http://html5sec.org/</li>
