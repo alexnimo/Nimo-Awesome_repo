@@ -52,7 +52,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>ntopng - https://github.com/lucaderi/ntopng-docker</li>
 <li>goca - a FOCA fork written in Go: https://github.com/gocaio/goca</li>
 <li>Mondoo - docker image scanner: https://github.com/mondoolabs/mondoo</li>
-
+</br>
 
 <p2><b>Misc Usefull Stuff</b></p2>
 <ul>
@@ -86,6 +86,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li> Blue Team Training Kit: https://www.bt3.no/ </li>
   <li>UBoat - POC HTTP Botnet designed to replicate a full weaponised commercial botnet: https://github.com/Souhardya/UBoat</li>
   <li>FireProx - FireProx leverages the AWS API Gateway to create pass-through proxies that rotate the source IP address with every request: https://github.com/ustayready/fireprox</li>
+  <li>Chain Reactor - is an open source framework for composing executables that can simulate adversary behaviors and techniques on Linux endpoints: https://github.com/redcanaryco/chain-reactor </li>
 
 </span>
   </p3>
@@ -246,15 +247,29 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Dflabs - community edition: https://www.dflabs.com/incman-soar-community-edition/</li>
           <li>Sigma - generic and open signature format that allows you to describe relevant log events in a straight forward manner: https://github.com/Neo23x0/sigma | https://github.com/socprime/SigmaUI </li>
           <li>MozDef - The Mozilla Enterprise Defense Platform (MozDef) seeks to automate the security incident handling process and facilitate the real-time activities of incident handlers: https://github.com/mozilla/MozDef </li>
+          <li>spidertrap - Trap web crawlers and spiders in an infinite set of dynamically generated webpage: https://github.com/adhdproject/adhdproject.github.io/blob/master/Tools/Spidertrap.md </li>
+          <li>ElastAlert - a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch: https://github.com/Yelp/elastalert</li>
           <li>glastof - is a Python web application honeypot founded by Lukas Rist:https://github.com/mushorg/glastopf </li>
+<<<<<<< HEAD
           <li>compot - is a low interactive server side Industrial Control Systems honeypot designed to be easy to deploy, modify and extend: http://conpot.org/ </li>
+=======
+          <li>Malcolm - an easily deployable network analysis tool suite for full packet capture artifacts (PCAP files) and Zeek logs: https://github.com/idaholab/Malcolm/blob/master/README.md</li>
+>>>>>>> 61ed909f3c395c4a6aa15fa36b974293e01792a5
             </span>
             </p3>
             </ul><br>
 
 
-<p2><b><u>Web PT</u></b><p2>
+<h3><b>Web PT</h3></b>
+<ul>
 <li>Automatic API Attack Tool - Imperva's customizable API attack tool takes an API specification as an input, and generates and runs attacks that are based on it as an output: https://github.com/imperva/automatic-api-attack-tool</li>
+<li>Taipan - an automated web application vulnerability scanner that allows to identify web vulnerabilities in an automatic fashion: https://github.com/enkomio/Taipan/blob/master/README.md </li>
+<li>fuzz-lightyear -  pytest-inspired, DAST framework, capable of identifying vulnerabilities in a distributed, micro-service ecosystem through stateful Swagger fuzzing: https://github.com/Yelp/fuzz-lightyear/blob/master/README.md</li>
+<li>GoSpider - gast web spider written in Go: https://github.com/jaeles-project/gospider</li>
+<li>XSS-Freak - XSS scanner fully written in python3. It crawls the website for all possible links and directories to expand its attack scope. Then it searches them for input tags and then launches a bunch of XSS payloads: https://github.com/hacker900123/XSS-Freak</li>
+</ul>
+
+</br>
 
 
 <p2><b><u>Online Tools</u></b><p2>
@@ -280,7 +295,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Python Regex tester: https://pythex.org/ </li>
   <li>dnstwister - domain name permutation engine: https://dnstwister.report/ </li>
   <li>mozilla SSL Configuration Generator: https://ssl-config.mozilla.org/ </li>
-
+</br>
   <p2><b><u>API Stuff</u></b><p2>
   <li>Postman Cheatsheet: https://postman-quick-reference-guide.readthedocs.io/en/latest/index.html </li>
   <li>explore-with-postman: https://github.com/ambertests/explore-with-postman</li>
@@ -291,14 +306,14 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Hosted REST API: https://reqres.in/ </li>
   <li>httpbin - A simple HTTP Request & Response Service: http://httpbin.org/</li>
   
-
+</br>
 <p2><b>Password Lists</b></p2>
 <ul>
 <li>https://wiki.skullsecurity.org/index.php?title=Passwords</li>
 <li>Seclists - https://github.com/danielmiessler/SecLists</li>
 </ul>
 
-<p2><b><u>Stress Test / Web Traffic Simulation</u></b><p2>
+<p2><b><u>Stress Test / Web Traffic Simulation / Test Automation</u></b><p2>
 <li>https://loader.io/</li>
 <li>https://a.blazemeter.com/app/sign-in</li>
 <li>https://artillery.io/</li>
@@ -307,7 +322,15 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>GoldenEye - HTTP DoS Test Tool: https://github.com/jseidl/GoldenEye</li>
 <li>Cisco TRex - open source, low cost, stateful and stateless traffic generator fuelled by DPDK: https://trex-tgn.cisco.com/</li>
 <li>UBoat - Botnet simulator: https://github.com/Souhardya/UBoat </li>
+<li>TestProject - free end-to-end test automation platform for web, mobile, and API testing that’s supported by the #1 test automation community: https://testproject.io/ </li>
+<li>Karate - open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework: https://github.com/intuit/karate/blob/master/README.md</li>
+<li>Saddam - DDos amplification attack tool: https://github.com/OffensivePython/Saddam</li>
+<li>Tsunami - a more professional and efficient version of the network stress tester / denial of service tools known as LOIC: https://sourceforge.net/projects/tsunami-dos/</li>
+<li>dsnperf -free tool to gather accurate latency and throughput metrics for Domain Name Service (DNS): https://github.com/DNS-OARC/dnsperf</li>
+<li>rpounder - apache bench for DNS resolvers: https://github.com/mowings/rpounder</li>
+<li>dnsstresss - Simple Go program to stress test a DNS server: https://github.com/MickaelBergem/dnsstresss</li>
 
+</br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
 <li>HTML5: http://html5sec.org/</li>
