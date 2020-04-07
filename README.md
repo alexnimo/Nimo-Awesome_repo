@@ -251,6 +251,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>spidertrap - Trap web crawlers and spiders in an infinite set of dynamically generated webpage: https://github.com/adhdproject/adhdproject.github.io/blob/master/Tools/Spidertrap.md </li>
           <li>ElastAlert - a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch: https://github.com/Yelp/elastalert</li>
           <li>glastof - is a Python web application honeypot founded by Lukas Rist:https://github.com/mushorg/glastopf </li>
+          <li>compot - is a low interactive server side Industrial Control Systems honeypot designed to be easy to deploy, modify and extend: http://conpot.org/ </li>
           <li>Malcolm - an easily deployable network analysis tool suite for full packet capture artifacts (PCAP files) and Zeek logs: https://github.com/idaholab/Malcolm/blob/master/README.md</li>
             </span>
             </p3>
@@ -285,6 +286,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>JSfiddle: https://jsfiddle.net/ </li>
 <li>social IDE: https://codepen.io/</li>
 <li>json path finder: https://jsonpath.com/ </li>
+<li>json query language: https://jmespath.org/ </li>
 <li>repl.it - online Python compiler: https://repl.it/languages/Python%3F__s=ws9cqndijs3fipi6sacu</li>
 <li>JS lint: https://jshint.com/</li>
 <li>JSON schema data generator: https://json-schema-faker.js.org/ </li>
