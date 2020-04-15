@@ -226,6 +226,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     <li>Pentesting with certutil: https://www.hackingarticles.in/windows-for-pentester-certutil/ </li>
     <li>Tool-X - is a Kali Linux hacking tools installer for Termux and linux system: https://github.com/Rajkumrdusad/Tool-X</li>
     <li>jpcertcc - This site summarizes the results of examining logs recorded in Windows upon execution of the 49 tools which are likely to be used by the attacker that has infiltrated a network: https://jpcertcc.github.io/ToolAnalysisResultSheet/#</li>
+    <li>Slingshot C2 Matrix Edition - made in collaboration with SANS, Ryan O'Grady, and C2 Matrix contributors. The goal is to lower the learning curve of installing each C2 framework and getting you straight to testing which C2s work against your organization: https://howto.thec2matrix.com/slingshot-c2-matrix-edition</li>
     </span>
   </p3>
   </ul>
