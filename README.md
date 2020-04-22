@@ -123,7 +123,6 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>nodeCrypto - is a linux Ransomware written in NodeJs that encrypt predefined files: https://github.com/atmoner/nodeCrypto</li>
           <li>MalwareBazaar - is a project from abuse.ch with the goal of sharing malware samples with the infosec community, AV vendors and threat intelligence providers: https://bazaar.abuse.ch/ </li>
           <li>RapidPayload - Metasploit Payload Generator: https://github.com/AngelSecurityTeam/RapidPayload</li>
-      
       </span>
      </p3>
           </ul>
