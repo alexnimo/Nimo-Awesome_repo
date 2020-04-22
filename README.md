@@ -14,6 +14,7 @@
  <li>docker-blackeye - container for running the phishing attack using Blackeye: https://github.com/vishnudxb/docker-blackeye </li>
  <li>h8mail - Powerful and user-friendly password finder: https://github.com/khast3x/h8mail/blob/master/Dockerfile</li>
  <li>Instatbox -  a project that spins up temporary Linux systems with instant webshell access from any browser: https://github.com/instantbox/instantbox/blob/master/Dockerfile</li>
+ <li>envizon - state of the art network visualization and vulnerability reporting tool: https://github.com/evait-security/envizon/tree/master/docker </li>
   <br>
 
 <p1 class="lead"><b>Misc Docker</b></p1>
@@ -121,6 +122,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Pown.js - is a security testing and exploitation toolkit built on top of Node.js and NPM. Unlike traditional security tools like Metasploits, Pown.js considers frameworks to be an anti-pattern: https://github.com/pownjs/pown/blob/master/README.md </li>
           <li>nodeCrypto - is a linux Ransomware written in NodeJs that encrypt predefined files: https://github.com/atmoner/nodeCrypto</li>
           <li>MalwareBazaar - is a project from abuse.ch with the goal of sharing malware samples with the infosec community, AV vendors and threat intelligence providers: https://bazaar.abuse.ch/ </li>
+          <li>RapidPayload - Metasploit Payload Generator: https://github.com/AngelSecurityTeam/RapidPayload</li>
+      
       </span>
      </p3>
           </ul>
@@ -134,7 +137,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
             <li> DNSCAT2: https://github.com/iagox86/dnscat2 </li>
             <li>DNS-Shell - an interactive Shell over DNS channel: https://github.com/sensepost/DNS-Shell</li>
             <li>Sensepost Data exfiltration Toolkit(DET): https://github.com/sensepost/DET </li>
-  <li>Pyexfil: https://github.com/ytisf/PyExfil </li>
+           <li>Pyexfil: https://github.com/ytisf/PyExfil </li>
             <li>DoxuCannon: https://github.com/audibleblink/doxycannon </li>
           <li>Grok-backdoor: https://github.com/deepzec/Grok-backdoor </li>
           <li>foxtrot C2 - C&C to deliver content and shuttle command execution instructions: https://github.com/dsnezhkov/foxtrot</li>
@@ -149,6 +152,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>FudgeC2 - a campaign orientated Powershell C2 framework built on Python3/Flask - Designed for team collaboration, client interaction, campaign timelining, and usage visibility: https://github.com/Ziconius/FudgeC2 </li>
           <li>HRShell - an HTTPS/HTTP reverse shell built with flask. It is an advanced C2 server with many features & capabilities: https://github.com/chrispetrou/HRShell</li>
           <li>DNS-Shell - is an interactive Shell over DNS channel: https://github.com/sensepost/DNS-Shell </li>
+          <li>ninja -  C2 server created by Purple Team to do stealthy computer and Active directoty enumeration without being detected by SIEM and AVs: https://github.com/ahmedkhlief/Ninja</li>
           </p3>
         </span>
  </ul>
@@ -170,6 +174,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>wmigen - generate Batch, C, C++, C#, Delphi, F#, Java, JScript, KiXtart, Lua, Object Pascal, (Open) Object Rexx, Perl, PHP, PowerShell, Python, Ruby, Tcl, VB .NET or VBScript code for menu selected WMI queries: https://www.robvanderwoude.com/wmigen.php</li>
       <li>CryptonDie - a ransomware developed for study purposes: https://github.com/zer0dx/cryptondie </li>
       <li>CQTools - This toolkit allows to deliver complete attacks within the infrastructure, starting with sniffing and spoofing activities, going through information extraction, password extraction, custom shell generation, custom payload generation, hiding code from antivirus solutions, various keyloggers and leverage this information to deliver attacks: https://4f2bcn3u2m2u2z7ghc17a5jm-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/cqtools-the-new-ultimate-hacking-toolkit-black-hat-asia-2019-2.7z | password: CQUREAcademy#123! | Documentation: https://i.blackhat.com/asia-19/Thu-March-28/bh-asia-Januszkiewicz-CQTools-New-Ultimate-Hacking-Toolkit-wp.pdf </li> 
+      <li>PEASS - Privilege Escalation Awesome Scripts SUITE: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite</li>
+      <li>Flux-Keylogger -  javascript keylogger with web panel: https://github.com/LimerBoy/Flux-Keylogger</li>
       </span>
   </p3>
   </ul>
@@ -186,6 +192,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>o365-attack-toolkit - allows operators to perform an OAuth phishing attack and later on use the Microsoft Graph API to extract interesting information: https://github.com/mdsecactivebreach/o365-attack-toolkit</li>
           <li>Phishing Simulation - mainly aims to increase phishing awareness by providing an intuitive tutorial and customized assessment: https://github.com/jenyraval/Phishing-Simulation</li>
           <li>ShellPhish - Phishing Tool for Instagram, Facebook, Twitter, Snapchat, Github, Yahoo and more: https://github.com/thelinuxchoice/shellphish</li>
+          <li>zphisher - upgrdaed version(fork) of Shellphish: https://github.com/htr-tech/zphisher</li>
       </span>
     </p3>
     </ul><br>
@@ -197,9 +204,11 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>PowerSploit - A PowerShell Post-Exploitation Framework: https://github.com/PowerShellMafia/PowerSploit </li>
       <li>Empire: https://www.powershellempire.com/ </li>
       <li>Empire GUI: https://github.com/EmpireProject/Empire-GUI </li>
+      <li>Starkiller - Frontend for Powershell Empire. It is an Electron application written in VueJS: https://github.com/BC-SECURITY/Starkiller </li>
       <li>One-Lin3r - consists of various one-liners that aids in penetration testing operations: https://github.com/D4Vinci/One-Lin3r</li>
       <li>mad-metasploit - Metasploit custom modules, plugins, resource script: https://github.com/hahwul/mad-metasploit </li>
       <li>EasySploit - Metasploit automation: https://github.com/KALILINUXTRICKSYT/easysploit </li>
+      <li>pwndrop - self-deployable file hosting service for sending out red teaming payloads or securely sharing your private files over HTTP and WebDAV: https://github.com/kgretzky/pwndrop</li>
       </span>
   </p3>
   </ul><br>
@@ -266,8 +275,15 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>fuzz-lightyear -  pytest-inspired, DAST framework, capable of identifying vulnerabilities in a distributed, micro-service ecosystem through stateful Swagger fuzzing: https://github.com/Yelp/fuzz-lightyear/blob/master/README.md</li>
 <li>GoSpider - gast web spider written in Go: https://github.com/jaeles-project/gospider</li>
 <li>XSS-Freak - XSS scanner fully written in python3. It crawls the website for all possible links and directories to expand its attack scope. Then it searches them for input tags and then launches a bunch of XSS payloads: https://github.com/hacker900123/XSS-Freak</li>
-</ul>
+<li>vulnx - Intelligent Bot Auto Shell Injector that detects vulnerabilities in multiple types of Cms: https://github.com/anouarbensaad/vulnx</li>
+<li>Astra - REST API penetration testing tool: https://github.com/flipkart-incubator/Astra</li>
+</ul></br>
 
+<h3><b>Cloud Security</h3></b>
+<ul>
+</li>serverless-prey - a collection of serverless functions (FaaS), that, once launched to a cloud environment and invoked, establish a TCP reverse shell, enabling the user to introspect the underlying container: https://github.com/pumasecurity/serverless-prey </li>
+<li>MSOLSpray - A password spraying tool for Microsoft Online accounts (Azure/O365): https://github.com/dafthack/MSOLSpray </li>
+</ul>
 </br>
 
 
