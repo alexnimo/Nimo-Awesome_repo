@@ -281,6 +281,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>XSS-Freak - XSS scanner fully written in python3. It crawls the website for all possible links and directories to expand its attack scope. Then it searches them for input tags and then launches a bunch of XSS payloads: https://github.com/hacker900123/XSS-Freak</li>
 <li><center><a target="_blank" rel="no-image" href="https://github.com/anouarbensaad/vulnx"><img border="0" src="https://i.ibb.co/ZxxFqxQ/vxv2.png" width="80" height="50" style="vertical-align:middle"></a>vulnx - Intelligent Bot Auto Shell Injector that detects vulnerabilities in multiple types of Cms: https://github.com/anouarbensaad/vulnx</center></li>
 <li><center><a target="_blank" rel="no-image" href="https://github.com/flipkart-incubator/Astra"><img border="0" src="https://bit.ly/371kPmF" width="120" height="50" style="vertical-align:middle"></a>Astra - REST API penetration testing tool: https://github.com/flipkart-incubator/Astra</center></li>
+<li><a target="_blank" rel="no-image" href="https://github.com/thewhiteh4t/finalrecon"><img border="0" src="https://bit.ly/2zQrKDn" width="80" height="50" style="vertical-align:middle"></a><center>finalrecon - fast and simple python script for web reconnaissance: https://github.com/thewhiteh4t/finalrecon</center></li>
 </ul></br>
 
 <h3><b>Cloud Security</h3></b>
@@ -294,6 +295,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 
 
 <p2><b><u>Online Tools</u></b><p2>
+<ul>
 <li>Online packet Analyzer - http://packettotal.com/ </li>
 <li>CyberChef: https://gchq.github.io/CyberChef/</li>
 <li>Docker Image Analyzer: https://anchore.io/</li>
@@ -317,8 +319,10 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Python Regex tester: https://pythex.org/ </li>
   <li>dnstwister - domain name permutation engine: https://dnstwister.report/ </li>
   <li>mozilla SSL Configuration Generator: https://ssl-config.mozilla.org/ </li>
+  </ul>
 </br>
   <p2><b><u>API Stuff</u></b><p2>
+  <ul>
   <li>Postman Cheatsheet: https://postman-quick-reference-guide.readthedocs.io/en/latest/index.html </li>
   <li>explore-with-postman: https://github.com/ambertests/explore-with-postman</li>
   <li>Great collection of examples: https://github.com/DannyDainton</li>
@@ -327,6 +331,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>All CheatSheets: http://overapi.com/ <li>
   <li>Hosted REST API: https://reqres.in/ </li>
   <li>httpbin - A simple HTTP Request & Response Service: http://httpbin.org/</li>
+  </ul>
   
 </br>
 <p2><b>Password Lists</b></p2>
