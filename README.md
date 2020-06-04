@@ -178,6 +178,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>Flux-Keylogger -  javascript keylogger with web panel: https://github.com/LimerBoy/Flux-Keylogger</li>
       <li>Adamantium-Thief - Get chromium browsers: passwords, credit cards, history, cookies, bookmarks: https://github.com/LimerBoy/Adamantium-Thief</li>
       <li>chromepass - a python-based console application that generates a windows executable that Decrypt Chrome saved paswords, Send a file with the login/password combinations remotely: https://github.com/darkarp/chromepass/blob/master/README.md</li>
+      <li>invoker - The goal is to use this tool when access to some Windows OS features through GUI is restricted: https://github.com/ivan-sincek/invoker</li>
       </span>
   </p3>
   </ul>
@@ -351,6 +352,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>rpounder - apache bench for DNS resolvers: https://github.com/mowings/rpounder</li>
 <li>dnsstresss - Simple Go program to stress test a DNS server: https://github.com/MickaelBergem/dnsstresss</li>
 <li>dnsprobe - a tool built on top of retryabledns that allows you to perform multiple dns queries of your choice with a list of user supplied resolvers: https://github.com/projectdiscovery/dnsprobe</li>
+<li><a target="_blank" rel="no-image" href="https://github.com/loadimpact/k6"><img border="0" src="https://bit.ly/3704xuo" width="80" height="50" style="vertical-align:middle"></a><center>k6 - a modern load testing tool, building on Load Impact's years of experience in the load and performance testing industry: https://github.com/loadimpact/k6</center></li>
 
 </br>
 <p2><b><u>XSS Resources</u></b></p2>
