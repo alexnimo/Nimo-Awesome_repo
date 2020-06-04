@@ -279,7 +279,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>GoSpider - gast web spider written in Go: https://github.com/jaeles-project/gospider</li>
 <li>XSS-Freak - XSS scanner fully written in python3. It crawls the website for all possible links and directories to expand its attack scope. Then it searches them for input tags and then launches a bunch of XSS payloads: https://github.com/hacker900123/XSS-Freak</li>
 <li>vulnx - Intelligent Bot Auto Shell Injector that detects vulnerabilities in multiple types of Cms: https://github.com/anouarbensaad/vulnx</li>
-<li><a href="https://github.com/flipkart-incubator/Astra"><img border="0" align="left" src="https://bit.ly/371kPmF" width="120" height="50" style="vertical-align:middle" ></a><p> Astra - REST API penetration testing tool: https://github.com/flipkart-incubator/Astra style="text-align:center"</p>/li>
+<li><a href="https://github.com/flipkart-incubator/Astra"><img border="0" align="left" src="https://bit.ly/371kPmF" width="120" height="50" style="vertical-align:middle" ></a> <p> Astra - REST API penetration testing tool: https://github.com/flipkart-incubator/Astra style="text-align:right" </p></li>
 </ul></br>
 
 <h3><b>Cloud Security</h3></b>
