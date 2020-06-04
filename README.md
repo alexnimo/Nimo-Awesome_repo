@@ -278,7 +278,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>fuzz-lightyear -  pytest-inspired, DAST framework, capable of identifying vulnerabilities in a distributed, micro-service ecosystem through stateful Swagger fuzzing: https://github.com/Yelp/fuzz-lightyear/blob/master/README.md</li>
 <li>GoSpider - gast web spider written in Go: https://github.com/jaeles-project/gospider</li>
 <li>XSS-Freak - XSS scanner fully written in python3. It crawls the website for all possible links and directories to expand its attack scope. Then it searches them for input tags and then launches a bunch of XSS payloads: https://github.com/hacker900123/XSS-Freak</li>
-<li><a target="_blank" rel="no-image" href="https://github.com/anouarbensaad/vulnx"><img border="0" src="https://i.ibb.co/ZxxFqxQ/vxv2.png" width="80" height="50" style="vertical-align:middle">vulnx - Intelligent Bot Auto Shell Injector that detects vulnerabilities in multiple types of Cms: https://github.com/anouarbensaad/vulnx</li>
+<li><a target="_blank" rel="no-image" href="https://github.com/anouarbensaad/vulnx"><img border="0" src="https://i.ibb.co/ZxxFqxQ/vxv2.png" width="80" height="50" style="vertical-align:middle"></a>vulnx - Intelligent Bot Auto Shell Injector that detects vulnerabilities in multiple types of Cms: https://github.com/anouarbensaad/vulnx</li>
 <li><center><a target="_blank" rel="no-image" href="https://github.com/flipkart-incubator/Astra"><img border="0" src="https://bit.ly/371kPmF" width="120" height="50" style="vertical-align:middle"></a>Astra - REST API penetration testing tool: https://github.com/flipkart-incubator/Astra</center></li>
 </ul></br>
 
