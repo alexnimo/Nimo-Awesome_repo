@@ -283,6 +283,18 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li><center><a target="_blank" rel="no-image" href="https://github.com/flipkart-incubator/Astra"><img border="0" src="https://bit.ly/371kPmF" width="120" height="50" style="vertical-align:middle"></a>Astra - REST API penetration testing tool: https://github.com/flipkart-incubator/Astra</center></li>
 <li><a target="_blank" rel="no-image" href="https://github.com/thewhiteh4t/finalrecon"><img border="0" src="https://bit.ly/2zQrKDn" width="80" height="50" style="vertical-align:middle"></a><center>finalrecon - fast and simple python script for web reconnaissance: https://github.com/thewhiteh4t/finalrecon</center></li>
 </ul></br>
+<p2><b><u>XSS Resources</u></b></p2>
+<ul>
+<li>HTML5: http://html5sec.org/</li>
+<li>OWASP: https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet</li>
+<li>Reddit: https://www.reddit.com/r/xss/</li>
+<li>Js payloads, great tutorials: http://www.xss-payloads.com/index.html</li>
+<li>Powerfull web tool for creating event based payloads: http://brutelogic.com.br/webgun/ </li>
+<li>Ultimate XSS protection Cheatsheet: https://xenotix.in/The%20Ultimate%20XSS%20Protection%20Cheat%20Sheet%20for%20Developers.pdf </li>
+<li>HTML5 attack Vectors: https://dl.packetstormsecurity.net/papers/attack/HTML5AttackVectors_RafayBaloch_UPDATED.pdf </li>
+<li>XSS Vulnerability Payload List: https://github.com/ismailtasdelen/xss-payload-list</li>
+<li><a target="_blank" rel="no-image" href="https://portswigger.net/web-security/cross-site-scripting/cheat-sheet"><img border="0" src="https://socbox.com/wp-content/uploads/2019/06/portswigger.png" width="65" height="20" style="vertical-align:middle"></a><center>portswigger XSS cheat-sgeet: https://portswigger.net/web-security/cross-site-scripting/cheat-sheet</center></li>
+</ul></br>
 
 <h3><b>Cloud Security</h3></b>
 <ul>
@@ -358,16 +370,3 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>dnsstresss - Simple Go program to stress test a DNS server: https://github.com/MickaelBergem/dnsstresss</li>
 <li>dnsprobe - a tool built on top of retryabledns that allows you to perform multiple dns queries of your choice with a list of user supplied resolvers: https://github.com/projectdiscovery/dnsprobe</li>
 <li><a target="_blank" rel="no-image" href="https://github.com/loadimpact/k6"><img border="0" src="https://bit.ly/3704xuo" width="80" height="50" style="vertical-align:middle"></a><center>k6 - a modern load testing tool, building on Load Impact's years of experience in the load and performance testing industry: https://github.com/loadimpact/k6</center></li>
-
-</br>
-<p2><b><u>XSS Resources</u></b></p2>
-<ul>
-<li>HTML5: http://html5sec.org/</li>
-<li>OWASP: https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet</li>
-<li>Reddit: https://www.reddit.com/r/xss/</li>
-<li>Js payloads, great tutorials: http://www.xss-payloads.com/index.html</li>
-<li>Powerfull web tool for creating event based payloads: http://brutelogic.com.br/webgun/ </li>
-<li>Ultimate XSS protection Cheatsheet: https://xenotix.in/The%20Ultimate%20XSS%20Protection%20Cheat%20Sheet%20for%20Developers.pdf </li>
-<li>HTML5 attack Vectors: https://dl.packetstormsecurity.net/papers/attack/HTML5AttackVectors_RafayBaloch_UPDATED.pdf </li>
-<li>XSS Vulnerability Payload List: https://github.com/ismailtasdelen/xss-payload-list</li>
-</ul>
