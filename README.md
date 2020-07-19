@@ -286,7 +286,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>GoSpider - gast web spider written in Go: https://github.com/jaeles-project/gospider</li>
 <li>XSS-Freak - XSS scanner fully written in python3. It crawls the website for all possible links and directories to expand its attack scope. Then it searches them for input tags and then launches a bunch of XSS payloads: https://github.com/hacker900123/XSS-Freak</li>
 <li><center><a target="_blank" rel="no-image" href="https://github.com/anouarbensaad/vulnx"><img border="0" src="https://i.ibb.co/ZxxFqxQ/vxv2.png" width="80" height="50" style="vertical-align:middle"></a>vulnx - Intelligent Bot Auto Shell Injector that detects vulnerabilities in multiple types of Cms: https://github.com/anouarbensaad/vulnx</center></li>
-<li><center><a target="_blank" rel="no-image" href="https://github.com/flipkart-incubator/Astra"><img border="0" src="https://bit.ly/371kPmF" width="120" height="50" style="vertical-align:middle" class="CircleBadge CircleBadge--small float-left mr-2"></a>Astra - REST API penetration testing tool: https://github.com/flipkart-incubator/Astra</center></li>
+<li><center><a target="_blank" rel="no-image" href="https://github.com/flipkart-incubator/Astra"  class="CircleBadge CircleBadge--small float-left mr-2"><img border="0" src="https://bit.ly/371kPmF" width="120" height="50" style="vertical-align:middle" class="CircleBadge-icon"></a>Astra - REST API penetration testing tool: https://github.com/flipkart-incubator/Astra</center></li>
 <li><a target="_blank" rel="no-image" href="https://github.com/thewhiteh4t/finalrecon"><img border="0" src="https://bit.ly/2zQrKDn" width="80" height="50" style="vertical-align:middle"></a><center>finalrecon - fast and simple python script for web reconnaissance: https://github.com/thewhiteh4t/finalrecon</center></li>
   <li>Payloads - A collection of web attack payloads: https://github.com/foospidy/payloads </li>
 </ul></br>
@@ -349,7 +349,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Great collection of examples: https://github.com/DannyDainton</li>
   <li>Test automation university: https://testautomationu.applitools.com/Automation </li>
   <li>Loops with Postman: https://thisendout.com/2017/02/22/loops-dynamic-variables-postman-pt2/</li>
-  <li>All CheatSheets: http://overapi.com/ <li>
+  <li>All CheatSheets: http://overapi.com/ </li>
   <li>Hosted REST API: https://reqres.in/ </li>
   <li>httpbin - A simple HTTP Request & Response Service: http://httpbin.org/</li>
   <li>Fake REST API with JSON and POSTMAN: https://dev.to/tadea/fake-rest-api-with-json-and-postman-5gi8</li>
