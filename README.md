@@ -36,7 +36,7 @@
   <li>Malware sample downloader - https://hub.docker.com/r/remnux/maltrieve/ </li>
   <li> Awesome docker repo: https://github.com/veggiemonk/awesome-docker </li>
   <li> OWASP Security Knowledge Framework: https://github.com/blabla1337/skf-flask <br>
-  <li><center> <a target="_blank" rel="no-image" href="https://github.com/hadolint/hadolint"><img border="0" src="https://bit.ly/2ODiXs5" width="50" height="50" style="vertical-align:middle"></a>Haskell Dockerfile Linter - A smarter Dockerfile linter that helps you build best practice Docker images: https://github.com/hadolint/hadolint</center> </li>
+  <li><center> <a target="_blank" rel="no-image" href="https://camo.githubusercontent.com/ed1547b1b7f6060ad464d180a0c28975ba876830/68747470733a2f2f6861646f6c696e742e6769746875622e696f2f6861646f6c696e742f696d672f6361745f636f6e7461696e65722e706e67"><img border="0" src="https://bit.ly/2ODiXs5" width="50" height="50" style="vertical-align:middle"></a>Haskell Dockerfile Linter - A smarter Dockerfile linter that helps you build best practice Docker images: https://github.com/hadolint/hadolint</center> </li>
   <b>docker run -ti -p 127.0.0.1:443:5443 blabla1337/skf-flask</b></li>
   <li>OWASP security Shepard: https://hub.docker.com/r/ismisepaul/securityshepherd/<br>
   <b>docker run -i -p 80:80 -p 443:443 -t ismisepaul/securityshepherd /bin/bash /usr/bin/mysqld_safe & service tomcat7 start </b><br>
@@ -181,6 +181,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>Adamantium-Thief - Get chromium browsers: passwords, credit cards, history, cookies, bookmarks: https://github.com/LimerBoy/Adamantium-Thief</li>
       <li>chromepass - a python-based console application that generates a windows executable that Decrypt Chrome saved paswords, Send a file with the login/password combinations remotely: https://github.com/darkarp/chromepass/blob/master/README.md</li>
       <li>invoker - The goal is to use this tool when access to some Windows OS features through GUI is restricted: https://github.com/ivan-sincek/invoker</li>
+      <li>Talon - a tool designed to perform automated password guessing attacks while remaining undetected. Great for user enumartion in domain environment(LDAP/Kerberos): https://github.com/optiv/talon | Great blog post regarding the attack: https://www.optiv.com/explore-optiv-insights/blog/digging-your-talons-new-take-password-guessing </li> 
       </span>
   </p3>
   </ul>
