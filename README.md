@@ -36,7 +36,7 @@
   <li>Malware sample downloader - https://hub.docker.com/r/remnux/maltrieve/ </li>
   <li> Awesome docker repo: https://github.com/veggiemonk/awesome-docker </li>
   <li> OWASP Security Knowledge Framework: https://github.com/blabla1337/skf-flask <br>
-  <li><center> <a target="_blank" rel="no-image" href="https://camo.githubusercontent.com/ed1547b1b7f6060ad464d180a0c28975ba876830/68747470733a2f2f6861646f6c696e742e6769746875622e696f2f6861646f6c696e742f696d672f6361745f636f6e7461696e65722e706e67"><img border="0" src="https://bit.ly/2ODiXs5" width="50" height="50" style="vertical-align:middle"></a>Haskell Dockerfile Linter - A smarter Dockerfile linter that helps you build best practice Docker images: https://github.com/hadolint/hadolint</center> </li>
+  <li><center> <a target="_blank" rel="no-image" href="https://camo.githubusercontent.com/ed1547b1b7f6060ad464d180a0c28975ba876830/68747470733a2f2f6861646f6c696e742e6769746875622e696f2f6861646f6c696e742f696d672f6361745f636f6e7461696e65722e706e67"><img border="0" src="https://bit.ly/2ODiXs5" width="50" height="50" style="vertical-align:middle" class="CircleBadge CircleBadge--small float-left mr-2"></a>Haskell Dockerfile Linter - A smarter Dockerfile linter that helps you build best practice Docker images: https://github.com/hadolint/hadolint</center> </li>
   <b>docker run -ti -p 127.0.0.1:443:5443 blabla1337/skf-flask</b></li>
   <li>OWASP security Shepard: https://hub.docker.com/r/ismisepaul/securityshepherd/<br>
   <b>docker run -i -p 80:80 -p 443:443 -t ismisepaul/securityshepherd /bin/bash /usr/bin/mysqld_safe & service tomcat7 start </b><br>
@@ -286,8 +286,9 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>GoSpider - gast web spider written in Go: https://github.com/jaeles-project/gospider</li>
 <li>XSS-Freak - XSS scanner fully written in python3. It crawls the website for all possible links and directories to expand its attack scope. Then it searches them for input tags and then launches a bunch of XSS payloads: https://github.com/hacker900123/XSS-Freak</li>
 <li><center><a target="_blank" rel="no-image" href="https://github.com/anouarbensaad/vulnx"><img border="0" src="https://i.ibb.co/ZxxFqxQ/vxv2.png" width="80" height="50" style="vertical-align:middle"></a>vulnx - Intelligent Bot Auto Shell Injector that detects vulnerabilities in multiple types of Cms: https://github.com/anouarbensaad/vulnx</center></li>
-<li><center><a target="_blank" rel="no-image" href="https://github.com/flipkart-incubator/Astra"><img border="0" src="https://bit.ly/371kPmF" width="120" height="50" style="vertical-align:middle"></a>Astra - REST API penetration testing tool: https://github.com/flipkart-incubator/Astra</center></li>
+<li><center><a target="_blank" rel="no-image" href="https://github.com/flipkart-incubator/Astra"><img border="0" src="https://bit.ly/371kPmF" width="120" height="50" style="vertical-align:middle" class="CircleBadge CircleBadge--small float-left mr-2"></a>Astra - REST API penetration testing tool: https://github.com/flipkart-incubator/Astra</center></li>
 <li><a target="_blank" rel="no-image" href="https://github.com/thewhiteh4t/finalrecon"><img border="0" src="https://bit.ly/2zQrKDn" width="80" height="50" style="vertical-align:middle"></a><center>finalrecon - fast and simple python script for web reconnaissance: https://github.com/thewhiteh4t/finalrecon</center></li>
+  <li>Payloads - A collection of web attack payloads: https://github.com/foospidy/payloads </li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
@@ -382,4 +383,4 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>dnsprobe - a tool built on top of retryabledns that allows you to perform multiple dns queries of your choice with a list of user supplied resolvers: https://github.com/projectdiscovery/dnsprobe</li>
 <li><a target="_blank" rel="no-image" href="https://github.com/loadimpact/k6"><img border="0" src="https://bit.ly/3704xuo" width="80" height="50" style="vertical-align:middle"></a><center>k6 - a modern load testing tool, building on Load Impact's years of experience in the load and performance testing industry: https://github.com/loadimpact/k6</center></li>
 <li><a target="_blank" rel="no-image" href="https://github.com/microsoft/playwright"><g-emoji class="g-emoji" alias="performing_arts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ad.png">🎭</g-emoji></a><center>Playwright - a Node library to automate Chromium, Firefox and WebKit with a single API. Playwright is built to enable cross-browser web automation that is ever-green, capable, reliable and fast: https://github.com/microsoft/playwright</center></li>
-<li>httpie a user-friendly command-line HTTP client for the API era: https://httpie.org/</li>
+<li>httpie - a user-friendly command-line HTTP client for the API era: https://httpie.org/</li>
