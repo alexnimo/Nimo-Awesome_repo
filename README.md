@@ -36,6 +36,7 @@
   <li>Malware sample downloader - https://hub.docker.com/r/remnux/maltrieve/ </li>
   <li> Awesome docker repo: https://github.com/veggiemonk/awesome-docker </li>
   <li> OWASP Security Knowledge Framework: https://github.com/blabla1337/skf-flask <br>
+  <li><center> <a target="_blank" rel="no-image" href="https://github.com/hadolint/hadolint"><img border="0" src="https://bit.ly/2ODiXs5" width="50" height="50" style="vertical-align:middle"></a>Haskell Dockerfile Linter - A smarter Dockerfile linter that helps you build best practice Docker images: https://github.com/hadolint/hadolint</center> </li>
   <b>docker run -ti -p 127.0.0.1:443:5443 blabla1337/skf-flask</b></li>
   <li>OWASP security Shepard: https://hub.docker.com/r/ismisepaul/securityshepherd/<br>
   <b>docker run -i -p 80:80 -p 443:443 -t ismisepaul/securityshepherd /bin/bash /usr/bin/mysqld_safe & service tomcat7 start </b><br>
@@ -242,6 +243,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     <li>jpcertcc - This site summarizes the results of examining logs recorded in Windows upon execution of the 49 tools which are likely to be used by the attacker that has infiltrated a network: https://jpcertcc.github.io/ToolAnalysisResultSheet/#</li>
     <li>Slingshot C2 Matrix Edition - made in collaboration with SANS, Ryan O'Grady, and C2 Matrix contributors. The goal is to lower the learning curve of installing each C2 framework and getting you straight to testing which C2s work against your organization: https://howto.thec2matrix.com/slingshot-c2-matrix-edition</li>
     <li>uncoder.io - online translator for SIEM saved searches, filters, queries, API requests, correlation and Sigma rules to help SOC Analysts, Threat Hunters and SIEM Engineers: https://uncoder.io/</li>
+    <li>F-secure - Attack Detection Fundamentals: https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-1/</li>
     </span>
   </p3>
   </ul>
@@ -324,6 +326,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>HTML/CSS/JS interactive Cheatsheet: http://htmlcheatsheet.com/</li>
 <li>Misc HTML tools: https://hreftools.com/ </li>
 <li>JSfiddle: https://jsfiddle.net/ </li>
+<li>Code validator (Yaml, JSON, JS, etc): https://codebeautify.org/yaml-validator </li>
 <li>social IDE: https://codepen.io/</li>
 <li>json path finder: https://jsonpath.com/ </li>
 <li>json query language: https://jmespath.org/ </li>
@@ -348,6 +351,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Hosted REST API: https://reqres.in/ </li>
   <li>httpbin - A simple HTTP Request & Response Service: http://httpbin.org/</li>
   <li>Fake REST API with JSON and POSTMAN: https://dev.to/tadea/fake-rest-api-with-json-and-postman-5gi8</li>
+  <li>Petstore - a sample server Petstore server: https://petstore.swagger.io/</li>
+  <li>Parabank REST API: http://parabank.parasoft.com/parabank/api-docs/index.html</li>
   </ul>
   
 </br>
@@ -376,3 +381,4 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>dnsprobe - a tool built on top of retryabledns that allows you to perform multiple dns queries of your choice with a list of user supplied resolvers: https://github.com/projectdiscovery/dnsprobe</li>
 <li><a target="_blank" rel="no-image" href="https://github.com/loadimpact/k6"><img border="0" src="https://bit.ly/3704xuo" width="80" height="50" style="vertical-align:middle"></a><center>k6 - a modern load testing tool, building on Load Impact's years of experience in the load and performance testing industry: https://github.com/loadimpact/k6</center></li>
 <li><a target="_blank" rel="no-image" href="https://github.com/microsoft/playwright"><g-emoji class="g-emoji" alias="performing_arts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ad.png">🎭</g-emoji></a><center>Playwright - a Node library to automate Chromium, Firefox and WebKit with a single API. Playwright is built to enable cross-browser web automation that is ever-green, capable, reliable and fast: https://github.com/microsoft/playwright</center></li>
+<li>httpie a user-friendly command-line HTTP client for the API era: https://httpie.org/</li>
