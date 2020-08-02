@@ -248,7 +248,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     </span>
   </p3>
   </ul>
-       <h3><b>Blue Teams - Honeypots / IDS / Traps</b></h3>
+       <h3><b>Blue Teams - Honeypots / IDS / Traps/ CTR</b></h3>
     <ul>
       <p3>
         <span>
@@ -259,20 +259,25 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
              <li>portspoof: https://github.com/drk1wi/portspoof </li>
           <li>GeoLogonalyzer - a utility to perform location and metadata lookups on source IP addresses of remote access logs: https://github.com/fireeye/GeoLogonalyzer </li>
           <li>Dejavu - open source deception framework which can be used to deploys deploy multiple interactive decoys: https://github.com/bhdresh/Dejavu</li>
+          <li><a target="_blank" rel="no-image" href="https://github.com/fireeye/capa"><img border="0" src="https://github.com/fireeye/capa/raw/master/.github/logo.png" width="120" height="50" style="vertical-align:middle"></a> - detects capabilities in executable files. You run it against a PE file or shellcode and it tells you what it thinks the program can do </li>
           <li>gravwell-community-edition: https://www.gravwell.io/blog/gravwell-community-edition</li>
           <li>logz.io: https://logz.io/</li>
           <li>SIEMonster: https://siemonster.com/</li>
           <li>Dsiem - Dsiem is a security event correlation engine for ELK stack, allowing the platform to be used as a       dedicated and full-featured SIEM system: https://github.com/defenxor/dsiem </li>
           <li>CyberSponse - community edtion: https://cybersponse.com/community-edition/</li>
           <li>Dflabs - community edition: https://www.dflabs.com/incman-soar-community-edition/</li>
+          <li><a target="_blank" rel="no-image" href="https://thehive-project.org/"><img border="0" src="https://thehive-project.org/assets/img/logos/thehive.svg" width="80" height="35" style="vertical-align:middle"></a> - A scalable, open source and free Security Incident Response Platform, tightly integrated with MISP: https://thehive-project.org/ </li>
           <li>Sigma - generic and open signature format that allows you to describe relevant log events in a straight forward manner: https://github.com/Neo23x0/sigma | https://github.com/socprime/SigmaUI </li>
           <li>MozDef - The Mozilla Enterprise Defense Platform (MozDef) seeks to automate the security incident handling process and facilitate the real-time activities of incident handlers: https://github.com/mozilla/MozDef </li>
+          <li><a target="_blank" rel="no-image" href="https://www.opencti.io/en/"><img border="0" src="https://www.opencti.io/wp-content/uploads/2019/02/logo_text.png" width="120" height="35" style="vertical-align:middle"></a> - Unified platform for all levels of Cyber Threat Intelligence: https://www.opencti.io/en/</li>
+          <li><a target="_blank" rel="no-image" href="https://wazuh.com/"><img border="0" src="https://wazuh.com/wp-content/themes/wazuh/assets/images/wazuh_logo.svg" width="80" height="35" style="vertical-align:middle"></a> - nterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance: https://wazuh.com/</li>
           <li>spidertrap - Trap web crawlers and spiders in an infinite set of dynamically generated webpage: https://github.com/adhdproject/adhdproject.github.io/blob/master/Tools/Spidertrap.md </li>
           <li>ElastAlert - a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch: https://github.com/Yelp/elastalert</li>
           <li>glastof - is a Python web application honeypot founded by Lukas Rist:https://github.com/mushorg/glastopf </li>
           <li>compot - is a low interactive server side Industrial Control Systems honeypot designed to be easy to deploy, modify and extend: http://conpot.org/ </li>
           <li>Malcolm - an easily deployable network analysis tool suite for full packet capture artifacts (PCAP files) and Zeek logs: https://github.com/idaholab/Malcolm/blob/master/README.md</li>
           <li><center><a target="_blank" rel="no-image" href="https://honeydb.io/"><img border="0" src="https://honeydb.io/static/img/honeydb.png" width="40" height="40" style="vertical-align:middle"></a>HoneyDB - provides real time data of honeypot activity. This data comes from honeypot sensors deployed globally on the Internet: https://honeydb.io/</center></li>
+          <li><a target="_blank" rel="no-image" href="https://github.com/saferwall/saferwall"><img border="0" src="https://camo.githubusercontent.com/88d5bf65402c828dfa402bf9fd700441c2975efa/68747470733a2f2f692e696d6775722e636f6d2f7a6a434f4b506f2e706e67" width="65" height="50" style="vertical-align:middle"></a> -  malware analysis platform: https://github.com/saferwall/saferwall </li>
             </span>
             </p3>
             </ul><br>
@@ -289,6 +294,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li><center><a target="_blank" rel="no-image" href="https://github.com/flipkart-incubator/Astra"  class="CircleBadge CircleBadge--small float-left mr-2"><img border="0" src="https://bit.ly/371kPmF" width="120" height="50" style="vertical-align:middle" class="CircleBadge-icon"></a>Astra - REST API penetration testing tool: https://github.com/flipkart-incubator/Astra</center></li>
 <li><a target="_blank" rel="no-image" href="https://github.com/thewhiteh4t/finalrecon"><img border="0" src="https://bit.ly/2zQrKDn" width="80" height="50" style="vertical-align:middle"></a><center>finalrecon - fast and simple python script for web reconnaissance: https://github.com/thewhiteh4t/finalrecon</center></li>
   <li>Payloads - A collection of web attack payloads: https://github.com/foospidy/payloads </li>
+  <li>AuthMatrix - an extension to Burp Suite that provides a simple way to test authorization in web applications and web services: https://github.com/SecurityInnovation/AuthMatrix</li>
+  <li><a target="_blank" rel="no-image" href="https://github.com/eth0izzle/shhgit"><img border="0" src="https://github.com/eth0izzle/shhgit/raw/master/images/shhgit.png" width="50" height="50" style="vertical-align:middle"></a> -  shhgit finds secrets and sensitive files across GitHub (including Gists), GitLab and BitBucket committed in near real time: https://github.com/eth0izzle/shhgit </li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
@@ -309,6 +316,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>MSOLSpray - A password spraying tool for Microsoft Online accounts (Azure/O365): https://github.com/dafthack/MSOLSpray </li>
 <li>Deepfence Runtime Threat Mapper - is a subset of the Deepfence cloud native workload protection platform, released as a community edition: https://github.com/deepfence/ThreatMapper/blob/master/README.md</li>
 <li>Dow Jones Hammer - a multi-account cloud security tool for AWS. It identifies misconfigurations and insecure data exposures within most popular AWS resources, across all regions and accounts: https://github.com/dowjones/hammer/blob/master/README.md</li>
+<li><a target="_blank" rel="no-image" href="https://github.com/cyberark/SkyArk"><img border="0" src="https://github.com/Hechtov/Photos/raw/master/SkyArk/SkyArkLogo2.png" width="120" height="50" style="vertical-align:middle"></a> -  a cloud security project with two main scanning modules- AzureStealth | AWStealth: https://github.com/cyberark/SkyArk </li>
 </ul>
 </br>
 
@@ -355,6 +363,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Fake REST API with JSON and POSTMAN: https://dev.to/tadea/fake-rest-api-with-json-and-postman-5gi8</li>
   <li>Petstore - a sample server Petstore server: https://petstore.swagger.io/</li>
   <li>Parabank REST API: http://parabank.parasoft.com/parabank/api-docs/index.html</li>
+  <li>Use curl to interact with an API: https://www.redhat.com/sysadmin/use-curl-api</li>
   </ul>
   
 </br>
