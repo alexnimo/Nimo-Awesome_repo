@@ -181,7 +181,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>Adamantium-Thief - Get chromium browsers: passwords, credit cards, history, cookies, bookmarks: https://github.com/LimerBoy/Adamantium-Thief</li>
       <li>chromepass - a python-based console application that generates a windows executable that Decrypt Chrome saved paswords, Send a file with the login/password combinations remotely: https://github.com/darkarp/chromepass/blob/master/README.md</li>
       <li>invoker - The goal is to use this tool when access to some Windows OS features through GUI is restricted: https://github.com/ivan-sincek/invoker</li>
-      <li>Talon - a tool designed to perform automated password guessing attacks while remaining undetected. Great for user enumartion in domain environment(LDAP/Kerberos): https://github.com/optiv/talon | Great blog post regarding the attack: https://www.optiv.com/explore-optiv-insights/blog/digging-your-talons-new-take-password-guessing </li> 
+      <li>Talon - a tool designed to perform automated password guessing attacks while remaining undetected. Great for user enumartion in domain environment(LDAP/Kerberos): https://github.com/optiv/talon | Great blog post regarding the attack: https://www.optiv.com/explore-optiv-insights/blog/digging-your-talons-new-take-password-guessing </li>
+      <li>ADE - ActiveDirectoryEnum: https://github.com/CasperGN/ActiveDirectoryEnumeration </li>
       </span>
   </p3>
   </ul>
@@ -283,6 +284,9 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>vulnerable-AD - create a vulnerable active directory that's allowing you to test most of active directory attacks in local lab: https://github.com/WazeHell/vulnerable-AD</li>
           <li>PurpleCloud - Pentest Cyber Range for a small Active Directory Domain. Automated templates for building your own Pentest/Red Team/Cyber Range in the Azure cloud: https://github.com/iknowjason/PurpleCloud </li>
           <li>Azure purple team lab by BLackHills InfoSec:  https://www.blackhillsinfosec.com/how-to-applied-purple-teaming-lab-build-on-azure-with-terraform/ | https://github.com/DefensiveOrigins/APT-Lab-Terraform </li>
+          <li>ATTPwn - a computer security tool designed to emulate adversaries. The tool aims to bring emulation of a real threat into closer contact with implementations based on the techniques and tactics from the MITRE ATT&CK framework: https://github.com/ElevenPaths/ATTPwn</li>
+          <li>NERVE - Network Exploitation, Reconnaissance & Vulnerability Engine: https://github.com/PaytmLabs/nerve</li>
+          <li>CHAPS - is a PowerShell script for checking system security settings where additional software and assessment tools, such as Microsoft Policy Analyzer, cannot be installed: https://github.com/cutaway-security/chaps</li>
             </span>
             </p3>
             </ul><br>
@@ -324,6 +328,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>Deepfence Runtime Threat Mapper - is a subset of the Deepfence cloud native workload protection platform, released as a community edition: https://github.com/deepfence/ThreatMapper/blob/master/README.md</li>
 <li>Dow Jones Hammer - a multi-account cloud security tool for AWS. It identifies misconfigurations and insecure data exposures within most popular AWS resources, across all regions and accounts: https://github.com/dowjones/hammer/blob/master/README.md</li>
 <li><a target="_blank" rel="no-image" href="https://github.com/cyberark/SkyArk"><img border="0" src="https://github.com/Hechtov/Photos/raw/master/SkyArk/SkyArkLogo2.png" width="120" height="50" style="vertical-align:middle"></a> -  a cloud security project with two main scanning modules- AzureStealth | AWStealth: https://github.com/cyberark/SkyArk </li>
+<li>AADInternals - PowerShell module contains tools for administering and hacking Azure AD and Office 365: https://o365blog.com/aadinternals/ | https://github.com/Gerenios/AADInternals
+<li>serverless-prey - a collection of serverless functions (FaaS), that, once launched to a cloud environment and invoked, establish a TCP reverse shell, enabling the user to introspect the underlying container: https://github.com/pumasecurity/serverless-prey</li>
 </ul>
 </br>
 
@@ -348,6 +354,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>json path finder: https://jsonpath.com/ </li>
 <li>json query language: https://jmespath.org/ </li>
 <li>repl.it - online Python compiler: https://repl.it/languages/Python%3F__s=ws9cqndijs3fipi6sacu</li>
+<li>dillinger - live markdown editor https://dillinger.io/ </li>
 <li>glitch -  the friendly community where everyone codes together: https://glitch.com/</li>
 <li>JS lint: https://jshint.com/</li>
 <li>JSON schema data generator: https://json-schema-faker.js.org/ </li>
