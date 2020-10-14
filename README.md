@@ -307,6 +307,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li><a target="_blank" rel="no-image" href="https://github.com/eth0izzle/shhgit"><img border="0" src="https://github.com/eth0izzle/shhgit/raw/master/images/shhgit.png" width="50" height="50" style="vertical-align:middle"></a> -  shhgit finds secrets and sensitive files across GitHub (including Gists), GitLab and BitBucket committed in near real time: https://github.com/eth0izzle/shhgit </li>
   <li><a target="_blank" rel="no-image" href="https://www.sken.ai/"><img border="0" src="https://www.sken.ai/assets/img/logo.svg" width="100" height="50" style="vertical-align:middle"></a> - One tool to do all scans. Sken packages and manages open source scanners across all scan types, adds a SaaS orchestration layer and automates them in CI/CD: https://www.sken.ai/ </li>
   <li><a target="_blank" rel="no-image" href="https://github.com/LasCC/Hack-Tools"><img border="0" src="https://bit.ly/3hCDZUB" width="80" height="35" style="vertical-align:middle"></a>Hack-Tools - the all-in-one Red Team browser extension for Web Pentesters: https://github.com/LasCC/Hack-Tools</li>
+  <li><a target="_blank" rel="no-image" href="https://github.com/epi052/feroxbuster"><img border="0" src="https://github.com/epi052/feroxbuster/raw/master/img/logo/default-cropped.png" width="95" height="45" style="vertical-align:middle"></a> - A simple, fast, recursive content discovery tool written in Rust</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
@@ -347,7 +348,6 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>Qualys SSL Labs Browser Test: https://www.ssllabs.com/ssltest/viewMyClient.html </li>
 <li>Explain Shell Commands: https://explainshell.com/ </li>
 <li>HTML/CSS/JS interactive Cheatsheet: http://htmlcheatsheet.com/</li>
-<li>Misc HTML tools: https://hreftools.com/ </li>
 <li>JSfiddle: https://jsfiddle.net/ </li>
 <li>Code validator (Yaml, JSON, JS, etc): https://codebeautify.org/yaml-validator </li>
 <li>social IDE: https://codepen.io/</li>
