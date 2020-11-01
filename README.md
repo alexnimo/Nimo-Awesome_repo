@@ -246,6 +246,9 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     <li>Slingshot C2 Matrix Edition - made in collaboration with SANS, Ryan O'Grady, and C2 Matrix contributors. The goal is to lower the learning curve of installing each C2 framework and getting you straight to testing which C2s work against your organization: https://howto.thec2matrix.com/slingshot-c2-matrix-edition</li>
     <li>uncoder.io - online translator for SIEM saved searches, filters, queries, API requests, correlation and Sigma rules to help SOC Analysts, Threat Hunters and SIEM Engineers: https://uncoder.io/</li>
     <li>F-secure - Attack Detection Fundamentals: https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-1/</li>
+    <li>PwnDoc - a pentest reporting application making it simple and easy to write your findings and generate a customizable Docx report: https://github.com/pwndoc/pwndoc </li>
+    <li>ThreatPursuit-VM - MANDIANT THREAT INTELLIGENCE VM: https://github.com/fireeye/ThreatPursuit-VM</li>
+    <li>KQL Internals: https://identityandsecuritydotcom.files.wordpress.com/2020/08/kql_internals_hk.pdf </li>
     </span>
   </p3>
   </ul>
@@ -256,6 +259,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>honeybits - spread breadcrumbs & honeytokens: https://github.com/0x4D31/honeybits</li>
           <li>DTAG(T-Pot creators) https://github.com/dtag-dev-sec </li>
           <li> rockNSM(IDS) installation notes from SANS: https://isc.sans.edu/diary/rss/22832 </li>
+          <li><a target="_blank" rel="no-image" href="https://securityonionsolutions.com/software/"><img border="0" src="https://pbs.twimg.com/profile_images/1285648758525526017/gQFtcr9m.jpg" width="60" height="50" style="vertical-align:middle"></a><center>Security Onion 2 - free and open source Linux distribution for threat hunting, enterprise security monitoring, and log management. It includes TheHive, Playbook and Sigma, Fleet and osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, Zeek, Wazuh, and many other security tools: https://securityonionsolutions.com/software/ | https://docs.securityonion.net/en/2.3/about.html</center></li>
             <li>unfetter: https://github.com/unfetter-analytic/unfetter </li>
              <li>portspoof: https://github.com/drk1wi/portspoof </li>
           <li>GeoLogonalyzer - a utility to perform location and metadata lookups on source IP addresses of remote access logs: https://github.com/fireeye/GeoLogonalyzer </li>
@@ -287,6 +291,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>ATTPwn - a computer security tool designed to emulate adversaries. The tool aims to bring emulation of a real threat into closer contact with implementations based on the techniques and tactics from the MITRE ATT&CK framework: https://github.com/ElevenPaths/ATTPwn</li>
           <li>NERVE - Network Exploitation, Reconnaissance & Vulnerability Engine: https://github.com/PaytmLabs/nerve</li>
           <li>CHAPS - is a PowerShell script for checking system security settings where additional software and assessment tools, such as Microsoft Policy Analyzer, cannot be installed: https://github.com/cutaway-security/chaps</li>
+          <li>Brim - open source desktop application for security and network specialists. Brim makes it easy to search and analyze data from packet captures like those created by Wireshark and structured logs, especially from the Zeek network analysis framework: https://github.com/brimsec/brim </li>
             </span>
             </p3>
             </ul><br>
@@ -308,6 +313,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li><a target="_blank" rel="no-image" href="https://www.sken.ai/"><img border="0" src="https://www.sken.ai/assets/img/logo.svg" width="100" height="50" style="vertical-align:middle"></a> - One tool to do all scans. Sken packages and manages open source scanners across all scan types, adds a SaaS orchestration layer and automates them in CI/CD: https://www.sken.ai/ </li>
   <li><a target="_blank" rel="no-image" href="https://github.com/LasCC/Hack-Tools"><img border="0" src="https://bit.ly/3hCDZUB" width="80" height="35" style="vertical-align:middle"></a>Hack-Tools - the all-in-one Red Team browser extension for Web Pentesters: https://github.com/LasCC/Hack-Tools</li>
   <li><a target="_blank" rel="no-image" href="https://github.com/epi052/feroxbuster"><img border="0" src="https://github.com/epi052/feroxbuster/raw/master/img/logo/default-cropped.png" width="95" height="45" style="vertical-align:middle"></a> - A simple, fast, recursive content discovery tool written in Rust</li>
+  <li><a target="_blank" rel="no-image" href="https://github.com/jaeles-project/jaeles"><img border="0" src="https://github.com/jaeles-project/jaeles-plugins/raw/master/assets/jaeles.png?raw=true" width="60" height="50" style="vertical-align:middle"></a><center>Jaeles - a powerful, flexible and easily extensible framework written in Go for building your own Web Application Scanner: https://github.com/jaeles-project/jaeles</center></li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
