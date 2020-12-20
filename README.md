@@ -293,6 +293,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>NERVE - Network Exploitation, Reconnaissance & Vulnerability Engine: https://github.com/PaytmLabs/nerve</li>
           <li>CHAPS - is a PowerShell script for checking system security settings where additional software and assessment tools, such as Microsoft Policy Analyzer, cannot be installed: https://github.com/cutaway-security/chaps</li>
           <li>Brim - open source desktop application for security and network specialists. Brim makes it easy to search and analyze data from packet captures like those created by Wireshark and structured logs, especially from the Zeek network analysis framework: https://github.com/brimsec/brim </li>
+          <li><a target="_blank" rel="no-image" href="http://openuba.org/"><img border="0" src="http://openuba.org/img/logo.png" width="85" height="15" style="vertical-align:middle"></a> - A FLEXIBLE OPEN SOURCE UEBA PLATFORM USED FOR SECURITY ANALYTICS: http://openuba.org/</li>
             </span>
             </p3>
             </ul><br>
@@ -341,6 +342,14 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 </ul>
 </br>
 
+<h3><b>office365 / AAD Security</h3></b>
+<ul>
+<li><a target="_blank" rel="no-image" href="https://github.com/dirkjanm/ROADtools"><img border="0" src="https://github.com/dirkjanm/ROADtools/raw/master/roadrecon/frontend/src/assets/rt_transparent.svg" width="120" height="50" style="vertical-align:middle"></a> -  a framework to interact with Azure AD. It currently consists of a library (roadlib) and the ROADrecon Azure AD exploration tool: https://github.com/dirkjanm/ROADtools </li>
+<li>o365recon - script to retrieve information via O365 with a valid cred: https://github.com/nyxgeek/o365recon</li>
+<li>MailSniper -  a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.). It can be used as a non-administrative user to search their own email, or by an Exchange administrator to search the mailboxes of every user in a domain: https://github.com/dafthack/MailSniper</li>
+<li>o365creeper - is a simple Python script used to validate email accounts that belong to Office 365 tenants: https://github.com/LMGsec/o365creeper</li>
+</ul>
+</br>
 
 <p2><b><u>Online Tools</u></b><p2>
 <ul>
