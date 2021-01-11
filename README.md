@@ -184,6 +184,9 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>Talon - a tool designed to perform automated password guessing attacks while remaining undetected. Great for user enumartion in domain environment(LDAP/Kerberos): https://github.com/optiv/talon | Great blog post regarding the attack: https://www.optiv.com/explore-optiv-insights/blog/digging-your-talons-new-take-password-guessing </li>
       <li>ADE - ActiveDirectoryEnum: https://github.com/CasperGN/ActiveDirectoryEnumeration </li>
       <li>PYTMIPE - PYthon library for Token Manipulation and Impersonation for Privilege Escalation: https://github.com/quentinhardy/pytmipe</li>
+      <li>Invoke-PSImage - Encodes a PowerShell script in the pixels of a PNG file and generates a oneliner to execute: https://github.com/peewpw/Invoke-PSImage</li>
+      <li>wynis - Just a powershell scripts for auditing security with CIS BEST Practices Windows 10 and Window Server 2016: https://github.com/Sneakysecdoggo/Wynis</li>
+      <li>emp3r0r - linux post-exploitation framework written in go: https://github.com/jm33-m0/emp3r0r</li> 
       </span>
   </p3>
   </ul>
@@ -201,6 +204,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Phishing Simulation - mainly aims to increase phishing awareness by providing an intuitive tutorial and customized assessment: https://github.com/jenyraval/Phishing-Simulation</li>
           <li>ShellPhish - Phishing Tool for Instagram, Facebook, Twitter, Snapchat, Github, Yahoo and more: https://github.com/thelinuxchoice/shellphish</li>
           <li>zphisher - upgrdaed version(fork) of Shellphish: https://github.com/htr-tech/zphisher</li>
+          <li>nexphisher - Advanced phishing tool: https://github.com/htr-tech/nexphisher</li>
+          <li>maskphish - a simple script to hide phishing URL under a normal looking URL(google.com or facebook.com): https://github.com/jaykali/maskphish</li>
       </span>
     </p3>
     </ul><br>
@@ -294,6 +299,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>CHAPS - is a PowerShell script for checking system security settings where additional software and assessment tools, such as Microsoft Policy Analyzer, cannot be installed: https://github.com/cutaway-security/chaps</li>
           <li>Brim - open source desktop application for security and network specialists. Brim makes it easy to search and analyze data from packet captures like those created by Wireshark and structured logs, especially from the Zeek network analysis framework: https://github.com/brimsec/brim </li>
           <li><a target="_blank" rel="no-image" href="http://openuba.org/"><img border="0" src="http://openuba.org/img/logo.png" width="85" height="15" style="vertical-align:middle"></a> - A FLEXIBLE OPEN SOURCE UEBA PLATFORM USED FOR SECURITY ANALYTICS: http://openuba.org/</li>
+          <li>Intel Owl - OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale: https://github.com/intelowlproject/IntelOwl</li>
+          <li>Intrigue Core - open attack surface enumeration engine. It integrates and orchestrates a wide variety of  security data sources, distilling them into a normalized object model: https://core.intrigue.io/</li>
             </span>
             </p3>
             </ul><br>
@@ -316,6 +323,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li><a target="_blank" rel="no-image" href="https://github.com/LasCC/Hack-Tools"><img border="0" src="https://bit.ly/3hCDZUB" width="80" height="35" style="vertical-align:middle"></a>Hack-Tools - the all-in-one Red Team browser extension for Web Pentesters: https://github.com/LasCC/Hack-Tools</li>
   <li><a target="_blank" rel="no-image" href="https://github.com/epi052/feroxbuster"><img border="0" src="https://github.com/epi052/feroxbuster/raw/master/img/logo/default-cropped.png" width="95" height="45" style="vertical-align:middle"></a> - A simple, fast, recursive content discovery tool written in Rust</li>
   <li><a target="_blank" rel="no-image" href="https://github.com/jaeles-project/jaeles"><img border="0" src="https://github.com/jaeles-project/jaeles-plugins/raw/master/assets/jaeles.png?raw=true" width="60" height="50" style="vertical-align:middle"></a><center>Jaeles - a powerful, flexible and easily extensible framework written in Go for building your own Web Application Scanner: https://github.com/jaeles-project/jaeles</center></li>
+  <li>tamper.dev - an extension that allows you to edit HTTP/HTTPS requests and responses as they happen without the need of a proxy: https://tamper.dev/ </li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
@@ -333,12 +341,12 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <h3><b>Cloud Security</h3></b>
 <ul>
 <li>serverless-prey - a collection of serverless functions (FaaS), that, once launched to a cloud environment and invoked, establish a TCP reverse shell, enabling the user to introspect the underlying container: https://github.com/pumasecurity/serverless-prey </li>
-<li>MSOLSpray - A password spraying tool for Microsoft Online accounts (Azure/O365): https://github.com/dafthack/MSOLSpray </li>
 <li>Deepfence Runtime Threat Mapper - is a subset of the Deepfence cloud native workload protection platform, released as a community edition: https://github.com/deepfence/ThreatMapper/blob/master/README.md</li>
 <li>Dow Jones Hammer - a multi-account cloud security tool for AWS. It identifies misconfigurations and insecure data exposures within most popular AWS resources, across all regions and accounts: https://github.com/dowjones/hammer/blob/master/README.md</li>
 <li><a target="_blank" rel="no-image" href="https://github.com/cyberark/SkyArk"><img border="0" src="https://github.com/Hechtov/Photos/raw/master/SkyArk/SkyArkLogo2.png" width="120" height="50" style="vertical-align:middle"></a> -  a cloud security project with two main scanning modules- AzureStealth | AWStealth: https://github.com/cyberark/SkyArk </li>
-<li>AADInternals - PowerShell module contains tools for administering and hacking Azure AD and Office 365: https://o365blog.com/aadinternals/ | https://github.com/Gerenios/AADInternals
 <li>serverless-prey - a collection of serverless functions (FaaS), that, once launched to a cloud environment and invoked, establish a TCP reverse shell, enabling the user to introspect the underlying container: https://github.com/pumasecurity/serverless-prey</li>
+<li>Prowler - AWS Security Toola command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool: https://github.com/toniblyx/prowler</li>
+<li>cloudsploit (Aqua) - an open-source project designed to allow detection of security risks in cloud infrastructure accounts: https://github.com/aquasecurity/cloudsploit </li>
 </ul>
 </br>
 
@@ -348,6 +356,10 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>o365recon - script to retrieve information via O365 with a valid cred: https://github.com/nyxgeek/o365recon</li>
 <li>MailSniper -  a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.). It can be used as a non-administrative user to search their own email, or by an Exchange administrator to search the mailboxes of every user in a domain: https://github.com/dafthack/MailSniper</li>
 <li>o365creeper - is a simple Python script used to validate email accounts that belong to Office 365 tenants: https://github.com/LMGsec/o365creeper</li>
+<li>Sparrow.ps1 - created by CISA's Cloud Forensics team to help detect possible compromised accounts and applications in the Azure/m365 environment: https://github.com/cisagov/Sparrow</li>
+<li>CrowdStrike Reporting Tool for Azure (CRT): https://github.com/CrowdStrike/CRT</li>
+<li>MSOLSpray - A password spraying tool for Microsoft Online accounts (Azure/O365): https://github.com/dafthack/MSOLSpray </li>
+<li>AADInternals - PowerShell module contains tools for administering and hacking Azure AD and Office 365: https://o365blog.com/aadinternals/ | https://github.com/Gerenios/AADInternals </li>
 </ul>
 </br>
 
