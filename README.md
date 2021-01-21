@@ -125,6 +125,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>MalwareBazaar - is a project from abuse.ch with the goal of sharing malware samples with the infosec community, AV vendors and threat intelligence providers: https://bazaar.abuse.ch/ </li>
           <li>RapidPayload - Metasploit Payload Generator: https://github.com/AngelSecurityTeam/RapidPayload</li>
           <li><center><a target="_blank" rel="no-image" href="https://github.com/EgeBalci/sgn/blob/master/README.md"><img border="0" src="https://github.com/EgeBalci/sgn/raw/master/img/banner.png" width="85" height="20" style="vertical-align:middle"></a>SGN - a polymorphic binary encoder for offensive security purposes such as generating statically undetecable binary payloads: https://github.com/EgeBalci/sgn/blob/master/README.md</center></li>
+          <li>Arbitrium-RAT - a cross-platform is a remote access trojan (RAT), Fully UnDetectable (FUD), It allows you to control Android, Windows and Linux and doesn't require any firewall exceptions or port forwarding: https://github.com/BenChaliah/Arbitrium-RAT</li>
       </span>
      </p3>
           </ul>
@@ -155,6 +156,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>DNS-Shell - is an interactive Shell over DNS channel: https://github.com/sensepost/DNS-Shell </li>
           <li>ninja -  C2 server created by Purple Team to do stealthy computer and Active directoty enumeration without being detected by SIEM and AVs: https://github.com/ahmedkhlief/Ninja</li>
           <li>faction framework - a C2 framework for security professionals, providing an easy way to extend and interact with agents. It focuses on providing an easy, stable, and approachable platform for C2 communications through well documented REST and Socket.IO APIs: https://www.factionc2.com/</li>
+          <li>chisel - a fast TCP/UDP tunnel, transported over HTTP, secured via SSH: https://github.com/jpillora/chisel</li>
           </p3>
         </span>
  </ul>
@@ -186,7 +188,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>PYTMIPE - PYthon library for Token Manipulation and Impersonation for Privilege Escalation: https://github.com/quentinhardy/pytmipe</li>
       <li>Invoke-PSImage - Encodes a PowerShell script in the pixels of a PNG file and generates a oneliner to execute: https://github.com/peewpw/Invoke-PSImage</li>
       <li>wynis - Just a powershell scripts for auditing security with CIS BEST Practices Windows 10 and Window Server 2016: https://github.com/Sneakysecdoggo/Wynis</li>
-      <li>emp3r0r - linux post-exploitation framework written in go: https://github.com/jm33-m0/emp3r0r</li> 
+      <li>emp3r0r - linux post-exploitation framework written in go: https://github.com/jm33-m0/emp3r0r</li>
+      <li><a target="_blank" rel="no-image" href="https://github.com/vulmon/Vulmap"><img border="0" src="https://raw.githubusercontent.com/vulmon/Vulmap/master/Vulmap-Windows/vulmap-logo.png" width="65" height="35" style="vertical-align:middle"></a>Vulmap - online local vulnerability scanner project. It consists of online local vulnerability scanning programs for Windows and Linux operating systems. These scripts can be used for defensive and offensive purposes: https://github.com/vulmon/Vulmap </li>
       </span>
   </p3>
   </ul>
@@ -206,6 +209,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>zphisher - upgrdaed version(fork) of Shellphish: https://github.com/htr-tech/zphisher</li>
           <li>nexphisher - Advanced phishing tool: https://github.com/htr-tech/nexphisher</li>
           <li>maskphish - a simple script to hide phishing URL under a normal looking URL(google.com or facebook.com): https://github.com/jaykali/maskphish</li>
+          <li>Gophish - phishing toolkit designed for businesses and penetration testers. It provides the ability to quickly and easily setup and execute phishing engagements and security awareness training: https://github.com/gophish/gophish</li>
       </span>
     </p3>
     </ul><br>
@@ -223,6 +227,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>EasySploit - Metasploit automation: https://github.com/KALILINUXTRICKSYT/easysploit </li>
       <li>pwndrop - self-deployable file hosting service for sending out red teaming payloads or securely sharing your private files over HTTP and WebDAV: https://github.com/kgretzky/pwndrop</li>
       <li><center><a target="_blank" rel="no-image" href="https://github.com/cobbr/Covenant"><img border="0" src="https://raw.githubusercontent.com/wiki/cobbr/Covenant/covenant.png" width="90" height="20" style="vertical-align:middle"></a> - a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers: https://github.com/cobbr/Covenant</center></li>
+      <li>SnitchDNS - s a database driven DNS Server with a Web UI, written in Python and Twisted, that makes DNS administration easier with all configuration changed applied instantly without restarting any system services: https://github.com/ctxis/SnitchDNS</li>
+      <li>prelude Operator - the first intelligent and autonomous platform built to attack, defend and train your critical assets through continuous red teaming: https://github.com/preludeorg | https://www.prelude.org/platform/operator | https://www.youtube.com/channel/UCZyx-PDZ_k7Vuzyqr4-qK9A </li>
       </span>
   </p3>
   </ul><br>
@@ -255,6 +261,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     <li>PwnDoc - a pentest reporting application making it simple and easy to write your findings and generate a customizable Docx report: https://github.com/pwndoc/pwndoc </li>
     <li>ThreatPursuit-VM - MANDIANT THREAT INTELLIGENCE VM: https://github.com/fireeye/ThreatPursuit-VM</li>
     <li>KQL Internals: https://identityandsecuritydotcom.files.wordpress.com/2020/08/kql_internals_hk.pdf </li>
+    <li>jarm - an active Transport Layer Security (TLS) server fingerprinting tool(by CRM): https://github.com/salesforce/jarm</li>
     </span>
   </p3>
   </ul>
@@ -301,6 +308,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li><a target="_blank" rel="no-image" href="http://openuba.org/"><img border="0" src="http://openuba.org/img/logo.png" width="85" height="15" style="vertical-align:middle"></a> - A FLEXIBLE OPEN SOURCE UEBA PLATFORM USED FOR SECURITY ANALYTICS: http://openuba.org/</li>
           <li>Intel Owl - OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale: https://github.com/intelowlproject/IntelOwl</li>
           <li>Intrigue Core - open attack surface enumeration engine. It integrates and orchestrates a wide variety of  security data sources, distilling them into a normalized object model: https://core.intrigue.io/</li>
+          <li>Awesome CobaltStrike Defence: https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence </li>
+
             </span>
             </p3>
             </ul><br>
