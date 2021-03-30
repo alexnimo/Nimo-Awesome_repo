@@ -89,6 +89,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>UBoat - POC HTTP Botnet designed to replicate a full weaponised commercial botnet: https://github.com/Souhardya/UBoat</li>
   <li>FireProx - FireProx leverages the AWS API Gateway to create pass-through proxies that rotate the source IP address with every request: https://github.com/ustayready/fireprox</li>
   <li>Chain Reactor - is an open source framework for composing executables that can simulate adversary behaviors and techniques on Linux endpoints: https://github.com/redcanaryco/chain-reactor </li>
+  <li>Redcloud - a powerful and user-friendly toolbox for deploying a fully featured Red Team Infrastructure using Docker.https://github.com/khast3x/Redcloud </li>
+      <li>Red Teaming/Adversary Simulation Toolkit - a collection of open source and commercial tools that aid in red team operationshttps://github.com/infosecn1nja/Red-Teaming-Toolkit </li>
 
 </span>
   </p3>
@@ -126,6 +128,12 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>RapidPayload - Metasploit Payload Generator: https://github.com/AngelSecurityTeam/RapidPayload</li>
           <li><center><a target="_blank" rel="no-image" href="https://github.com/EgeBalci/sgn/blob/master/README.md"><img border="0" src="https://github.com/EgeBalci/sgn/raw/master/img/banner.png" width="85" height="20" style="vertical-align:middle"></a>SGN - a polymorphic binary encoder for offensive security purposes such as generating statically undetecable binary payloads: https://github.com/EgeBalci/sgn/blob/master/README.md</center></li>
           <li>Arbitrium-RAT - a cross-platform is a remote access trojan (RAT), Fully UnDetectable (FUD), It allows you to control Android, Windows and Linux and doesn't require any firewall exceptions or port forwarding: https://github.com/BenChaliah/Arbitrium-RAT</li>
+          <li>ScareCrow - a payload creation framework for generating loaders for the use of side loading (not injection) into a legitimate Windows process (bypassing Application Whitelisting controls): https://github.com/optiv/ScareCrow</li>
+          <li>SharpEDRChecker - catches hidden EDRs as well via its metadata checks, more info in a blog post coming soon: https://github.com/PwnDexter/SharpEDRChecker</li>
+          <li>ratel -  penetration test tool that allows you to take control of a windows machine: https://github.com/FrenchCisco/RATel </li>
+          <li>OffensivePipeline - allows to download, compile (without Visual Studio) and obfuscate C# tools for Red Team exercises: https://github.com/Aetsu/OffensivePipeline </li>
+          <li>Limelighter - a tool which creates a spoof code signing certificates and sign binaries and DLL files to help evade EDR products and avoid MSS and sock scruitneyhttps://github.com/Tylous/Limelighter</li>
+          <li>Chimera - a (shiny and very hack-ish) PowerShell obfuscation script designed to bypass AMSI and antivirus solutions: https://github.com/tokyoneon/Chimera</li>
       </span>
      </p3>
           </ul>
@@ -157,6 +165,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>ninja -  C2 server created by Purple Team to do stealthy computer and Active directoty enumeration without being detected by SIEM and AVs: https://github.com/ahmedkhlief/Ninja</li>
           <li>faction framework - a C2 framework for security professionals, providing an easy way to extend and interact with agents. It focuses on providing an easy, stable, and approachable platform for C2 communications through well documented REST and Socket.IO APIs: https://www.factionc2.com/</li>
           <li>chisel - a fast TCP/UDP tunnel, transported over HTTP, secured via SSH: https://github.com/jpillora/chisel</li>
+          <li>Udp2raw-tunnel - A Tunnel which turns UDP Traffic into Encrypted FakeTCP/UDP/ICMP Traffic by using Raw Socket, helps you Bypass UDP FireWalls(or Unstable UDP Environment): https://github.com/wangyu-/udp2raw-tunnel</li>
+          <li>mubeng - an incredibly fast proxy checker & IP rotator with ease: https://github.com/kitabisa/mubeng</li>
           </p3>
         </span>
  </ul>
@@ -190,6 +200,10 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>wynis - Just a powershell scripts for auditing security with CIS BEST Practices Windows 10 and Window Server 2016: https://github.com/Sneakysecdoggo/Wynis</li>
       <li>emp3r0r - linux post-exploitation framework written in go: https://github.com/jm33-m0/emp3r0r</li>
       <li><a target="_blank" rel="no-image" href="https://github.com/vulmon/Vulmap"><img border="0" src="https://raw.githubusercontent.com/vulmon/Vulmap/master/Vulmap-Windows/vulmap-logo.png" width="65" height="35" style="vertical-align:middle"></a>Vulmap - online local vulnerability scanner project. It consists of online local vulnerability scanning programs for Windows and Linux operating systems. These scripts can be used for defensive and offensive purposes: https://github.com/vulmon/Vulmap </li>
+      <li>traitor - automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy: https://github.com/liamg/traitor</li>
+      <li>pwncat - a post-exploitation platform for Linux targets. It started out as a wrapper around basic bind and reverse shells and has grown from there. It streamlines common red team operations while staging code from your attacker machine, not the target: https://github.com/calebstewart/pwncat </li>
+      <li>reverse-shell-generator - Hosted Reverse Shell generator with a ton of functionality: https://github.com/0dayCTF/reverse-shell-generator </li>
+      <li>Go-RouterSocks - this tool will expose one socks port and route the traffic through the configured path: https://github.com/nodauf/Go-RouterSocks</li>
       </span>
   </p3>
   </ul>
@@ -229,6 +243,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li><center><a target="_blank" rel="no-image" href="https://github.com/cobbr/Covenant"><img border="0" src="https://raw.githubusercontent.com/wiki/cobbr/Covenant/covenant.png" width="90" height="20" style="vertical-align:middle"></a> - a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers: https://github.com/cobbr/Covenant</center></li>
       <li>SnitchDNS - s a database driven DNS Server with a Web UI, written in Python and Twisted, that makes DNS administration easier with all configuration changed applied instantly without restarting any system services: https://github.com/ctxis/SnitchDNS</li>
       <li>prelude Operator - the first intelligent and autonomous platform built to attack, defend and train your critical assets through continuous red teaming: https://github.com/preludeorg | https://www.prelude.org/platform/operator | https://www.youtube.com/channel/UCZyx-PDZ_k7Vuzyqr4-qK9A </li>
+      <li>ARTi-C2 - is a modern execution framework built to empower security teams to scale attack scenario execution from single and multi-breach point targets with the intent to produce actionable attack intelligence that improves the effectiveness security products and incident response: https://github.com/blackbotinc/Atomic-Red-Team-Intelligence-C2</li>
+      <li>PowerSharpPack - many usefull offensive CSharp Projects wraped into Powershell for easy usage: https://github.com/S3cur3Th1sSh1t/PowerSharpPack</li>
       </span>
   </p3>
   </ul><br>
@@ -263,6 +279,9 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     <li>KQL Internals: https://identityandsecuritydotcom.files.wordpress.com/2020/08/kql_internals_hk.pdf </li>
     <li>jarm - an active Transport Layer Security (TLS) server fingerprinting tool(by CRM): https://github.com/salesforce/jarm</li>
     <li>BruteShark - a Network Forensic Analysis Tool (NFAT) that performs deep processing and inspection of network traffic (mainly PCAP files): https://github.com/odedshimon/BruteShark </li>
+    <li>Name-that-hash - will name that hash type: https://github.com/HashPals/Name-That-Hash</li>
+    <li>Windows & Active Directory Exploitation Cheat Sheet and Command Reference: https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/</li>
+
     </span>
   </p3>
   </ul>
@@ -303,6 +322,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>PurpleCloud - Pentest Cyber Range for a small Active Directory Domain. Automated templates for building your own Pentest/Red Team/Cyber Range in the Azure cloud: https://github.com/iknowjason/PurpleCloud </li>
           <li>Azure purple team lab by BLackHills InfoSec:  https://www.blackhillsinfosec.com/how-to-applied-purple-teaming-lab-build-on-azure-with-terraform/ | https://github.com/DefensiveOrigins/APT-Lab-Terraform </li>
           <li>ATTPwn - a computer security tool designed to emulate adversaries. The tool aims to bring emulation of a real threat into closer contact with implementations based on the techniques and tactics from the MITRE ATT&CK framework: https://github.com/ElevenPaths/ATTPwn</li>
+          <li>Redcloud -  a powerful and user-friendly toolbox for deploying a fully featured Red Team Infrastructure using Docker: https://github.com/khast3x/Redcloud </li>
           <li>NERVE - Network Exploitation, Reconnaissance & Vulnerability Engine: https://github.com/PaytmLabs/nerve</li>
           <li>CHAPS - is a PowerShell script for checking system security settings where additional software and assessment tools, such as Microsoft Policy Analyzer, cannot be installed: https://github.com/cutaway-security/chaps</li>
           <li>Brim - open source desktop application for security and network specialists. Brim makes it easy to search and analyze data from packet captures like those created by Wireshark and structured logs, especially from the Zeek network analysis framework: https://github.com/brimsec/brim </li>
@@ -335,6 +355,11 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li><a target="_blank" rel="no-image" href="https://github.com/jaeles-project/jaeles"><img border="0" src="https://github.com/jaeles-project/jaeles-plugins/raw/master/assets/jaeles.png?raw=true" width="60" height="50" style="vertical-align:middle"></a><center>Jaeles - a powerful, flexible and easily extensible framework written in Go for building your own Web Application Scanner: https://github.com/jaeles-project/jaeles</center></li>
   <li>tamper.dev - an extension that allows you to edit HTTP/HTTPS requests and responses as they happen without the need of a proxy: https://tamper.dev/ </li>
   <li>proxify - Swiss Army Knife Proxy for rapid deployments. Supports multiple operations such as request/response dump, filtering and manipulation via DSL language, upstream HTTP/Socks5 proxy: https://github.com/projectdiscovery/proxify</li>
+  <li>XSSTRON - Powerful Chromium Browser to find XSS Vulnerabilites automatically while browsing web: https://github.com/RenwaX23/XSSTRON</li>
+  <li>AutoRepeater - Automated HTTP Request Repeating With Burp Suite: https://github.com/nccgroup/AutoRepeater</li>
+  <li>XSSTRON - Powerful Chromium Browser to find XSS Vulnerabilites automatically while browsing web, it can detect many case scenarios with support for POST requests too: https://github.com/RenwaX23/XSSTRON</li>
+  <li>vajra - utomated web hacking framework to automate boring recon tasks and same scans for multiple target during web applications penetration testing. Vajra has highly customizable target scope based scan feature: https://github.com/r3curs1v3-pr0xy/vajra</li>
+  <li>MindAPI - a mindmap which combines years of experience in testing API security: https://github.com/dsopas/MindAPI</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
@@ -358,6 +383,13 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>serverless-prey - a collection of serverless functions (FaaS), that, once launched to a cloud environment and invoked, establish a TCP reverse shell, enabling the user to introspect the underlying container: https://github.com/pumasecurity/serverless-prey</li>
 <li>Prowler - AWS Security Toola command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool: https://github.com/toniblyx/prowler</li>
 <li>cloudsploit (Aqua) - an open-source project designed to allow detection of security risks in cloud infrastructure accounts: https://github.com/aquasecurity/cloudsploit </li>
+<li>deepfence SecretScanner - helps users scan their container images or local directories on hosts and outputs JSON file with details of all the secrets found: https://github.com/deepfence/SecretScanner </li>
+<li>OpenCSPM - an open-source platform for gaining deeper insight into your cloud configuration and metadata to help understand and reduce risk over time: https://github.com/OpenCSPM/opencspm </li>
+<li>endgame - An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account's resources with a rogue AWS account - or share the resources with the entire Internet: https://endgame.readthedocs.io/en/latest/ </li>
+<li>rpCheckup - an AWS resource policy security checkup tool that identifies public, external account access, intra-org account access, and private resources. It makes it easy to reason about resource visibility across all the accounts in your org: https://github.com/goldfiglabs/rpCheckup </li>
+<li>prawler - is a command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool: https://github.com/toniblyx/prowler </li>
+<li>cloudmapper - helps you analyze your Amazon Web Services (AWS) environments. The original purpose was to generate network diagrams and display them in your browser. It now contains much more functionality, including auditing for security issues: https://github.com/duo-labs/cloudmapper</li>
+<li>netz - discover an internet-wide misconfiguration of network components like web-servers/databases/cache-services and more: https://github.com/SpectralOps/netz</li>
 </ul>
 </br>
 
@@ -371,6 +403,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>CrowdStrike Reporting Tool for Azure (CRT): https://github.com/CrowdStrike/CRT</li>
 <li>MSOLSpray - A password spraying tool for Microsoft Online accounts (Azure/O365): https://github.com/dafthack/MSOLSpray </li>
 <li>AADInternals - PowerShell module contains tools for administering and hacking Azure AD and Office 365: https://o365blog.com/aadinternals/ | https://github.com/Gerenios/AADInternals </li>
+<li>Stormspotter -  creates an “attack graph” of the resources in an Azure subscription. It enables red teams and pentesters to visualize the attack surface and pivot opportunities within a tenant, and supercharges your defenders to quickly orient and prioritize incident response work: https://github.com/Azure/Stormspotter</li>
+<li>m365_groups_enum - Enumerate Microsoft 365 Groups in a tenant with their metadata: https://github.com/cnotin/m365_groups_enum</li>
 </ul>
 </br>
 
@@ -446,3 +480,4 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li><a target="_blank" rel="no-image" href="https://github.com/loadimpact/k6"><img border="0" src="https://bit.ly/3704xuo" width="80" height="50" style="vertical-align:middle"></a><center>k6 - a modern load testing tool, building on Load Impact's years of experience in the load and performance testing industry: https://github.com/loadimpact/k6</center></li>
 <li><a target="_blank" rel="no-image" href="https://github.com/microsoft/playwright"><g-emoji class="g-emoji" alias="performing_arts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ad.png">🎭</g-emoji></a><center>Playwright - a Node library to automate Chromium, Firefox and WebKit with a single API. Playwright is built to enable cross-browser web automation that is ever-green, capable, reliable and fast: https://github.com/microsoft/playwright</center></li>
 <li>httpie - a user-friendly command-line HTTP client for the API era: https://httpie.org/</li>
+<li>httptoolkit - gives you instant insight and access into every request & response, with zero hassle. Test clients, debug APIs and catch bugs, all at lightning speed: https://httptoolkit.tech/ </li>
