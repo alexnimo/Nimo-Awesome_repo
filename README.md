@@ -167,6 +167,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>chisel - a fast TCP/UDP tunnel, transported over HTTP, secured via SSH: https://github.com/jpillora/chisel</li>
           <li>Udp2raw-tunnel - A Tunnel which turns UDP Traffic into Encrypted FakeTCP/UDP/ICMP Traffic by using Raw Socket, helps you Bypass UDP FireWalls(or Unstable UDP Environment): https://github.com/wangyu-/udp2raw-tunnel</li>
           <li>mubeng - an incredibly fast proxy checker & IP rotator with ease: https://github.com/kitabisa/mubeng</li>
+          <li>Interactsh - an Open-Source Solution for Out of band Data Extraction, A tool designed to detect bugs that cause external interactions, For example - Blind SQLi, Blind CMDi, SSRF, etc: https://github.com/projectdiscovery/interactsh</li>
           </p3>
         </span>
  </ul>
@@ -204,6 +205,12 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>pwncat - a post-exploitation platform for Linux targets. It started out as a wrapper around basic bind and reverse shells and has grown from there. It streamlines common red team operations while staging code from your attacker machine, not the target: https://github.com/calebstewart/pwncat </li>
       <li>reverse-shell-generator - Hosted Reverse Shell generator with a ton of functionality: https://github.com/0dayCTF/reverse-shell-generator </li>
       <li>Go-RouterSocks - this tool will expose one socks port and route the traffic through the configured path: https://github.com/nodauf/Go-RouterSocks</li>
+      <li>GodSpeed - a robust and intuitive manager for reverse shells: https://github.com/redcode-labs/GodSpeed</li>
+      <li>SharpHound - C# Rewrite of the BloodHound Ingestor: https://github.com/BloodHoundAD/SharpHound3</li>
+      <li>Max Bloodhound - Maximizing BloodHound with a simple suite of tools: https://github.com/knavesec/Max</li>
+      <li>SNOWCRASH - polyglot payload generator. Creates a script that can be launched on both Linux and Windows machines: https://github.com/redcode-labs/SNOWCRASH</li>
+      <li>PoisonApple - command-line tool to perform various persistence mechanism techniques on macOS: https://github.com/CyborgSecurity/PoisonApple</li>
+      <li>DripLoader - Evasive shellcode loader for bypassing event-based injection detection, without necessarily suppressing event collection: https://github.com/xinbailu/DripLoader</li>
       </span>
   </p3>
   </ul>
@@ -281,6 +288,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     <li>BruteShark - a Network Forensic Analysis Tool (NFAT) that performs deep processing and inspection of network traffic (mainly PCAP files): https://github.com/odedshimon/BruteShark </li>
     <li>Name-that-hash - will name that hash type: https://github.com/HashPals/Name-That-Hash</li>
     <li>Windows & Active Directory Exploitation Cheat Sheet and Command Reference: https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/</li>
+    <li>nzyme - a free and open WiFi defense system that detects and physically locates threats using an easy to build and deploy sensor system: https://www.nzyme.org/</li>
 
     </span>
   </p3>
@@ -360,6 +368,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>XSSTRON - Powerful Chromium Browser to find XSS Vulnerabilites automatically while browsing web, it can detect many case scenarios with support for POST requests too: https://github.com/RenwaX23/XSSTRON</li>
   <li>vajra - utomated web hacking framework to automate boring recon tasks and same scans for multiple target during web applications penetration testing. Vajra has highly customizable target scope based scan feature: https://github.com/r3curs1v3-pr0xy/vajra</li>
   <li>MindAPI - a mindmap which combines years of experience in testing API security: https://github.com/dsopas/MindAPI</li>
+  <li>gotestwaf - Go project to test different web application firewalls (WAF) for detection logic and bypasses: https://github.com/wallarm/gotestwaf</li>
+  <li>kiterunner - API and content discovery at lightning fast speeds, bruteforcing routes/endpoints in modern applications: https://github.com/assetnote/kiterunner</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
@@ -390,6 +400,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>prawler - is a command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool: https://github.com/toniblyx/prowler </li>
 <li>cloudmapper - helps you analyze your Amazon Web Services (AWS) environments. The original purpose was to generate network diagrams and display them in your browser. It now contains much more functionality, including auditing for security issues: https://github.com/duo-labs/cloudmapper</li>
 <li>netz - discover an internet-wide misconfiguration of network components like web-servers/databases/cache-services and more: https://github.com/SpectralOps/netz</li>
+<li>red-shadow - scan your AWS IAM Configuration for shadow admins in AWS IAM based on misconfigured deny policies not affecting users in groups discovered by Lightspin's Security Research Team: https://github.com/lightspin-tech/red-shadow</li>
+<li>Principal Mapper  -  script and library for identifying risks in the configuration of AWS Identity and Access Management (IAM) for an AWS account or an AWS organization: https://github.com/nccgroup/PMapper | https://research.nccgroup.com/2021/03/29/tool-release-principal-mapper-v1-1-0-update/</li>
 </ul>
 </br>
 
