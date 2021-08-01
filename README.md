@@ -134,6 +134,9 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>OffensivePipeline - allows to download, compile (without Visual Studio) and obfuscate C# tools for Red Team exercises: https://github.com/Aetsu/OffensivePipeline </li>
           <li>Limelighter - a tool which creates a spoof code signing certificates and sign binaries and DLL files to help evade EDR products and avoid MSS and sock scruitneyhttps://github.com/Tylous/Limelighter</li>
           <li>Chimera - a (shiny and very hack-ish) PowerShell obfuscation script designed to bypass AMSI and antivirus solutions: https://github.com/tokyoneon/Chimera</li>
+          <li>Dent - A framework generates code to exploit vulnerabilties in Microsoft Defender Advanced Threat Protection's Attack Surface Reduction (ASR) rules to execute shellcode without being detected or prevented: https://github.com/optiv/Dent</li>
+          <li>onelinepy - Python Obfuscator for FUD Python Code: https://github.com/spicesouls/onelinepy</li>
+          <li>MeterPwrShell - automated Tool That Generate A Powershell Oneliner That Can Create Meterpreter Shell On Metasploit,Bypass AMSI,Bypass Firewall,Bypass UAC,And Bypass Windows Defender: https://github.com/GetRektBoy724/MeterPwrShell</li>
       </span>
      </p3>
           </ul>
@@ -211,6 +214,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>SNOWCRASH - polyglot payload generator. Creates a script that can be launched on both Linux and Windows machines: https://github.com/redcode-labs/SNOWCRASH</li>
       <li>PoisonApple - command-line tool to perform various persistence mechanism techniques on macOS: https://github.com/CyborgSecurity/PoisonApple</li>
       <li>DripLoader - Evasive shellcode loader for bypassing event-based injection detection, without necessarily suppressing event collection: https://github.com/xinbailu/DripLoader</li>
+      <li>r77 Rootkit - a ring 3 Rootkit that hides entities from all processes: https://github.com/bytecode77/r77-rootkit</li>
+      <li>SharpHook - inspired by the SharpRDPThief project, It uses various API hooks in order to give us the desired credentials.: https://github.com/IlanKalendarov/SharpHook</li>
       </span>
   </p3>
   </ul>
@@ -231,6 +236,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>nexphisher - Advanced phishing tool: https://github.com/htr-tech/nexphisher</li>
           <li>maskphish - a simple script to hide phishing URL under a normal looking URL(google.com or facebook.com): https://github.com/jaykali/maskphish</li>
           <li>Gophish - phishing toolkit designed for businesses and penetration testers. It provides the ability to quickly and easily setup and execute phishing engagements and security awareness training: https://github.com/gophish/gophish</li>
+          <li>SniperPhish -  a phishing toolkit for pentester or security professionals to enhance user awareness by simulating real-world phishing attacks. SniperPhish helps to combine both phishing emails and phishing websites you created to centrally track user actions: https://github.com/GemGeorge/SniperPhish</li>
       </span>
     </p3>
     </ul><br>
@@ -289,6 +295,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     <li>Name-that-hash - will name that hash type: https://github.com/HashPals/Name-That-Hash</li>
     <li>Windows & Active Directory Exploitation Cheat Sheet and Command Reference: https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/</li>
     <li>nzyme - a free and open WiFi defense system that detects and physically locates threats using an easy to build and deploy sensor system: https://www.nzyme.org/</li>
+    <li>Certified Pre-Owned - Abusing Active Directory Certificate Services: https://posts.specterops.io/certified-pre-owned-d95910965cd2</li>
 
     </span>
   </p3>
@@ -321,6 +328,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>ElastAlert - a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch: https://github.com/Yelp/elastalert</li>
           <li>glastof - is a Python web application honeypot founded by Lukas Rist:https://github.com/mushorg/glastopf </li>
           <li>compot - is a low interactive server side Industrial Control Systems honeypot designed to be easy to deploy, modify and extend: http://conpot.org/ </li>
+          <li>jimi - an automation first no-code platform designed and developed originally for Security Orchestration and Response: https://github.com/z1pti3/jimi</li>
           <li>Malcolm - an easily deployable network analysis tool suite for full packet capture artifacts (PCAP files) and Zeek logs: https://github.com/idaholab/Malcolm/blob/master/README.md</li>
           <li><center><a target="_blank" rel="no-image" href="https://honeydb.io/"><img border="0" src="https://honeydb.io/static/img/honeydb.png" width="40" height="40" style="vertical-align:middle"></a>HoneyDB - provides real time data of honeypot activity. This data comes from honeypot sensors deployed globally on the Internet: https://honeydb.io/</center></li>
           <li><a target="_blank" rel="no-image" href="https://github.com/saferwall/saferwall"><img border="0" src="https://camo.githubusercontent.com/88d5bf65402c828dfa402bf9fd700441c2975efa/68747470733a2f2f692e696d6775722e636f6d2f7a6a434f4b506f2e706e67" width="65" height="50" style="vertical-align:middle"></a> -  malware analysis platform: https://github.com/saferwall/saferwall </li>
@@ -331,6 +339,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Azure purple team lab by BLackHills InfoSec:  https://www.blackhillsinfosec.com/how-to-applied-purple-teaming-lab-build-on-azure-with-terraform/ | https://github.com/DefensiveOrigins/APT-Lab-Terraform </li>
           <li>ATTPwn - a computer security tool designed to emulate adversaries. The tool aims to bring emulation of a real threat into closer contact with implementations based on the techniques and tactics from the MITRE ATT&CK framework: https://github.com/ElevenPaths/ATTPwn</li>
           <li>Redcloud -  a powerful and user-friendly toolbox for deploying a fully featured Red Team Infrastructure using Docker: https://github.com/khast3x/Redcloud </li>
+          <li>BlueCloud - Cyber Range deployment of HELK and Velociraptor! Automated terraform deployment of one system running HELK + Velociraptor server with one registered Windows endpoint in Azure or AWS: https://github.com/iknowjason/BlueCloud</li>
           <li>NERVE - Network Exploitation, Reconnaissance & Vulnerability Engine: https://github.com/PaytmLabs/nerve</li>
           <li>CHAPS - is a PowerShell script for checking system security settings where additional software and assessment tools, such as Microsoft Policy Analyzer, cannot be installed: https://github.com/cutaway-security/chaps</li>
           <li>Brim - open source desktop application for security and network specialists. Brim makes it easy to search and analyze data from packet captures like those created by Wireshark and structured logs, especially from the Zeek network analysis framework: https://github.com/brimsec/brim </li>
@@ -338,6 +347,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Intel Owl - OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale: https://github.com/intelowlproject/IntelOwl</li>
           <li>Intrigue Core - open attack surface enumeration engine. It integrates and orchestrates a wide variety of  security data sources, distilling them into a normalized object model: https://core.intrigue.io/</li>
           <li>Awesome CobaltStrike Defence: https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence </li>
+          <li>Crossfeed - a tool that continuously enumerates and monitors an organization's public-facing attack surface in order to discover assets and flag potential security flaws: https://github.com/cisagov/crossfeed</li>
 
             </span>
             </p3>
@@ -370,6 +380,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>MindAPI - a mindmap which combines years of experience in testing API security: https://github.com/dsopas/MindAPI</li>
   <li>gotestwaf - Go project to test different web application firewalls (WAF) for detection logic and bypasses: https://github.com/wallarm/gotestwaf</li>
   <li>kiterunner - API and content discovery at lightning fast speeds, bruteforcing routes/endpoints in modern applications: https://github.com/assetnote/kiterunner</li>
+  <li>Epiphany - a pre-engagement \ self-assessment tool to identify weak spots of a web property from a DDoS attacker perspective: https://github.com/Cyberlands-io/epiphany</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
@@ -402,6 +413,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>netz - discover an internet-wide misconfiguration of network components like web-servers/databases/cache-services and more: https://github.com/SpectralOps/netz</li>
 <li>red-shadow - scan your AWS IAM Configuration for shadow admins in AWS IAM based on misconfigured deny policies not affecting users in groups discovered by Lightspin's Security Research Team: https://github.com/lightspin-tech/red-shadow</li>
 <li>Principal Mapper  -  script and library for identifying risks in the configuration of AWS Identity and Access Management (IAM) for an AWS account or an AWS organization: https://github.com/nccgroup/PMapper | https://research.nccgroup.com/2021/03/29/tool-release-principal-mapper-v1-1-0-update/</li>
+<li>Patrolaroid - an instant camera for capturing cloud workload risks. It’s a prod-friendly scanner that makes finding security issues in AWS instances and buckets less annoying and disruptive for software engineers and cloud admins: https://github.com/rpetrich/patrolaroid </li>
 </ul>
 </br>
 
@@ -417,6 +429,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>AADInternals - PowerShell module contains tools for administering and hacking Azure AD and Office 365: https://o365blog.com/aadinternals/ | https://github.com/Gerenios/AADInternals </li>
 <li>Stormspotter -  creates an “attack graph” of the resources in an Azure subscription. It enables red teams and pentesters to visualize the attack surface and pivot opportunities within a tenant, and supercharges your defenders to quickly orient and prioritize incident response work: https://github.com/Azure/Stormspotter</li>
 <li>m365_groups_enum - Enumerate Microsoft 365 Groups in a tenant with their metadata: https://github.com/cnotin/m365_groups_enum</li>
+<li>Microsoft Azure & O365 CLI Tool Cheatsheet: https://github.com/dafthack/CloudPentestCheatsheets/blob/master/cheatsheets/Azure.md</li>
+<li>BruteLoops - a dead simple library providing the foundational logic for efficient password brute force attacks against authentication interfaceshttps://github.com/arch4ngel/BruteLoops</li>
 </ul>
 </br>
 
