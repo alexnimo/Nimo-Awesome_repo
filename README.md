@@ -137,6 +137,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Dent - A framework generates code to exploit vulnerabilties in Microsoft Defender Advanced Threat Protection's Attack Surface Reduction (ASR) rules to execute shellcode without being detected or prevented: https://github.com/optiv/Dent</li>
           <li>onelinepy - Python Obfuscator for FUD Python Code: https://github.com/spicesouls/onelinepy</li>
           <li>MeterPwrShell - automated Tool That Generate A Powershell Oneliner That Can Create Meterpreter Shell On Metasploit,Bypass AMSI,Bypass Firewall,Bypass UAC,And Bypass Windows Defender: https://github.com/GetRektBoy724/MeterPwrShell</li>
+          <li>SigFlip -  tool for patching authenticode signed PE files (exe, dll, sys ..etc) in a way that doesn't affect or break the existing authenticode signature, in other words you can change PE file checksum/hash by embedding data (i.e shellcode) without breaking the file signature, integrity checks or PE file functionality: https://github.com/med0x2e/SigFlip</li>
       </span>
      </p3>
           </ul>
@@ -171,6 +172,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Udp2raw-tunnel - A Tunnel which turns UDP Traffic into Encrypted FakeTCP/UDP/ICMP Traffic by using Raw Socket, helps you Bypass UDP FireWalls(or Unstable UDP Environment): https://github.com/wangyu-/udp2raw-tunnel</li>
           <li>mubeng - an incredibly fast proxy checker & IP rotator with ease: https://github.com/kitabisa/mubeng</li>
           <li>Interactsh - an Open-Source Solution for Out of band Data Extraction, A tool designed to detect bugs that cause external interactions, For example - Blind SQLi, Blind CMDi, SSRF, etc: https://github.com/projectdiscovery/interactsh</li>
+          <li>reverse-ssh - a statically-linked ssh server with a reverse connection feature for simple yet powerful remote accesshttps://github.com/Fahrj/reverse-ssh</li>
+          <li>ligolo-ng - a simple, lightweight and fast tool that allows pentesters to establish tunnels from a reverse TCP/TLS connection without the need of SOCKS: https://github.com/tnpitsecurity/ligolo-ng</li>
           </p3>
         </span>
  </ul>
@@ -216,6 +219,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>DripLoader - Evasive shellcode loader for bypassing event-based injection detection, without necessarily suppressing event collection: https://github.com/xinbailu/DripLoader</li>
       <li>r77 Rootkit - a ring 3 Rootkit that hides entities from all processes: https://github.com/bytecode77/r77-rootkit</li>
       <li>SharpHook - inspired by the SharpRDPThief project, It uses various API hooks in order to give us the desired credentials.: https://github.com/IlanKalendarov/SharpHook</li>
+      <li>PowerShdll - Run PowerShell with dlls only. Does not require access to powershell.exe as it uses powershell automation dlls.
+      PowerShdll can be run with: rundll32.exe, installutil.exe, regsvcs.exe, regasm.exe and regsvr32.exe: https://github.com/p3nt4/PowerShdll/tree/master/dll</li>
       </span>
   </p3>
   </ul>
@@ -235,7 +240,12 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>zphisher - upgrdaed version(fork) of Shellphish: https://github.com/htr-tech/zphisher</li>
           <li>nexphisher - Advanced phishing tool: https://github.com/htr-tech/nexphisher</li>
           <li>maskphish - a simple script to hide phishing URL under a normal looking URL(google.com or facebook.com): https://github.com/jaykali/maskphish</li>
-          <li>Gophish - phishing toolkit designed for businesses and penetration testers. It provides the ability to quickly and easily setup and execute phishing engagements and security awareness training: https://github.com/gophish/gophish</li>
+          <li>Gophish - phishing toolkit designed for businesses and penetration testers. It provides the ability to quickly and easily setup and execute phishing engagements and security awareness training: https://github.com/gophish/gophish
+          <ul>
+          <li>How to set up gophish to evade security controls: https://www.sprocketsecurity.com/blog/never-had-a-bad-day-phishing-how-to-set-up-gophish-to-evade-security-controls</li>
+          <li>The Ultimate Guide to Phishing - Learn how to Phish using EvilGinx2 and GoPhish: https://sidb.in/2021/08/03/Phishing-0-to-100.html</li>
+          </ul>
+          </li>
           <li>SniperPhish -  a phishing toolkit for pentester or security professionals to enhance user awareness by simulating real-world phishing attacks. SniperPhish helps to combine both phishing emails and phishing websites you created to centrally track user actions: https://github.com/GemGeorge/SniperPhish</li>
       </span>
     </p3>
@@ -258,6 +268,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>prelude Operator - the first intelligent and autonomous platform built to attack, defend and train your critical assets through continuous red teaming: https://github.com/preludeorg | https://www.prelude.org/platform/operator | https://www.youtube.com/channel/UCZyx-PDZ_k7Vuzyqr4-qK9A </li>
       <li>ARTi-C2 - is a modern execution framework built to empower security teams to scale attack scenario execution from single and multi-breach point targets with the intent to produce actionable attack intelligence that improves the effectiveness security products and incident response: https://github.com/blackbotinc/Atomic-Red-Team-Intelligence-C2</li>
       <li>PowerSharpPack - many usefull offensive CSharp Projects wraped into Powershell for easy usage: https://github.com/S3cur3Th1sSh1t/PowerSharpPack</li>
+      <li>zuthaka - a collaborative free open-source Command & Control integration framework that allows developers to concentrate on the core function and goal of their C2: https://github.com/pucarasec/zuthaka</li>
       </span>
   </p3>
   </ul><br>
@@ -348,6 +359,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Intrigue Core - open attack surface enumeration engine. It integrates and orchestrates a wide variety of  security data sources, distilling them into a normalized object model: https://core.intrigue.io/</li>
           <li>Awesome CobaltStrike Defence: https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence </li>
           <li>Crossfeed - a tool that continuously enumerates and monitors an organization's public-facing attack surface in order to discover assets and flag potential security flaws: https://github.com/cisagov/crossfeed</li>
+          <li>Awesome Incident Response - https://github.com/meirwah/awesome-incident-response</li>
 
             </span>
             </p3>
@@ -431,6 +443,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>m365_groups_enum - Enumerate Microsoft 365 Groups in a tenant with their metadata: https://github.com/cnotin/m365_groups_enum</li>
 <li>Microsoft Azure & O365 CLI Tool Cheatsheet: https://github.com/dafthack/CloudPentestCheatsheets/blob/master/cheatsheets/Azure.md</li>
 <li>BruteLoops - a dead simple library providing the foundational logic for efficient password brute force attacks against authentication interfaceshttps://github.com/arch4ngel/BruteLoops</li>
+<li>MicroBurst - a PowerShell Toolkit for Attacking Azure that includes functions and scripts that support Azure Services discovery, weak configuration auditing, and post exploitation actions such as credential dumping. It is intended to be used during penetration tests where Azure is in use: https://github.com/NetSPI/MicroBurst</li>
 </ul>
 </br>
 
