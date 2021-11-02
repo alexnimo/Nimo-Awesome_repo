@@ -9,6 +9,8 @@
 <li>https://hub.docker.com/r/danmx/docker-owasp-webgoat/</li>
 <li>https://github.com/bkimminich/juice-shop</li>
   <li>https://github.com/payatu/Tiredful-API</li>
+  <li>vulnerable-api - example Python API that is vulnerable to several different web API attacks: https://github.com/rahulunair/vulnerable-api</li>
+  <li>websheep - an app based on a willingly vulnerable ReSTful APIs: https://github.com/marmicode/websheep</li>
   <li>jackhammer - One Security vulnerability assessment/management tool: https://github.com/olacabs/jackhammer/blob/master/docker-build.sh</li>
  <li>owtf - Offensive Web Testing Framework: https://github.com/owtf/owtf/tree/develop/docker</li>
  <li>docker-blackeye - container for running the phishing attack using Blackeye: https://github.com/vishnudxb/docker-blackeye </li>
@@ -97,10 +99,27 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>Some red team automation (RTA) python scripts that run on Windows, Mac OS, and *nix. RTA scripts emulate known attacker behaviors and are an easy way too verify that your rules are active and working as expected - https://github.com/elastic/detection-rules/tree/3e511965b49eae69d103b9210765bceee9cb6396/rta</li>
       <li>Teqnix - Penetration Testing Platform. Along with all the cool automation features, some of the benefits of TEQNIX is having access to a set of tools that do not 
 					require the user to install or to maintain them. Furthermore, the library of tools is an asset to your testing methodologies ready to be launched.https://teqnix.io/</li>
-
 </span>
   </p3>
   </ul>
+    <h3><b>Cyber Ranges / Labs</b></h3>
+  <ul>
+    <p3>
+    <span>
+    <li>aws-pentesting-lab - PenTesting laboratory deployed as IaC with Terraform on AWS. It deploys a Kali Linux instance accessible via ssh & wireguard VPN. Vulnerable instances in a private subnet: https://github.com/juanjoSanz/aws-pentesting-lab</li>
+        <li>Detection Lab - this lab has been designed with defenders in mind. Its primary purpose is to allow the user to quickly build a Windows domain that comes pre-loaded with security tooling and some best practices when it comes to system logging configurations: https://github.com/clong/DetectionLab</li>
+    <li>vulnerable-AD - create a vulnerable active directory that's allowing you to test most of active directory attacks in local lab: https://github.com/WazeHell/vulnerable-AD</li>
+    <li>ADLab - a tool created in PowerShell to quickly setup an Active directory lab for testing purposes. This tool can help setup a Domain controller and Workstation in a lab environment quickly and effectively: https://browninfosecguy.com/Active-Directory-Lab-Setup-Tool | https://github.com/browninfosecguy/ADLab</li>
+    <li>BadBlood -  fills a Microsoft Active Directory Domain with a structure and thousands of objects: https://github.com/davidprowe/BadBlood</li>
+    <li>PurpleCloud - Pentest Cyber Range for a small Active Directory Domain. Automated templates for building your own Pentest/Red Team/Cyber Range in the Azure cloud: https://github.com/iknowjason/PurpleCloud </li>
+    <li>Azure purple team lab by BLackHills InfoSec:  https://www.blackhillsinfosec.com/how-to-applied-purple-teaming-lab-build-on-azure-with-terraform/ | https://github.com/DefensiveOrigins/APT-Lab-Terraform </li>
+    <li>ATTPwn - a computer security tool designed to emulate adversaries. The tool aims to bring emulation of a real threat into closer contact with implementations based on the techniques and tactics from the MITRE ATT&CK framework: https://github.com/ElevenPaths/ATTPwn</li>
+    <li>Redcloud -  a powerful and user-friendly toolbox for deploying a fully featured Red Team Infrastructure using Docker: https://github.com/khast3x/Redcloud </li>
+    <li>BlueCloud - Cyber Range deployment of HELK and Velociraptor! Automated terraform deployment of one system running HELK + Velociraptor server with one registered Windows endpoint in Azure or AWS: https://github.com/iknowjason/BlueCloud</li>
+    </span>
+  </p3>
+  </ul>
+
   <h3><b>Payloads / RATS</b></h3>
     <ul>
       <p3>
@@ -144,6 +163,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>onelinepy - Python Obfuscator for FUD Python Code: https://github.com/spicesouls/onelinepy</li>
           <li>MeterPwrShell - automated Tool That Generate A Powershell Oneliner That Can Create Meterpreter Shell On Metasploit,Bypass AMSI,Bypass Firewall,Bypass UAC,And Bypass Windows Defender: https://github.com/GetRektBoy724/MeterPwrShell</li>
           <li>SigFlip -  tool for patching authenticode signed PE files (exe, dll, sys ..etc) in a way that doesn't affect or break the existing authenticode signature, in other words you can change PE file checksum/hash by embedding data (i.e shellcode) without breaking the file signature, integrity checks or PE file functionality: https://github.com/med0x2e/SigFlip</li>
+          <li>awesome-linux-rootkits: https://github.com/milabs/awesome-linux-rootkits</li>
       </span>
      </p3>
           </ul>
@@ -182,6 +202,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>ligolo-ng - a simple, lightweight and fast tool that allows pentesters to establish tunnels from a reverse TCP/TLS connection without the need of SOCKS: https://github.com/tnpitsecurity/ligolo-ng</li>
           <li>Azure Outlook C2 - Azure Outlook Command & Control that uses Microsoft Graph API for C2 communications & data exfiltration: https://github.com/boku7/azureOutlookC2</li>
           <li>interactsh - Open-Source Solution for Out of band Data Extraction, A tool designed to detect bugs that cause external interactions, For example - Blind SQLi, Blind CMDi, SSRF, etc: https://github.com/projectdiscovery/interactsh</li>
+          <li>HTTPUploadExfil - a (very) simple HTTP server written in Go that's useful for getting files (and other information) off a machine using HTTP: https://github.com/IngoKl/HTTPUploadExfil</li>
+          <li>GC2-sheet - GC2 (Google Command and Control) is a Command and Control application that allows an attacker to execute commands on the target machine using Google Sheet and exfiltrates data using Google Drive: https://github.com/looCiprian/GC2-sheet</li>
           </p3>
         </span>
  </ul>
@@ -231,8 +253,9 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       PowerShdll can be run with: rundll32.exe, installutil.exe, regsvcs.exe, regasm.exe and regsvr32.exe: https://github.com/p3nt4/PowerShdll/tree/master/dll</li>
       <li>PSAmsi - a tool for auditing and defeating AMSI signatures: https://github.com/cobbr/PSAmsi</li>
       <li>OffensivePipeline -  allows to download, compile (without Visual Studio) and obfuscate C# tools for Red Team exercises: https://github.com/Aetsu/OffensivePipeline</li>
+      <li>DonPAPI - Dumping revelant information on compromised targets without AV detection: https://github.com/login-securite/DonPAPI</li>
+      
       </span> 
-      </span>
   </p3>
   </ul>
   <h3><b>Social Engineering</b></h3>
@@ -322,7 +345,6 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     <li>nzyme - a free and open WiFi defense system that detects and physically locates threats using an easy to build and deploy sensor system: https://www.nzyme.org/</li>
     <li>Certified Pre-Owned - Abusing Active Directory Certificate Services: https://posts.specterops.io/certified-pre-owned-d95910965cd2</li>
     <li>pimpmykali - a shell script that fixes bunch a bugs on a Kali Linux virtual machines https://github.com/Dewalt-arch/pimpmykali</li>
-
     </span>
   </p3>
   </ul>
@@ -360,15 +382,6 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li><center><a target="_blank" rel="no-image" href="https://honeydb.io/"><img border="0" src="https://honeydb.io/static/img/honeydb.png" width="40" height="40" style="vertical-align:middle"></a>HoneyDB - provides real time data of honeypot activity. This data comes from honeypot sensors deployed globally on the Internet: https://honeydb.io/</center></li>
           <li><a target="_blank" rel="no-image" href="https://github.com/saferwall/saferwall"><img border="0" src="https://camo.githubusercontent.com/88d5bf65402c828dfa402bf9fd700441c2975efa/68747470733a2f2f692e696d6775722e636f6d2f7a6a434f4b506f2e706e67" width="65" height="50" style="vertical-align:middle"></a> -  malware analysis platform: https://github.com/saferwall/saferwall </li>
           <li><a target="_blank" rel="no-image" href="https://github.com/secureCodeBox/secureCodeBox"><img border="0" src="https://github.com/secureCodeBox/secureCodeBox/raw/master/docs/resources/logo.png" width="80" height="25" style="vertical-align:middle"></a> - a docker based, modularized toolchain for continuous security scans of your software project: https://github.com/secureCodeBox/secureCodeBox</li>
-          <li>Detection Lab - this lab has been designed with defenders in mind. Its primary purpose is to allow the user to quickly build a Windows domain that comes pre-loaded with security tooling and some best practices when it comes to system logging configurations: https://github.com/clong/DetectionLab</li>
-          <li>vulnerable-AD - create a vulnerable active directory that's allowing you to test most of active directory attacks in local lab: https://github.com/WazeHell/vulnerable-AD</li>
-          <li>ADLab - a tool created in PowerShell to quickly setup an Active directory lab for testing purposes. This tool can help setup a Domain controller and Workstation in a lab environment quickly and effectively: https://browninfosecguy.com/Active-Directory-Lab-Setup-Tool | https://github.com/browninfosecguy/ADLab</li>
-          <li>BadBlood -  fills a Microsoft Active Directory Domain with a structure and thousands of objects: https://github.com/davidprowe/BadBlood</li>
-          <li>PurpleCloud - Pentest Cyber Range for a small Active Directory Domain. Automated templates for building your own Pentest/Red Team/Cyber Range in the Azure cloud: https://github.com/iknowjason/PurpleCloud </li>
-          <li>Azure purple team lab by BLackHills InfoSec:  https://www.blackhillsinfosec.com/how-to-applied-purple-teaming-lab-build-on-azure-with-terraform/ | https://github.com/DefensiveOrigins/APT-Lab-Terraform </li>
-          <li>ATTPwn - a computer security tool designed to emulate adversaries. The tool aims to bring emulation of a real threat into closer contact with implementations based on the techniques and tactics from the MITRE ATT&CK framework: https://github.com/ElevenPaths/ATTPwn</li>
-          <li>Redcloud -  a powerful and user-friendly toolbox for deploying a fully featured Red Team Infrastructure using Docker: https://github.com/khast3x/Redcloud </li>
-          <li>BlueCloud - Cyber Range deployment of HELK and Velociraptor! Automated terraform deployment of one system running HELK + Velociraptor server with one registered Windows endpoint in Azure or AWS: https://github.com/iknowjason/BlueCloud</li>
           <li>NERVE - Network Exploitation, Reconnaissance & Vulnerability Engine: https://github.com/PaytmLabs/nerve</li>
           <li>CHAPS - is a PowerShell script for checking system security settings where additional software and assessment tools, such as Microsoft Policy Analyzer, cannot be installed: https://github.com/cutaway-security/chaps</li>
           <li>Brim - open source desktop application for security and network specialists. Brim makes it easy to search and analyze data from packet captures like those created by Wireshark and structured logs, especially from the Zeek network analysis framework: https://github.com/brimsec/brim </li>
@@ -378,7 +391,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Awesome CobaltStrike Defence: https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence </li>
           <li>Crossfeed - a tool that continuously enumerates and monitors an organization's public-facing attack surface in order to discover assets and flag potential security flaws: https://github.com/cisagov/crossfeed</li>
           <li>Awesome Incident Response - https://github.com/meirwah/awesome-incident-response</li>
-
+          <li>qiling - an advanced binary emulation framework. Emulate multi-platforms: Windows, MacOS, Linux, BSD, UEFI, DOS, MBR, Ethereum Virtual Machine: https://github.com/qilingframework/qiling</li>
             </span>
             </p3>
             </ul><br>
@@ -415,6 +428,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>rengine - An automated reconnaissance framework for web applications with focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by database and simple yet intuitive User Interfac: https://github.com/yogeshojha/rengine</li>
   <li>graphw00f - inspired by wafw00f is the GraphQL fingerprinting tool for GQL endpoints, it sends a mix of benign and malformed queries to determine the GraphQL engine running behind the scenes. graphw00f will provide insights into what security defences each technology provides out of the box, and whether they are on or off by default: https://github.com/dolevf/graphw00f</li>
   <li>changeme - ocuses on detecting default and backdoor credentials and not necessarily common credentials. It's default mode is to scan HTTP default credentials, but has support for other credentials: https://github.com/ztgrace/changeme</li>
+  <li>keyhacks - shows ways in which particular API keys found on a Bug Bounty Program can be used, to check if they are valid: https://github.com/streaak/keyhacks</li>
+  <li>SSRFmap - SSRF are often used to leverage actions on other services, this framework aims to find and exploit these services easily. SSRFmap takes a Burp request file as input and a parameter to fuzz: https://github.com/swisskyrepo/SSRFmap</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
