@@ -204,8 +204,9 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>interactsh - Open-Source Solution for Out of band Data Extraction, A tool designed to detect bugs that cause external interactions, For example - Blind SQLi, Blind CMDi, SSRF, etc: https://github.com/projectdiscovery/interactsh</li>
           <li>HTTPUploadExfil - a (very) simple HTTP server written in Go that's useful for getting files (and other information) off a machine using HTTP: https://github.com/IngoKl/HTTPUploadExfil</li>
           <li>GC2-sheet - GC2 (Google Command and Control) is a Command and Control application that allows an attacker to execute commands on the target machine using Google Sheet and exfiltrates data using Google Drive: https://github.com/looCiprian/GC2-sheet</li>
+           </span>
           </p3>
-        </span>
+       
  </ul>
      
   <h3><b>Post Exploitation</b></h3>
@@ -254,7 +255,6 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>PSAmsi - a tool for auditing and defeating AMSI signatures: https://github.com/cobbr/PSAmsi</li>
       <li>OffensivePipeline -  allows to download, compile (without Visual Studio) and obfuscate C# tools for Red Team exercises: https://github.com/Aetsu/OffensivePipeline</li>
       <li>DonPAPI - Dumping revelant information on compromised targets without AV detection: https://github.com/login-securite/DonPAPI</li>
-      
       </span> 
   </p3>
   </ul>
