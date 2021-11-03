@@ -76,7 +76,6 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <h3><b>Adversary/Threat Simulation</b></h3>
   <ul>
     <p3>
-    <span>
    <li>Uber metta: https://github.com/uber-common/metta </li>
   <li> SANS HELK Part 1: https://isc.sans.edu/forums/diary/Threat+Hunting+Adversary+Emulation+The+HELK+vs+APTSimulator+Part+1/23525/ </li>
   <li> SANS HELK Part 2: <font size="1"> https://isc.sans.edu/forums/diary/Threat+Hunting+Adversary+Emulation+The+HELK+vs+APTSimulator+Part+2/23529/ </font></li>
@@ -99,7 +98,6 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>Some red team automation (RTA) python scripts that run on Windows, Mac OS, and *nix. RTA scripts emulate known attacker behaviors and are an easy way too verify that your rules are active and working as expected - https://github.com/elastic/detection-rules/tree/3e511965b49eae69d103b9210765bceee9cb6396/rta</li>
       <li>Teqnix - Penetration Testing Platform. Along with all the cool automation features, some of the benefits of TEQNIX is having access to a set of tools that do not 
 					require the user to install or to maintain them. Furthermore, the library of tools is an asset to your testing methodologies ready to be launched.https://teqnix.io/</li>
-</span>
   </p3>
   </ul>
     <h3><b>Cyber Ranges / Labs</b></h3>
