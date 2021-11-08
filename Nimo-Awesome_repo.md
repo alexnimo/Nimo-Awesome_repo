@@ -1,5 +1,5 @@
 # Nimo-Awesome_repo
-https://github.com/iacsecurity/tool-compare
+
 <h2><b><u>Usefull Docker Images</u></b></h2>
 <ul><p1><b>Vulnerable Apps</b></p1>
 <li>https://github.com/citizen-stig/dockermutillidae</li>
@@ -11,6 +11,7 @@ https://github.com/iacsecurity/tool-compare
   <li>https://github.com/payatu/Tiredful-API</li>
   <li>vulnerable-api - example Python API that is vulnerable to several different web API attacks: https://github.com/rahulunair/vulnerable-api</li>
   <li>websheep - an app based on a willingly vulnerable ReSTful APIs: https://github.com/marmicode/websheep</li>
+  <li>TIWAP - Totally Insecure Web Application Project: https://github.com/tombstoneghost/TIWAP</li>
   <li>jackhammer - One Security vulnerability assessment/management tool: https://github.com/olacabs/jackhammer/blob/master/docker-build.sh</li>
  <li>owtf - Offensive Web Testing Framework: https://github.com/owtf/owtf/tree/develop/docker</li>
  <li>docker-blackeye - container for running the phishing attack using Blackeye: https://github.com/vishnudxb/docker-blackeye </li>
@@ -114,6 +115,11 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     <li>ATTPwn - a computer security tool designed to emulate adversaries. The tool aims to bring emulation of a real threat into closer contact with implementations based on the techniques and tactics from the MITRE ATT&CK framework: https://github.com/ElevenPaths/ATTPwn</li>
     <li>Redcloud -  a powerful and user-friendly toolbox for deploying a fully featured Red Team Infrastructure using Docker: https://github.com/khast3x/Redcloud </li>
     <li>BlueCloud - Cyber Range deployment of HELK and Velociraptor! Automated terraform deployment of one system running HELK + Velociraptor server with one registered Windows endpoint in Azure or AWS: https://github.com/iknowjason/BlueCloud</li>
+    <li>Sadcloud - a tool for spinning up insecure AWS infrastructure with Terraform: https://github.com/nccgroup/sadcloud</li>
+   <li>Terraform to demonstrate exposed resources in AWS: https://github.com/kmcquade/terraform-aws-resource-exposure</li>
+   <li>IAM Vulnerable - An AWS IAM Privilege Escalation Playground: https://labs.bishopfox.com/tech-blog/iam-vulnerable-an-aws-iam-privilege-escalation-playground | https://labs.bishopfox.com/tech-blog/iam-vulnerable-assessing-the-aws-assessment-tools#Q1</li>
+   <li>Kubernetes Local Security Testing Lab - There's a number of playbooks which will bring up cluster's with a specific mis-configuration that can be exploited: https://github.com/raesene/kube_security_lab</li>
+   <li>simulator - a distributed systems and infrastructure simulator for attacking and debugging Kubernetes: simulator creates a Kubernetes cluster for you in your AWS account; runs scenarios which misconfigure it and/or leave it vulnerable to compromise and trains you in mitigating against these vulnerabilities: https://github.com/kubernetes-simulator/simulator</li>
     </span>
   </p3>
   </ul>
@@ -162,6 +168,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>MeterPwrShell - automated Tool That Generate A Powershell Oneliner That Can Create Meterpreter Shell On Metasploit,Bypass AMSI,Bypass Firewall,Bypass UAC,And Bypass Windows Defender: https://github.com/GetRektBoy724/MeterPwrShell</li>
           <li>SigFlip -  tool for patching authenticode signed PE files (exe, dll, sys ..etc) in a way that doesn't affect or break the existing authenticode signature, in other words you can change PE file checksum/hash by embedding data (i.e shellcode) without breaking the file signature, integrity checks or PE file functionality: https://github.com/med0x2e/SigFlip</li>
           <li>awesome-linux-rootkits: https://github.com/milabs/awesome-linux-rootkits</li>
+          <li>Koppeling - a demonstration of advanced DLL hijack techniques. It was released in conjunction with the "Adaptive DLL Hijacking" blog post: https://github.com/monoxgas/Koppeling</li>
       </span>
      </p3>
           </ul>
@@ -202,6 +209,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>interactsh - Open-Source Solution for Out of band Data Extraction, A tool designed to detect bugs that cause external interactions, For example - Blind SQLi, Blind CMDi, SSRF, etc: https://github.com/projectdiscovery/interactsh</li>
           <li>HTTPUploadExfil - a (very) simple HTTP server written in Go that's useful for getting files (and other information) off a machine using HTTP: https://github.com/IngoKl/HTTPUploadExfil</li>
           <li>GC2-sheet - GC2 (Google Command and Control) is a Command and Control application that allows an attacker to execute commands on the target machine using Google Sheet and exfiltrates data using Google Drive: https://github.com/looCiprian/GC2-sheet</li>
+          <li>tor-rootkit - a Python 3 standalone Windows 10 / Linux Rootkit. The networking communication get's established over the tor network: https://github.com/emcruise/tor-rootkit</li>
            </span>
           </p3>
        
@@ -253,6 +261,9 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>PSAmsi - a tool for auditing and defeating AMSI signatures: https://github.com/cobbr/PSAmsi</li>
       <li>OffensivePipeline -  allows to download, compile (without Visual Studio) and obfuscate C# tools for Red Team exercises: https://github.com/Aetsu/OffensivePipeline</li>
       <li>DonPAPI - Dumping revelant information on compromised targets without AV detection: https://github.com/login-securite/DonPAPI</li>
+      <li>Invisi-Shell - hide your powershell script in plain sight! Invisi-Shell bypasses all of Powershell security features (ScriptBlock logging, Module logging, Transcription, AMSI) by hooking .Net assemblies: https://github.com/OmerYa/Invisi-Shell</li>
+      <li>pyrdp - a Python Remote Desktop Protocol (RDP) Monster-in-the-Middle (MITM) tool and library: https://github.com/GoSecure/pyrdp</li>
+      <li>aDLL - a binary analysis tool focused on the automatic discovery of DLL Hijacking vulnerabilities: https://github.com/ideaslocas/aDLL</li>
       </span> 
   </p3>
   </ul>
@@ -281,6 +292,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>SniperPhish -  a phishing toolkit for pentester or security professionals to enhance user awareness by simulating real-world phishing attacks. SniperPhish helps to combine both phishing emails and phishing websites you created to centrally track user actions: https://github.com/GemGeorge/SniperPhish</li>
           <li>phishmonger - Phishing platform designed for pentesters. This tool allows us to craft phishing emails in Outlook, clone them quickly, automatically template them for mass distribution, test email templates, schedule phishing campaigns, and track phishing results. Phishmonger is not just GoPhish in Node! You do not have to set up a separate mail server. Phishmonger itself is a mail server: https://github.com/fkasler/phishmonger</li>
           <li>awsssome_phish - phish aws sso code with dynamic url creation with lambda function: https://github.com/sebastian-mora/awsssome_phish</li>
+          <li>Phishious - an open-source Secure Email Gateway (SEG) evaluation toolkit designed for red-teamers and developed by the team at https://caniphish.com. Phishious provides the ability to see how various Secure Email Gateway technologies behave when presented with phishing material: https://github.com/Rices/Phishious</li>
       </span>
     </p3>
     </ul><br>
@@ -428,6 +440,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>changeme - ocuses on detecting default and backdoor credentials and not necessarily common credentials. It's default mode is to scan HTTP default credentials, but has support for other credentials: https://github.com/ztgrace/changeme</li>
   <li>keyhacks - shows ways in which particular API keys found on a Bug Bounty Program can be used, to check if they are valid: https://github.com/streaak/keyhacks</li>
   <li>SSRFmap - SSRF are often used to leverage actions on other services, this framework aims to find and exploit these services easily. SSRFmap takes a Burp request file as input and a parameter to fuzz: https://github.com/swisskyrepo/SSRFmap</li>
+  <li>PayloadsAllTheThings - A list of useful payloads and bypasses for Web Application Security. Feel free to improve with your payloads and techniques: https://github.com/swisskyrepo/PayloadsAllTheThings</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
@@ -536,6 +549,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <ul>
 <li>https://wiki.skullsecurity.org/index.php?title=Passwords</li>
 <li>Seclists - https://github.com/danielmiessler/SecLists</li>
+<li>Probable-Wordlists: https://github.com/berzerk0/Probable-Wordlists</li>
 </ul>
 
 <p2><b><u>Stress Test / Web Traffic Simulation / Test Automation</u></b><p2>
