@@ -99,6 +99,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>Some red team automation (RTA) python scripts that run on Windows, Mac OS, and *nix. RTA scripts emulate known attacker behaviors and are an easy way too verify that your rules are active and working as expected - https://github.com/elastic/detection-rules/tree/3e511965b49eae69d103b9210765bceee9cb6396/rta</li>
       <li>Teqnix - Penetration Testing Platform. Along with all the cool automation features, some of the benefits of TEQNIX is having access to a set of tools that do not 
 					require the user to install or to maintain them. Furthermore, the library of tools is an asset to your testing methodologies ready to be launched.https://teqnix.io/</li>
+          <li>Exegol - a fully configured docker with many useful additional tools, resources (scripts and binaries for privesc, credential theft etc.): https://github.com/ShutdownRepo/Exegol</li>
+          <li>redherd-framework - a collaborative and serverless framework for orchestrating a geographically distributed group of assets capable of simulating complex offensive cyberspace operations: https://github.com/redherd-project/redherd-framework</li>
   </p3>
   </ul>
     <h3><b>Cyber Ranges / Labs</b></h3>
@@ -120,6 +122,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
    <li>IAM Vulnerable - An AWS IAM Privilege Escalation Playground: https://labs.bishopfox.com/tech-blog/iam-vulnerable-an-aws-iam-privilege-escalation-playground | https://labs.bishopfox.com/tech-blog/iam-vulnerable-assessing-the-aws-assessment-tools#Q1</li>
    <li>Kubernetes Local Security Testing Lab - There's a number of playbooks which will bring up cluster's with a specific mis-configuration that can be exploited: https://github.com/raesene/kube_security_lab</li>
    <li>simulator - a distributed systems and infrastructure simulator for attacking and debugging Kubernetes: simulator creates a Kubernetes cluster for you in your AWS account; runs scenarios which misconfigure it and/or leave it vulnerable to compromise and trains you in mitigating against these vulnerabilities: https://github.com/kubernetes-simulator/simulator</li>
+   <li>Splunk attack range: https://github.com/splunk/attack_range</li>
     </span>
   </p3>
   </ul>
@@ -169,6 +172,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>SigFlip -  tool for patching authenticode signed PE files (exe, dll, sys ..etc) in a way that doesn't affect or break the existing authenticode signature, in other words you can change PE file checksum/hash by embedding data (i.e shellcode) without breaking the file signature, integrity checks or PE file functionality: https://github.com/med0x2e/SigFlip</li>
           <li>awesome-linux-rootkits: https://github.com/milabs/awesome-linux-rootkits</li>
           <li>Koppeling - a demonstration of advanced DLL hijack techniques. It was released in conjunction with the "Adaptive DLL Hijacking" blog post: https://github.com/monoxgas/Koppeling</li>
+          <li>SillyRAT - A Cross Platform multifunctional (Windows/Linux/Mac) RAT: https://github.com/hash3liZer/SillyRAT</li>
       </span>
      </p3>
           </ul>
@@ -210,6 +214,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>HTTPUploadExfil - a (very) simple HTTP server written in Go that's useful for getting files (and other information) off a machine using HTTP: https://github.com/IngoKl/HTTPUploadExfil</li>
           <li>GC2-sheet - GC2 (Google Command and Control) is a Command and Control application that allows an attacker to execute commands on the target machine using Google Sheet and exfiltrates data using Google Drive: https://github.com/looCiprian/GC2-sheet</li>
           <li>tor-rootkit - a Python 3 standalone Windows 10 / Linux Rootkit. The networking communication get's established over the tor network: https://github.com/emcruise/tor-rootkit</li>
+          <li>DNSStager - an open-source project based on Python used to hide and transfer your payload using DNS: https://github.com/mhaskar/DNSStager</li>
            </span>
           </p3>
        
@@ -264,6 +269,9 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>Invisi-Shell - hide your powershell script in plain sight! Invisi-Shell bypasses all of Powershell security features (ScriptBlock logging, Module logging, Transcription, AMSI) by hooking .Net assemblies: https://github.com/OmerYa/Invisi-Shell</li>
       <li>pyrdp - a Python Remote Desktop Protocol (RDP) Monster-in-the-Middle (MITM) tool and library: https://github.com/GoSecure/pyrdp</li>
       <li>aDLL - a binary analysis tool focused on the automatic discovery of DLL Hijacking vulnerabilities: https://github.com/ideaslocas/aDLL</li>
+      <li>tactical-exploitation - provides a smoother and more reliable way of compromising targets by leveraging process vulnerabilities, while minimizing attack detection and other undesired side effects: https://github.com/0xdea/tactical-exploitation</li>
+      <li>moonwalk -  a 400 KB single-binary executable that can clear your traces while penetration testing a Unix machine: https://github.com/mufeedvh/moonwalk</li>
+      <li>Viper - a graphical intranet penetration tool, which modularizes and weaponizes the tactics and technologies commonly used in the process of Intranet penetration: https://github.com/FunnyWolf/Viper</li>
       </span> 
   </p3>
   </ul>
@@ -284,15 +292,14 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>nexphisher - Advanced phishing tool: https://github.com/htr-tech/nexphisher</li>
           <li>maskphish - a simple script to hide phishing URL under a normal looking URL(google.com or facebook.com): https://github.com/jaykali/maskphish</li>
           <li>Gophish - phishing toolkit designed for businesses and penetration testers. It provides the ability to quickly and easily setup and execute phishing engagements and security awareness training: https://github.com/gophish/gophish
-          <ul>
           <li>How to set up gophish to evade security controls: https://www.sprocketsecurity.com/blog/never-had-a-bad-day-phishing-how-to-set-up-gophish-to-evade-security-controls</li>
           <li>The Ultimate Guide to Phishing - Learn how to Phish using EvilGinx2 and GoPhish: https://sidb.in/2021/08/03/Phishing-0-to-100.html</li>
-          </ul>
-          </li>
           <li>SniperPhish -  a phishing toolkit for pentester or security professionals to enhance user awareness by simulating real-world phishing attacks. SniperPhish helps to combine both phishing emails and phishing websites you created to centrally track user actions: https://github.com/GemGeorge/SniperPhish</li>
           <li>phishmonger - Phishing platform designed for pentesters. This tool allows us to craft phishing emails in Outlook, clone them quickly, automatically template them for mass distribution, test email templates, schedule phishing campaigns, and track phishing results. Phishmonger is not just GoPhish in Node! You do not have to set up a separate mail server. Phishmonger itself is a mail server: https://github.com/fkasler/phishmonger</li>
           <li>awsssome_phish - phish aws sso code with dynamic url creation with lambda function: https://github.com/sebastian-mora/awsssome_phish</li>
           <li>Phishious - an open-source Secure Email Gateway (SEG) evaluation toolkit designed for red-teamers and developed by the team at https://caniphish.com. Phishious provides the ability to see how various Secure Email Gateway technologies behave when presented with phishing material: https://github.com/Rices/Phishious</li>
+          <li>muraena -  an almost-transparent reverse proxy aimed at automating phishing and post-phishing activities: https://github.com/muraenateam/muraena</li>
+          <li>AdvPhishing - phishing with otp bypass techinques: https://github.com/Ignitetch/AdvPhishing</li>
       </span>
     </p3>
     </ul><br>
@@ -346,6 +353,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     <li>uncoder.io - online translator for SIEM saved searches, filters, queries, API requests, correlation and Sigma rules to help SOC Analysts, Threat Hunters and SIEM Engineers: https://uncoder.io/</li>
     <li>F-secure - Attack Detection Fundamentals: https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-1/</li>
     <li>PwnDoc - a pentest reporting application making it simple and easy to write your findings and generate a customizable Docx report: https://github.com/pwndoc/pwndoc </li>
+    <li>PeTeReport - an open-source application vulnerability reporting tool designed to assist pentesting/redteaming efforts, by simplifying the task of writting and generation of reports: https://github.com/1modm/petereport</li>
     <li>ThreatPursuit-VM - MANDIANT THREAT INTELLIGENCE VM: https://github.com/fireeye/ThreatPursuit-VM</li>
     <li>KQL Internals: https://identityandsecuritydotcom.files.wordpress.com/2020/08/kql_internals_hk.pdf </li>
     <li>jarm - an active Transport Layer Security (TLS) server fingerprinting tool(by CRM): https://github.com/salesforce/jarm</li>
@@ -365,12 +373,12 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>honeybits - spread breadcrumbs & honeytokens: https://github.com/0x4D31/honeybits</li>
           <li>DTAG(T-Pot creators) https://github.com/dtag-dev-sec </li>
           <li> rockNSM(IDS) installation notes from SANS: https://isc.sans.edu/diary/rss/22832 </li>
-          <li><a target="_blank" rel="no-image" href="https://securityonionsolutions.com/software/"><img border="0" src="https://pbs.twimg.com/profile_images/1285648758525526017/gQFtcr9m.jpg" width="60" height="50" style="vertical-align:middle"></a><center>Security Onion 2 - free and open source Linux distribution for threat hunting, enterprise security monitoring, and log management. It includes TheHive, Playbook and Sigma, Fleet and osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, Zeek, Wazuh, and many other security tools: https://securityonionsolutions.com/software/ | https://docs.securityonion.net/en/2.3/about.html</center></li>
+          <li>Security Onion 2 - free and open source Linux distribution for threat hunting, enterprise security monitoring, and log management. It includes TheHive, Playbook and Sigma, Fleet and osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, Zeek, Wazuh, and many other security tools: https://securityonionsolutions.com/software/ | https://docs.securityonion.net/en/2.3/about.html</li>
             <li>unfetter: https://github.com/unfetter-analytic/unfetter </li>
              <li>portspoof: https://github.com/drk1wi/portspoof </li>
           <li>GeoLogonalyzer - a utility to perform location and metadata lookups on source IP addresses of remote access logs: https://github.com/fireeye/GeoLogonalyzer </li>
           <li>Dejavu - open source deception framework which can be used to deploys deploy multiple interactive decoys: https://github.com/bhdresh/Dejavu</li>
-          <li><a target="_blank" rel="no-image" href="https://github.com/fireeye/capa"><img border="0" src="https://github.com/fireeye/capa/raw/master/.github/logo.png" width="120" height="50" style="vertical-align:middle"></a> - detects capabilities in executable files. You run it against a PE file or shellcode and it tells you what it thinks the program can do </li>
+          <li>fireeye capa - detects capabilities in executable files. You run it against a PE file or shellcode and it tells you what it thinks the program can do: https://github.com/fireeye/capa </li>
           <li>gravwell-community-edition: https://www.gravwell.io/blog/gravwell-community-edition</li>
           <li>logz.io: https://logz.io/</li>
           <li>SIEMonster: https://siemonster.com/</li>
@@ -378,30 +386,31 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>siembol - provides a scalable, advanced security analytics framework based on open-source big data technologies. Siembol normalizes, enriches, and alerts on data from various sources, which allows security teams to respond to attacks before they become incidents: https://github.com/G-Research/siembol</li>
           <li>CyberSponse - community edtion: https://cybersponse.com/community-edition/</li>
           <li>Dflabs - community edition: https://www.dflabs.com/incman-soar-community-edition/</li>
-          <li><a target="_blank" rel="no-image" href="https://thehive-project.org/"><img border="0" src="https://thehive-project.org/assets/img/logos/thehive.svg" width="80" height="35" style="vertical-align:middle"></a> - A scalable, open source and free Security Incident Response Platform, tightly integrated with MISP: https://thehive-project.org/ </li>
+          <li>thehive-project - A scalable, open source and free Security Incident Response Platform, tightly integrated with MISP: https://thehive-project.org/ </li>
           <li>Sigma - generic and open signature format that allows you to describe relevant log events in a straight forward manner: https://github.com/Neo23x0/sigma | https://github.com/socprime/SigmaUI </li>
           <li>MozDef - The Mozilla Enterprise Defense Platform (MozDef) seeks to automate the security incident handling process and facilitate the real-time activities of incident handlers: https://github.com/mozilla/MozDef </li>
-          <li><a target="_blank" rel="no-image" href="https://www.opencti.io/en/"><img border="0" src="https://www.opencti.io/wp-content/uploads/2019/02/logo_text.png" width="120" height="35" style="vertical-align:middle"></a> - Unified platform for all levels of Cyber Threat Intelligence: https://www.opencti.io/en/</li>
-          <li><a target="_blank" rel="no-image" href="https://wazuh.com/"><img border="0" src="https://wazuh.com/wp-content/themes/wazuh/assets/images/wazuh_logo.svg" width="80" height="35" style="vertical-align:middle"></a> - enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance: https://wazuh.com/</li>
+          <li>opencti - Unified platform for all levels of Cyber Threat Intelligence: https://www.opencti.io/en/</li>
+          <li>wazuh - enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance: https://wazuh.com/</li>
           <li>spidertrap - Trap web crawlers and spiders in an infinite set of dynamically generated webpage: https://github.com/adhdproject/adhdproject.github.io/blob/master/Tools/Spidertrap.md </li>
           <li>ElastAlert - a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch: https://github.com/Yelp/elastalert</li>
           <li>glastof - is a Python web application honeypot founded by Lukas Rist:https://github.com/mushorg/glastopf </li>
           <li>compot - is a low interactive server side Industrial Control Systems honeypot designed to be easy to deploy, modify and extend: http://conpot.org/ </li>
           <li>jimi - an automation first no-code platform designed and developed originally for Security Orchestration and Response: https://github.com/z1pti3/jimi</li>
           <li>Malcolm - an easily deployable network analysis tool suite for full packet capture artifacts (PCAP files) and Zeek logs: https://github.com/idaholab/Malcolm/blob/master/README.md</li>
-          <li><center><a target="_blank" rel="no-image" href="https://honeydb.io/"><img border="0" src="https://honeydb.io/static/img/honeydb.png" width="40" height="40" style="vertical-align:middle"></a>HoneyDB - provides real time data of honeypot activity. This data comes from honeypot sensors deployed globally on the Internet: https://honeydb.io/</center></li>
-          <li><a target="_blank" rel="no-image" href="https://github.com/saferwall/saferwall"><img border="0" src="https://camo.githubusercontent.com/88d5bf65402c828dfa402bf9fd700441c2975efa/68747470733a2f2f692e696d6775722e636f6d2f7a6a434f4b506f2e706e67" width="65" height="50" style="vertical-align:middle"></a> -  malware analysis platform: https://github.com/saferwall/saferwall </li>
-          <li><a target="_blank" rel="no-image" href="https://github.com/secureCodeBox/secureCodeBox"><img border="0" src="https://github.com/secureCodeBox/secureCodeBox/raw/master/docs/resources/logo.png" width="80" height="25" style="vertical-align:middle"></a> - a docker based, modularized toolchain for continuous security scans of your software project: https://github.com/secureCodeBox/secureCodeBox</li>
+          <li>HoneyDB - provides real time data of honeypot activity. This data comes from honeypot sensors deployed globally on the Internet: https://honeydb.io/</li>
+          <li>saferwall -  malware analysis platform: https://github.com/saferwall/saferwall </li>
+          <li>secureCodeBox - a docker based, modularized toolchain for continuous security scans of your software project: https://github.com/secureCodeBox/secureCodeBox</li>
           <li>NERVE - Network Exploitation, Reconnaissance & Vulnerability Engine: https://github.com/PaytmLabs/nerve</li>
           <li>CHAPS - is a PowerShell script for checking system security settings where additional software and assessment tools, such as Microsoft Policy Analyzer, cannot be installed: https://github.com/cutaway-security/chaps</li>
           <li>Brim - open source desktop application for security and network specialists. Brim makes it easy to search and analyze data from packet captures like those created by Wireshark and structured logs, especially from the Zeek network analysis framework: https://github.com/brimsec/brim </li>
-          <li><a target="_blank" rel="no-image" href="http://openuba.org/"><img border="0" src="http://openuba.org/img/logo.png" width="85" height="15" style="vertical-align:middle"></a> - A FLEXIBLE OPEN SOURCE UEBA PLATFORM USED FOR SECURITY ANALYTICS: http://openuba.org/</li>
+          <li>openuba - A FLEXIBLE OPEN SOURCE UEBA PLATFORM USED FOR SECURITY ANALYTICS: http://openuba.org/</li>
           <li>Intel Owl - OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale: https://github.com/intelowlproject/IntelOwl</li>
           <li>Intrigue Core - open attack surface enumeration engine. It integrates and orchestrates a wide variety of  security data sources, distilling them into a normalized object model: https://core.intrigue.io/</li>
           <li>Awesome CobaltStrike Defence: https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence </li>
           <li>Crossfeed - a tool that continuously enumerates and monitors an organization's public-facing attack surface in order to discover assets and flag potential security flaws: https://github.com/cisagov/crossfeed</li>
           <li>Awesome Incident Response - https://github.com/meirwah/awesome-incident-response</li>
           <li>qiling - an advanced binary emulation framework. Emulate multi-platforms: Windows, MacOS, Linux, BSD, UEFI, DOS, MBR, Ethereum Virtual Machine: https://github.com/qilingframework/qiling</li>
+          <li>ssh-audit - a tool for ssh server & client configuration auditing: https://github.com/jtesta/ssh-audit</li>
             </span>
             </p3>
             </ul><br>
@@ -414,14 +423,14 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>fuzz-lightyear -  pytest-inspired, DAST framework, capable of identifying vulnerabilities in a distributed, micro-service ecosystem through stateful Swagger fuzzing: https://github.com/Yelp/fuzz-lightyear/blob/master/README.md</li>
 <li>GoSpider - gast web spider written in Go: https://github.com/jaeles-project/gospider</li>
 <li>XSS-Freak - XSS scanner fully written in python3. It crawls the website for all possible links and directories to expand its attack scope. Then it searches them for input tags and then launches a bunch of XSS payloads: https://github.com/hacker900123/XSS-Freak</li>
-<li><center><a target="_blank" rel="no-image" href="https://github.com/anouarbensaad/vulnx"><img border="0" src="https://i.ibb.co/ZxxFqxQ/vxv2.png" width="80" height="50" style="vertical-align:middle"></a>vulnx - Intelligent Bot Auto Shell Injector that detects vulnerabilities in multiple types of Cms: https://github.com/anouarbensaad/vulnx</center></li>
-<li><center><a target="_blank" rel="no-image" href="https://github.com/flipkart-incubator/Astra"  class="CircleBadge CircleBadge--small float-left mr-2"><img border="0" src="https://bit.ly/371kPmF" width="120" height="50" style="vertical-align:middle" class="CircleBadge-icon"></a>Astra - REST API penetration testing tool: https://github.com/flipkart-incubator/Astra</center></li>
-<li><a target="_blank" rel="no-image" href="https://github.com/thewhiteh4t/finalrecon"><img border="0" src="https://bit.ly/2zQrKDn" width="80" height="50" style="vertical-align:middle"></a><center>finalrecon - fast and simple python script for web reconnaissance: https://github.com/thewhiteh4t/finalrecon</center></li>
+<li>vulnx - Intelligent Bot Auto Shell Injector that detects vulnerabilities in multiple types of Cms: https://github.com/anouarbensaad/vulnx</li>
+<li>Astra - REST API penetration testing tool: https://github.com/flipkart-incubator/Astra</li>
+<li>finalrecon - fast and simple python script for web reconnaissance: https://github.com/thewhiteh4t/finalrecon</li>
   <li>Payloads - A collection of web attack payloads: https://github.com/foospidy/payloads </li>
   <li>AuthMatrix - an extension to Burp Suite that provides a simple way to test authorization in web applications and web services: https://github.com/SecurityInnovation/AuthMatrix</li>
-  <li><a target="_blank" rel="no-image" href="https://github.com/eth0izzle/shhgit"><img border="0" src="https://github.com/eth0izzle/shhgit/raw/master/images/shhgit.png" width="50" height="50" style="vertical-align:middle"></a> -  shhgit finds secrets and sensitive files across GitHub (including Gists), GitLab and BitBucket committed in near real time: https://github.com/eth0izzle/shhgit </li>
-  <li><a target="_blank" rel="no-image" href="https://www.sken.ai/"><img border="0" src="https://www.sken.ai/assets/img/logo.svg" width="100" height="50" style="vertical-align:middle"></a> - One tool to do all scans. Sken packages and manages open source scanners across all scan types, adds a SaaS orchestration layer and automates them in CI/CD: https://www.sken.ai/ </li>
-  <li><a target="_blank" rel="no-image" href="https://github.com/LasCC/Hack-Tools"><img border="0" src="https://bit.ly/3hCDZUB" width="80" height="35" style="vertical-align:middle"></a>Hack-Tools - the all-in-one Red Team browser extension for Web Pentesters: https://github.com/LasCC/Hack-Tools</li>
+  <li>shhgit - finds secrets and sensitive files across GitHub (including Gists), GitLab and BitBucket committed in near real time: https://github.com/eth0izzle/shhgit</li>
+  <li>Sken - One tool to do all scans. Sken packages and manages open source scanners across all scan types, adds a SaaS orchestration layer and automates them in CI/CD: https://www.sken.ai/ </li>
+  <li>Hack-Tools - the all-in-one Red Team browser extension for Web Pentesters: https://github.com/LasCC/Hack-Tools</li>
   <li><a target="_blank" rel="no-image" href="https://github.com/epi052/feroxbuster"><img border="0" src="https://github.com/epi052/feroxbuster/raw/master/img/logo/default-cropped.png" width="95" height="45" style="vertical-align:middle"></a> - A simple, fast, recursive content discovery tool written in Rust</li>
   <li><a target="_blank" rel="no-image" href="https://github.com/jaeles-project/jaeles"><img border="0" src="https://github.com/jaeles-project/jaeles-plugins/raw/master/assets/jaeles.png?raw=true" width="60" height="50" style="vertical-align:middle"></a><center>Jaeles - a powerful, flexible and easily extensible framework written in Go for building your own Web Application Scanner: https://github.com/jaeles-project/jaeles</center></li>
   <li>tamper.dev - an extension that allows you to edit HTTP/HTTPS requests and responses as they happen without the need of a proxy: https://tamper.dev/ </li>
@@ -441,6 +450,9 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>keyhacks - shows ways in which particular API keys found on a Bug Bounty Program can be used, to check if they are valid: https://github.com/streaak/keyhacks</li>
   <li>SSRFmap - SSRF are often used to leverage actions on other services, this framework aims to find and exploit these services easily. SSRFmap takes a Burp request file as input and a parameter to fuzz: https://github.com/swisskyrepo/SSRFmap</li>
   <li>PayloadsAllTheThings - A list of useful payloads and bypasses for Web Application Security. Feel free to improve with your payloads and techniques: https://github.com/swisskyrepo/PayloadsAllTheThings</li>
+  <li>cookiemonster -  command-line tool and API for decoding and modifying vulnerable session cookies from several different frameworks. It is designed to run in automation pipelines which must be able to efficiently process a large amount of these cookies to quickly discover vulnerabilities. Additionally, CookieMonster is extensible and can easily support new cookie formats: https://github.com/iangcarroll/cookiemonster/</li>
+  <li>forbidden - Bypass 4xx HTTP response status codes. Based on PycURL: https://github.com/ivan-sincek/forbidden</li>
+  <li>nginxpwner - a simple tool to look for common Nginx misconfigurations and vulnerabilities: https://github.com/stark0de/nginxpwner</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
@@ -466,7 +478,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>cloudsploit (Aqua) - an open-source project designed to allow detection of security risks in cloud infrastructure accounts: https://github.com/aquasecurity/cloudsploit </li>
 <li>deepfence SecretScanner - helps users scan their container images or local directories on hosts and outputs JSON file with details of all the secrets found: https://github.com/deepfence/SecretScanner </li>
 <li>OpenCSPM - an open-source platform for gaining deeper insight into your cloud configuration and metadata to help understand and reduce risk over time: https://github.com/OpenCSPM/opencspm </li>
-<li>endgame - An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account's resources with a rogue AWS account - or share the resources with the entire Internet: https://endgame.readthedocs.io/en/latest/ </li>
+<li>endgame - An AWS Pentesting tool that `let`s you use one-liner commands to backdoor an AWS account's resources with a rogue AWS account - or share the resources with the entire Internet: https://endgame.readthedocs.io/en/latest/ </li>
 <li>rpCheckup - an AWS resource policy security checkup tool that identifies public, external account access, intra-org account access, and private resources. It makes it easy to reason about resource visibility across all the accounts in your org: https://github.com/goldfiglabs/rpCheckup </li>
 <li>prawler - is a command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool: https://github.com/toniblyx/prowler </li>
 <li>cloudmapper - helps you analyze your Amazon Web Services (AWS) environments. The original purpose was to generate network diagrams and display them in your browser. It now contains much more functionality, including auditing for security issues: https://github.com/duo-labs/cloudmapper</li>
@@ -496,6 +508,11 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>Azure-Red-Team - collection of AAD recon and attack resorces: https://github.com/rootsecdev/Azure-Red-Team</li>
 <li>AzureAD_Autologon_Brute - Brute force attack tool for Azure AD Autologon: https://github.com/nyxgeek/AzureAD_Autologon_Brute</li>
 <li>MicroBurst -  includes functions and scripts that support Azure Services discovery, weak configuration auditing, and post exploitation actions such as credential dumping: https://github.com/NetSPI/MicroBurst</li>
+<li>azucar - a multi-threaded plugin-based tool to help you assess the security of your Azure Cloud environment: https://github.com/nccgroup/azucar</li>
+<li>TokenTactics - Azure JSON Web Token ("JWT") Manipulation Toolset: https://github.com/rvrsh3ll/TokenTactics</li>
+<li>Microsoft365_devicePhish - Abusing Microsoft 365 OAuth Authorization Flow for Phishing Attack: https://github.com/bigb0sss/Microsoft365_devicePhish</li>
+<li>Spray365 -  a password spraying tool that identifies valid credentials for Microsoft accounts (Office 365 / Azure AD): https://github.com/MarkoH17/Spray365</li>
+<li>AzureHunter - Powershell module to run threat hunting playbooks on data from Azure and O365 for Cloud Forensics purposes: https://github.com/darkquasar/AzureHunter</li>
 </ul>
 </br>
 
