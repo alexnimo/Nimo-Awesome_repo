@@ -18,6 +18,8 @@
  <li>h8mail - Powerful and user-friendly password finder: https://github.com/khast3x/h8mail/blob/master/Dockerfile</li>
  <li>Instatbox -  a project that spins up temporary Linux systems with instant webshell access from any browser: https://github.com/instantbox/instantbox/blob/master/Dockerfile</li>
  <li>envizon - state of the art network visualization and vulnerability reporting tool: https://github.com/evait-security/envizon/tree/master/docker </li>
+ <li>vapi - is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios in the means of Exercises: https://github.com/roottusk/vapi</li>
+ <li>Docker-OSX - runn Mac OS X in Docker with near-native performance! X11 Forwarding! iMessage security research! iPhone USB working! macOS in a Docker container: https://github.com/sickcodes/Docker-OSX | https://gombosg.com/2022/01/running-macos-inside-linux/</li>
   <br>
 
 <p1 class="lead"><b>Misc Docker</b></p1>
@@ -87,7 +89,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Red Team Automation(RTA): https://github.com/endgameinc/RTA </li>
   <li>Network Flight Simulator: https://github.com/alphasoc/flightsim </li>
   <li>Redhunt - Virtual Machine for Adversary Emulation and Threat Hunting: https://github.com/redhuntlabs/RedHunt-OS </li>
-  <li> Blue Team Training Kit: https://www.bt3.no/ </li>
+  <li>Blue Team Training Kit: https://www.bt3.no/ </li>
   <li>UBoat - POC HTTP Botnet designed to replicate a full weaponised commercial botnet: https://github.com/Souhardya/UBoat</li>
   <li>FireProx - FireProx leverages the AWS API Gateway to create pass-through proxies that rotate the source IP address with every request: https://github.com/ustayready/fireprox</li>
   <li>Chain Reactor - is an open source framework for composing executables that can simulate adversary behaviors and techniques on Linux endpoints: https://github.com/redcanaryco/chain-reactor </li>
@@ -101,6 +103,12 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 					require the user to install or to maintain them. Furthermore, the library of tools is an asset to your testing methodologies ready to be launched.https://teqnix.io/</li>
           <li>Exegol - a fully configured docker with many useful additional tools, resources (scripts and binaries for privesc, credential theft etc.): https://github.com/ShutdownRepo/Exegol</li>
           <li>redherd-framework - a collaborative and serverless framework for orchestrating a geographically distributed group of assets capable of simulating complex offensive cyberspace operations: https://github.com/redherd-project/redherd-framework</li>
+          <li>PMAT-labs - this repository contains live malware samples for use in the Practical Malware Analysis & Triage course (PMAT). These samples are either written to emulate common malware characteristics or are live, real world, "caught in the wild" samples: https://github.com/HuskyHacks/PMAT-labs</li>
+          <li>stratus-red-team - is "Atomic Red Team™" for the cloud, allowing to emulate offensive attack techniques in a granular and self-contained manner: https://github.com/Datadog/stratus-red-team/</li>
+          <li>firedrill - an open-source library from FourCore Labs to build malware simulations easily: https://github.com/FourCoreLabs/firedrill</li>
+          <li>Vulhub - an open-source collection of pre-built vulnerable docker environments: https://github.com/vulhub/vulhub</li>
+          <li>AWS CloudSaga - Simulate security events in AWS: https://github.com/awslabs/aws-cloudsaga</li>
+          <li>flightsim - a lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility. The tool performs tests to simulate DNS tunneling, DGA traffic, requests to known active C2 destinations, and other suspicious traffic patterns: https://github.com/alphasoc/flightsim</li>
   </p3>
   </ul>
     <h3><b>Cyber Ranges / Labs</b></h3>
@@ -123,6 +131,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
    <li>Kubernetes Local Security Testing Lab - There's a number of playbooks which will bring up cluster's with a specific mis-configuration that can be exploited: https://github.com/raesene/kube_security_lab</li>
    <li>simulator - a distributed systems and infrastructure simulator for attacking and debugging Kubernetes: simulator creates a Kubernetes cluster for you in your AWS account; runs scenarios which misconfigure it and/or leave it vulnerable to compromise and trains you in mitigating against these vulnerabilities: https://github.com/kubernetes-simulator/simulator</li>
    <li>Splunk attack range: https://github.com/splunk/attack_range</li>
+   <li>Red-Baron - a set of modules and custom/third-party providers for Terraform which tries to automate creating resilient, disposable, secure and agile infrastructure for Red Teams: https://github.com/Coalfire-Research/Red-Baron</li>
+   <li>HazProne - a Cloud Pentesting Framework that emulates close to Real-World Scenarios by deploying Vulnerable-By-Demand aws resources enabling you to pentest Vulnerabilities within, and hence, gain a better understanding of what could go wrong and why. The framework helps gain practical, AWS Penetration testing knowledge/skills: https://github.com/stafordtituss/HazProne</li>
     </span>
   </p3>
   </ul>
@@ -159,7 +169,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>MalwareBazaar - is a project from abuse.ch with the goal of sharing malware samples with the infosec community, AV vendors and threat intelligence providers: https://bazaar.abuse.ch/ </li>
           <li>RapidPayload - Metasploit Payload Generator: https://github.com/AngelSecurityTeam/RapidPayload</li>
           <li><center><a target="_blank" rel="no-image" href="https://github.com/EgeBalci/sgn/blob/master/README.md"><img border="0" src="https://github.com/EgeBalci/sgn/raw/master/img/banner.png" width="85" height="20" style="vertical-align:middle"></a>SGN - a polymorphic binary encoder for offensive security purposes such as generating statically undetecable binary payloads: https://github.com/EgeBalci/sgn/blob/master/README.md</center></li>
-          <li>Arbitrium-RAT - a cross-platform is a remote access trojan (RAT), Fully UnDetectable (FUD), It allows you to control Android, Windows and Linux and doesn't require any firewall exceptions or port forwarding: https://github.com/BenChaliah/Arbitrium-RAT</li>
+          <li>Arbitrium-RAT - a cross-platform is a remote access trojan (RAT), Fully UnDetectable (FUD), It allows you to control Android, Windows and Linux and doesn't require any firewall exceptions or port forwarding: https://github.com/im-hanzou/Arbitrium-RAT</li>
           <li>ScareCrow - a payload creation framework for generating loaders for the use of side loading (not injection) into a legitimate Windows process (bypassing Application Whitelisting controls): https://github.com/optiv/ScareCrow</li>
           <li>SharpEDRChecker - catches hidden EDRs as well via its metadata checks, more info in a blog post coming soon: https://github.com/PwnDexter/SharpEDRChecker</li>
           <li>ratel -  penetration test tool that allows you to take control of a windows machine: https://github.com/FrenchCisco/RATel </li>
@@ -173,6 +183,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>awesome-linux-rootkits: https://github.com/milabs/awesome-linux-rootkits</li>
           <li>Koppeling - a demonstration of advanced DLL hijack techniques. It was released in conjunction with the "Adaptive DLL Hijacking" blog post: https://github.com/monoxgas/Koppeling</li>
           <li>SillyRAT - A Cross Platform multifunctional (Windows/Linux/Mac) RAT: https://github.com/hash3liZer/SillyRAT</li>
+          <li>mortar - red teaming evasion technique to defeat and divert detection and prevention of security products.Mortar Loader performs encryption and decryption of selected binary inside the memory streams and execute it directly with out writing any malicious indicator into the hard-drive: https://github.com/0xsp-SRD/mortar</li>
       </span>
      </p3>
           </ul>
@@ -215,6 +226,11 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>GC2-sheet - GC2 (Google Command and Control) is a Command and Control application that allows an attacker to execute commands on the target machine using Google Sheet and exfiltrates data using Google Drive: https://github.com/looCiprian/GC2-sheet</li>
           <li>tor-rootkit - a Python 3 standalone Windows 10 / Linux Rootkit. The networking communication get's established over the tor network: https://github.com/emcruise/tor-rootkit</li>
           <li>DNSStager - an open-source project based on Python used to hide and transfer your payload using DNS: https://github.com/mhaskar/DNSStager</li>
+          <li>rathole - a secure, stable and high-performance reverse proxy for NAT traversal, written in Rust: https://github.com/rapiz1/rathole</li>
+          <li>TREVORproxy - a SOCKS proxy written in Python that randomizes your source IP address. Round-robin your evil packets through SSH tunnels or give them billions of unique source addresses: https://github.com/blacklanternsecurity/TREVORproxy</li>
+          <li>dnscrypt-proxy - A flexible DNS proxy, with support for modern encrypted DNS protocols such as DNSCrypt v2, DNS-over-HTTPS, Anonymized DNSCrypt and ODoH (Oblivious DoH): https://github.com/DNSCrypt/dnscrypt-proxy</li>
+          <li>GoWard - a robust and rapidly-deployable Red Team proxy with strong OPSEC considerations.: https://github.com/chdav/GoWard</li>
+          <li>awesome-tunneling - The purpose of this list is to track and compare tunneling solutions. This is primarily targeted toward self-hosters and developers who want to do things like exposing a local webserver via a public domain name, with automatic HTTPS, even if behind a NAT or other restricted network: https://github.com/anderspitman/awesome-tunneling</li>
            </span>
           </p3>
        
@@ -255,6 +271,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>Go-RouterSocks - this tool will expose one socks port and route the traffic through the configured path: https://github.com/nodauf/Go-RouterSocks</li>
       <li>GodSpeed - a robust and intuitive manager for reverse shells: https://github.com/redcode-labs/GodSpeed</li>
       <li>SharpHound - C# Rewrite of the BloodHound Ingestor: https://github.com/BloodHoundAD/SharpHound3</li>
+      <li>sharphound-all-flags explained: https://bloodhound.readthedocs.io/en/latest/data-collection/sharphound-all-flags.html</li>
       <li>Max Bloodhound - Maximizing BloodHound with a simple suite of tools: https://github.com/knavesec/Max</li>
       <li>SNOWCRASH - polyglot payload generator. Creates a script that can be launched on both Linux and Windows machines: https://github.com/redcode-labs/SNOWCRASH</li>
       <li>PoisonApple - command-line tool to perform various persistence mechanism techniques on macOS: https://github.com/CyborgSecurity/PoisonApple</li>
@@ -272,6 +289,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>tactical-exploitation - provides a smoother and more reliable way of compromising targets by leveraging process vulnerabilities, while minimizing attack detection and other undesired side effects: https://github.com/0xdea/tactical-exploitation</li>
       <li>moonwalk -  a 400 KB single-binary executable that can clear your traces while penetration testing a Unix machine: https://github.com/mufeedvh/moonwalk</li>
       <li>Viper - a graphical intranet penetration tool, which modularizes and weaponizes the tactics and technologies commonly used in the process of Intranet penetration: https://github.com/FunnyWolf/Viper</li>
+      <li>CandyPotato -  leverages the privilege escalation chain based on certain COM Servers, using a MiTM listener hosted on 127.0.0.1, and it works when you have SeImpersonate or SeAssignPrimaryToken privileges. By default, JuicyPotato uses the BITS service CLSID, and provides other tools (a set of PowerShell and Batch scripts), to enumerate and test other CLSIDs: https://github.com/klezVirus/CandyPotato</li>
       </span> 
   </p3>
   </ul>
@@ -300,6 +318,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Phishious - an open-source Secure Email Gateway (SEG) evaluation toolkit designed for red-teamers and developed by the team at https://caniphish.com. Phishious provides the ability to see how various Secure Email Gateway technologies behave when presented with phishing material: https://github.com/Rices/Phishious</li>
           <li>muraena -  an almost-transparent reverse proxy aimed at automating phishing and post-phishing activities: https://github.com/muraenateam/muraena</li>
           <li>AdvPhishing - phishing with otp bypass techinques: https://github.com/Ignitetch/AdvPhishing</li>
+          <li>espoofer - testing tool to bypass SPF, DKIM, and DMARC authentication in email systems: https://github.com/chenjj/espoofer</li>
       </span>
     </p3>
     </ul><br>
@@ -323,6 +342,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>PowerSharpPack - many usefull offensive CSharp Projects wraped into Powershell for easy usage: https://github.com/S3cur3Th1sSh1t/PowerSharpPack</li>
       <li>zuthaka - a collaborative free open-source Command & Control integration framework that allows developers to concentrate on the core function and goal of their C2: https://github.com/pucarasec/zuthaka</li>
       <li>bantam - an advanced PHP backdoor management tool, with a lightweight server footprint, multi-threaded communication, and an advanced payload generation and obfuscation tool: https://github.com/gellin/bantam</li>
+      <li>osmedeus - a Workflow Engine for Offensive Security: https://github.com/j3ssie/osmedeus/</li>
       </span>
   </p3>
   </ul><br>
@@ -363,6 +383,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     <li>nzyme - a free and open WiFi defense system that detects and physically locates threats using an easy to build and deploy sensor system: https://www.nzyme.org/</li>
     <li>Certified Pre-Owned - Abusing Active Directory Certificate Services: https://posts.specterops.io/certified-pre-owned-d95910965cd2</li>
     <li>pimpmykali - a shell script that fixes bunch a bugs on a Kali Linux virtual machines https://github.com/Dewalt-arch/pimpmykali</li>
+    <li>The Cyber Plumber's Handbook - the definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss: https://github.com/opsdisk/the_cyber_plumbers_handbook</li>
     </span>
   </p3>
   </ul>
@@ -394,6 +415,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>spidertrap - Trap web crawlers and spiders in an infinite set of dynamically generated webpage: https://github.com/adhdproject/adhdproject.github.io/blob/master/Tools/Spidertrap.md </li>
           <li>ElastAlert - a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch: https://github.com/Yelp/elastalert</li>
           <li>glastof - is a Python web application honeypot founded by Lukas Rist:https://github.com/mushorg/glastopf </li>
+          <li>riotpot - an interoperable medium interaction honeypot, primarily focused on the emulation IoT and OT protocols, although, it is also capable of emulating other services: https://github.com/aau-network-security/riotpot</li>
           <li>compot - is a low interactive server side Industrial Control Systems honeypot designed to be easy to deploy, modify and extend: http://conpot.org/ </li>
           <li>jimi - an automation first no-code platform designed and developed originally for Security Orchestration and Response: https://github.com/z1pti3/jimi</li>
           <li>Malcolm - an easily deployable network analysis tool suite for full packet capture artifacts (PCAP files) and Zeek logs: https://github.com/idaholab/Malcolm/blob/master/README.md</li>
@@ -406,11 +428,13 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>openuba - A FLEXIBLE OPEN SOURCE UEBA PLATFORM USED FOR SECURITY ANALYTICS: http://openuba.org/</li>
           <li>Intel Owl - OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale: https://github.com/intelowlproject/IntelOwl</li>
           <li>Intrigue Core - open attack surface enumeration engine. It integrates and orchestrates a wide variety of  security data sources, distilling them into a normalized object model: https://core.intrigue.io/</li>
-          <li>Awesome CobaltStrike Defence: https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence </li>
+          <li>Awesome CobaltStrike Defence: https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence | https://thedfirreport.com/2022/01/24/cobalt-strike-a-defenders-guide-part-2/</li>
           <li>Crossfeed - a tool that continuously enumerates and monitors an organization's public-facing attack surface in order to discover assets and flag potential security flaws: https://github.com/cisagov/crossfeed</li>
           <li>Awesome Incident Response - https://github.com/meirwah/awesome-incident-response</li>
           <li>qiling - an advanced binary emulation framework. Emulate multi-platforms: Windows, MacOS, Linux, BSD, UEFI, DOS, MBR, Ethereum Virtual Machine: https://github.com/qilingframework/qiling</li>
           <li>ssh-audit - a tool for ssh server & client configuration auditing: https://github.com/jtesta/ssh-audit</li>
+          <li>IVRE - an open-source framework for network recon. It relies on open-source well-known tools (Nmap, Masscan, ZGrab2, ZDNS and Zeek (Bro)) to gather data (network intelligence), stores it in a database (MongoDB is the recommended backend), and provides tools to analyze it: https://ivre.rocks/</li>
+          <li>pcf - Pentest Collaboration Framework - an opensource, cross-platform and portable toolkit for automating routine processes when carrying out various works for testing: https://gitlab.com/invuls/pentest-projects/pcf</li>
             </span>
             </p3>
             </ul><br>
@@ -453,6 +477,14 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>cookiemonster -  command-line tool and API for decoding and modifying vulnerable session cookies from several different frameworks. It is designed to run in automation pipelines which must be able to efficiently process a large amount of these cookies to quickly discover vulnerabilities. Additionally, CookieMonster is extensible and can easily support new cookie formats: https://github.com/iangcarroll/cookiemonster/</li>
   <li>forbidden - Bypass 4xx HTTP response status codes. Based on PycURL: https://github.com/ivan-sincek/forbidden</li>
   <li>nginxpwner - a simple tool to look for common Nginx misconfigurations and vulnerabilities: https://github.com/stark0de/nginxpwner</li>
+  <li>XSRFProbe - an advanced Cross Site Request Forgery (CSRF/XSRF) Audit and Exploitation Toolkit. Equipped with a powerful crawling engine and numerous systematic checks, it is able to detect most cases of CSRF vulnerabilities, their related bypasses and futher generate (maliciously) exploitable proof of concepts with each found vulnerability: https://github.com/0xInfection/XSRFProbe</li>
+  <li>fuzz300 - this tool does collect all the entry-points for the target website and then tryes to find open redirect vulnerability: https://github.com/d34db33f-1007/fuzz300</li>
+  <li>Awesome WebSockets Security - a collection of CVEs, research, and reference materials related to WebSocket security: https://github.com/PalindromeLabs/awesome-websocket-security</li>
+  <li>STEWS - a tool suite for security testing of WebSockets: https://github.com/PalindromeLabs/STEWS</li>
+  <li>authz0 - an automated authorization test tool. Unauthorized access can be identified based on URLs and Roles & Credentials: https://github.com/hahwul/authz0</li>
+  <li>OAUTHScan -  is a Burp Suite Extension written in Java with the aim to provide some automatic security checks, which could be useful during penetration testing on applications implementing OAUTHv2 and OpenID standards: https://github.com/akabe1/OAUTHScan</li>
+  <li>TamperThemAll - a tampered payload generator to Fuzz Web Application Firewalls for Testing and Bypassing: https://github.com/francescolacerenza/TamperThemAll</li>
+  <li>API Security Empire - mindmaps, tips & tricks, resources and every thing related to API Security and API Penetration Testing: https://github.com/cyprosecurity/API-SecurityEmpire</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
@@ -513,6 +545,9 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>Microsoft365_devicePhish - Abusing Microsoft 365 OAuth Authorization Flow for Phishing Attack: https://github.com/bigb0sss/Microsoft365_devicePhish</li>
 <li>Spray365 -  a password spraying tool that identifies valid credentials for Microsoft accounts (Office 365 / Azure AD): https://github.com/MarkoH17/Spray365</li>
 <li>AzureHunter - Powershell module to run threat hunting playbooks on data from Azure and O365 for Cloud Forensics purposes: https://github.com/darkquasar/AzureHunter</li>
+<li>TREVORspray - a modular password sprayer with threading, SSH proxying, loot modules, and more: https://github.com/blacklanternsecurity/TREVORspray</li>
+<li>aadcookiespoof - cookie replay client for testing Azure AD Identity Protection: https://github.com/jsa2/aadcookiespoof</li>
+<li>SSOh-No - this tool is designed to enumerate users, password spray and perform brute force attacks against any organisation that utilises Azure AD or O365: https://github.com/optionalCTF/SSOh-No</li>
 </ul>
 </br>
 
@@ -593,3 +628,4 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>hurl - a command line tool that runs HTTP requests defined in a simple plain text format. It can perform requests, capture values and evaluate queries on headers and body response. Hurl is very versatile: it can be used for both fetching data and testing HTTP sessions: https://hurl.dev/</li>
 <li>PacketSender - utility to allow sending and receiving TCP, UDP, and SSL (encrypted TCP) packets: https://github.com/dannagle/PacketSender</li>
 <li>Ddosify - High-performance load testing tool: https://github.com/ddosify/ddosify</li>
+<li>hey - a tiny program that sends some load to a web application: https://github.com/rakyll/hey</li>
