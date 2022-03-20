@@ -71,6 +71,21 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 
 <h2><strong><u>Threat Hunting && Simulation</u></strong></h2>
 
+ 
+<h3><b>Cyber Ranges / Labs</b></h3>
+<ul>
+    <p3>
+    <span>
+   <li>Kubernetes Local Security Testing Lab - There's a number of playbooks which will bring up cluster's with a specific mis-configuration that can be exploited: https://github.com/raesene/kube_security_lab</li>
+   <li>simulator - a distributed systems and infrastructure simulator for attacking and debugging Kubernetes: simulator creates a Kubernetes cluster for you in your AWS account; runs scenarios which misconfigure it and/or leave it vulnerable to compromise and trains you in mitigating against these vulnerabilities: https://github.com/kubernetes-simulator/simulator</li>
+   <li>Splunk attack range: https://github.com/splunk/attack_range</li>
+   <li>Red-Baron - a set of modules and custom/third-party providers for Terraform which tries to automate creating resilient, disposable, secure and agile infrastructure for Red Teams: https://github.com/Coalfire-Research/Red-Baron</li>
+   <li>HazProne - a Cloud Pentesting Framework that emulates close to Real-World Scenarios by deploying Vulnerable-By-Demand aws resources enabling you to pentest Vulnerabilities within, and hence, gain a better understanding of what could go wrong and why. The framework helps gain practical, AWS Penetration testing knowledge/skills: https://github.com/stafordtituss/HazProne</li>
+   <li>CI/CDon't - This project will deploy intentionally vulnerable software/infrastructure to your AWS account: https://hackingthe.cloud/aws/capture_the_flag/cicdont/ </li>
+    </span>
+  </p3>
+  </ul>
+
   <h3><b>Adversary/Threat Simulation</b></h3>
   <ul>
     <p3>
@@ -182,6 +197,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>ligolo-ng - a simple, lightweight and fast tool that allows pentesters to establish tunnels from a reverse TCP/TLS connection without the need of SOCKS: https://github.com/tnpitsecurity/ligolo-ng</li>
           <li>Azure Outlook C2 - Azure Outlook Command & Control that uses Microsoft Graph API for C2 communications & data exfiltration: https://github.com/boku7/azureOutlookC2</li>
           <li>interactsh - Open-Source Solution for Out of band Data Extraction, A tool designed to detect bugs that cause external interactions, For example - Blind SQLi, Blind CMDi, SSRF, etc: https://github.com/projectdiscovery/interactsh</li>
+          <li>rconn - a multiplatform program for creating reverse connections. It lets you consume services that are behind NAT and/or firewall without adding firewall rules or port-forwarding: https://github.com/jafarlihi/rconn</li>
           </p3>
         </span>
  </ul>
@@ -202,7 +218,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>0xsp-Mongoose - Linux Privilege Escalation intelligent Enumeration Toolkit: https://github.com/lawrenceamer/0xsp-Mongoose </li>
       <li>wmigen - generate Batch, C, C++, C#, Delphi, F#, Java, JScript, KiXtart, Lua, Object Pascal, (Open) Object Rexx, Perl, PHP, PowerShell, Python, Ruby, Tcl, VB .NET or VBScript code for menu selected WMI queries: https://www.robvanderwoude.com/wmigen.php</li>
       <li>CryptonDie - a ransomware developed for study purposes: https://github.com/zer0dx/cryptondie </li>
-      <li>CQTools - This toolkit allows to deliver complete attacks within the infrastructure, starting with sniffing and spoofing activities, going through information extraction, password extraction, custom shell generation, custom payload generation, hiding code from antivirus solutions, various keyloggers and leverage this information to deliver attacks: https://4f2bcn3u2m2u2z7ghc17a5jm-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/cqtools-the-new-ultimate-hacking-toolkit-black-hat-asia-2019-2.7z | password: CQUREAcademy#123! | Documentation: https://i.blackhat.com/asia-19/Thu-March-28/bh-asia-Januszkiewicz-CQTools-New-Ultimate-Hacking-Toolkit-wp.pdf </li> 
+      <li>CQTools - This toolkit allows to deliver complete attacks within the infrastructure, starting with sniffing and spoofing activities, going through information extraction, password extraction, custom shell generation, custom payload generation, hiding code from antivirus solutions, various keyloggers and leverage this information to deliver attacks: https://4f2bcn3u2m2u2z7ghc17a5jm-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/cqtools-the-new-ultimate-hacking-toolkit-black-hat-asia-2019-2.7z | password: CQUREAcademy#123! | This whitepaper by Grzegorz Tworek describes CQRDCache tool usage": https://i.blackhat.com/asia-19/Thu-March-28/bh-asia-Januszkiewicz-CQTools-New-Ultimate-Hacking-Toolkit-wp.pdf </li> 
       <li>PEASS - Privilege Escalation Awesome Scripts SUITE: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite</li>
       <li>Flux-Keylogger -  javascript keylogger with web panel: https://github.com/LimerBoy/Flux-Keylogger</li>
       <li>Adamantium-Thief - Get chromium browsers: passwords, credit cards, history, cookies, bookmarks: https://github.com/LimerBoy/Adamantium-Thief</li>
@@ -470,6 +486,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>Azure-Red-Team - collection of AAD recon and attack resorces: https://github.com/rootsecdev/Azure-Red-Team</li>
 <li>AzureAD_Autologon_Brute - Brute force attack tool for Azure AD Autologon: https://github.com/nyxgeek/AzureAD_Autologon_Brute</li>
 <li>MicroBurst -  includes functions and scripts that support Azure Services discovery, weak configuration auditing, and post exploitation actions such as credential dumping: https://github.com/NetSPI/MicroBurst</li>
+<li>Go365 - a tool designed to perform user enumeration* and password guessing attacks on organizations that use Office365 (now/soon Microsoft365). Go365 uses a unique SOAP API endpoint on login.microsoftonline.com that most other tools do not use: https://github.com/optiv/Go365</li>
 </ul>
 </br>
 
