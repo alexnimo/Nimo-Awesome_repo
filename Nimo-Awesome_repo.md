@@ -133,6 +133,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
    <li>Splunk attack range: https://github.com/splunk/attack_range</li>
    <li>Red-Baron - a set of modules and custom/third-party providers for Terraform which tries to automate creating resilient, disposable, secure and agile infrastructure for Red Teams: https://github.com/Coalfire-Research/Red-Baron</li>
    <li>HazProne - a Cloud Pentesting Framework that emulates close to Real-World Scenarios by deploying Vulnerable-By-Demand aws resources enabling you to pentest Vulnerabilities within, and hence, gain a better understanding of what could go wrong and why. The framework helps gain practical, AWS Penetration testing knowledge/skills: https://github.com/stafordtituss/HazProne</li>
+   <li>cicd-goat - deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, catch the flags: https://github.com/cider-security-research/cicd-goat</li>
     </span>
   </p3>
   </ul>
