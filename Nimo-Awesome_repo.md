@@ -34,10 +34,6 @@
   <ul ul style="list-style-type:circle">
   <li> Connect to local host with persistance : <b>docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v /path/on/host/data:/data portainer/portainer</b></li>
   </ul>
-  <li> Kali linux base + web tools installation: https://hub.docker.com/r/kalilinux/kali-linux-docker/
-  <ul style="list-style-type:circle">
-  <li>apt-get -y install kali-linux-web && apt-get purge</li>
-  </ul>
   <li>Malware sample downloader - https://hub.docker.com/r/remnux/maltrieve/ </li>
   <li> Awesome docker repo: https://github.com/veggiemonk/awesome-docker </li>
   <li> OWASP Security Knowledge Framework: https://github.com/blabla1337/skf-flask <br>
@@ -59,6 +55,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>ntopng - https://github.com/lucaderi/ntopng-docker</li>
 <li>goca - a FOCA fork written in Go: https://github.com/gocaio/goca</li>
 <li>Mondoo - docker image scanner: https://github.com/mondoolabs/mondoo</li>
+<li>fake-service - can handle both HTTP and gRPC traffic, for testing upstream service communications and testing service mesh and other scenarios: https://github.com/nicholasjackson/fake-service</li>
 </br>
 
 <p2><b>Misc Usefull Stuff</b></p2>
@@ -109,6 +106,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Vulhub - an open-source collection of pre-built vulnerable docker environments: https://github.com/vulhub/vulhub</li>
           <li>AWS CloudSaga - Simulate security events in AWS: https://github.com/awslabs/aws-cloudsaga</li>
           <li>flightsim - a lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility. The tool performs tests to simulate DNS tunneling, DGA traffic, requests to known active C2 destinations, and other suspicious traffic patterns: https://github.com/alphasoc/flightsim</li>
+          <li>Red-Teaming-Toolkit - this repository contains cutting-edge open-source security tools (OST) that will help you during adversary simulation and as information intended for threat hunter can make detection and prevention control easier.: https://github.com/infosecn1nja/Red-Teaming-Toolkit</li>
   </p3>
   </ul>
     <h3><b>Cyber Ranges / Labs</b></h3>
@@ -233,6 +231,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>dnscrypt-proxy - A flexible DNS proxy, with support for modern encrypted DNS protocols such as DNSCrypt v2, DNS-over-HTTPS, Anonymized DNSCrypt and ODoH (Oblivious DoH): https://github.com/DNSCrypt/dnscrypt-proxy</li>
           <li>GoWard - a robust and rapidly-deployable Red Team proxy with strong OPSEC considerations.: https://github.com/chdav/GoWard</li>
           <li>awesome-tunneling - The purpose of this list is to track and compare tunneling solutions. This is primarily targeted toward self-hosters and developers who want to do things like exposing a local webserver via a public domain name, with automatic HTTPS, even if behind a NAT or other restricted network: https://github.com/anderspitman/awesome-tunneling</li>
+          <li>bore - a modern, simple TCP tunnel in Rust that exposes local ports to a remote server, bypassing standard NAT connection firewalls: https://github.com/ekzhang/bore</li>
            </span>
           </p3>
        
@@ -487,6 +486,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>OAUTHScan -  is a Burp Suite Extension written in Java with the aim to provide some automatic security checks, which could be useful during penetration testing on applications implementing OAUTHv2 and OpenID standards: https://github.com/akabe1/OAUTHScan</li>
   <li>TamperThemAll - a tampered payload generator to Fuzz Web Application Firewalls for Testing and Bypassing: https://github.com/francescolacerenza/TamperThemAll</li>
   <li>API Security Empire - mindmaps, tips & tricks, resources and every thing related to API Security and API Penetration Testing: https://github.com/cyprosecurity/API-SecurityEmpire</li>
+  <li>Arjun - HTTP Parameter Discovery Suite: https://github.com/s0md3v/Arjun</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
