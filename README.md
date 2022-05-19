@@ -83,6 +83,9 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
    <li>HazProne - a Cloud Pentesting Framework that emulates close to Real-World Scenarios by deploying Vulnerable-By-Demand aws resources enabling you to pentest Vulnerabilities within, and hence, gain a better understanding of what could go wrong and why. The framework helps gain practical, AWS Penetration testing knowledge/skills: https://github.com/stafordtituss/HazProne</li>
    <li>CI/CDon't - This project will deploy intentionally vulnerable software/infrastructure to your AWS account: https://hackingthe.cloud/aws/capture_the_flag/cicdont/ </li>
    <li>Datadog Security Labs Research - this repository aims at providing proof of concept exploits and technical demos to help the community respond to threats: https://github.com/DataDog/security-labs-pocs</li>
+   <li>GitGoat - enables DevOps and Engineering teams to test security products intending to integrate with GitHub. GitGoat is a learning and training project that demonstrates common configuration errors that can potentially allow adversaries to introduce code to production: https://github.com/arnica-ext/GitGoat</li>
+   <li>cloudgoat - s Rhino Security Labs' "Vulnerable by Design" AWS deployment tool: https://github.com/RhinoSecurityLabs/cloudgoat</li>
+   <li>CyberRange - this project provides a bootstrap framework for a complete offensive, defensive, reverse engineering, & security intelligence tooling in a private research lab using the AWS Cloud: https://github.com/secdevops-cuse/CyberRange</li>
     </span>
   </p3>
   </ul>
@@ -199,6 +202,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Azure Outlook C2 - Azure Outlook Command & Control that uses Microsoft Graph API for C2 communications & data exfiltration: https://github.com/boku7/azureOutlookC2</li>
           <li>interactsh - Open-Source Solution for Out of band Data Extraction, A tool designed to detect bugs that cause external interactions, For example - Blind SQLi, Blind CMDi, SSRF, etc: https://github.com/projectdiscovery/interactsh</li>
           <li>rconn - a multiplatform program for creating reverse connections. It lets you consume services that are behind NAT and/or firewall without adding firewall rules or port-forwarding: https://github.com/jafarlihi/rconn</li>
+          <li>GoSH - Golang reverse/bind shell generator. This tool generates a Go binary that launches a shell of the desired type on the targeted host: https://github.com/redcode-labs/GoSH</li>
           </p3>
         </span>
  </ul>
@@ -277,6 +281,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>SniperPhish -  a phishing toolkit for pentester or security professionals to enhance user awareness by simulating real-world phishing attacks. SniperPhish helps to combine both phishing emails and phishing websites you created to centrally track user actions: https://github.com/GemGeorge/SniperPhish</li>
           <li>phishmonger - Phishing platform designed for pentesters. This tool allows us to craft phishing emails in Outlook, clone them quickly, automatically template them for mass distribution, test email templates, schedule phishing campaigns, and track phishing results. Phishmonger is not just GoPhish in Node! You do not have to set up a separate mail server. Phishmonger itself is a mail server: https://github.com/fkasler/phishmonger</li>
           <li>awsssome_phish - phish aws sso code with dynamic url creation with lambda function: https://github.com/sebastian-mora/awsssome_phish</li>
+          <li>O365-Doppelganger - a quick handy script to harvest credentials of a user during Red Teams: https://github.com/paranoidninja/O365-Doppelganger</li>
+          <li>BITB - Browser templates for Browser In The Browser (BITB) attack: https://github.com/mrd0x/BITB</li>
       </span>
     </p3>
     </ul><br>
@@ -432,6 +438,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>rengine - An automated reconnaissance framework for web applications with focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by database and simple yet intuitive User Interfac: https://github.com/yogeshojha/rengine</li>
   <li>graphw00f - inspired by wafw00f is the GraphQL fingerprinting tool for GQL endpoints, it sends a mix of benign and malformed queries to determine the GraphQL engine running behind the scenes. graphw00f will provide insights into what security defences each technology provides out of the box, and whether they are on or off by default: https://github.com/dolevf/graphw00f</li>
   <li>changeme - ocuses on detecting default and backdoor credentials and not necessarily common credentials. It's default mode is to scan HTTP default credentials, but has support for other credentials: https://github.com/ztgrace/changeme</li>
+  <li>dalfox - an powerful open source XSS scanning tool and parameter analyzer and utility that fast the process of detecting and verify XSS flaws: https://github.com/hahwul/dalfox</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
@@ -534,6 +541,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Petstore - a sample server Petstore server: https://petstore.swagger.io/</li>
   <li>Parabank REST API: http://parabank.parasoft.com/parabank/api-docs/index.html</li>
   <li>Use curl to interact with an API: https://www.redhat.com/sysadmin/use-curl-api</li>
+  <li>Cherrybomb - a CLI tool that helps you avoid undefined user behavior by validating your API specifications: https://www.blstsecurity.com/</li>
   </ul>
   
 </br>
@@ -567,3 +575,5 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>hurl - a command line tool that runs HTTP requests defined in a simple plain text format. It can perform requests, capture values and evaluate queries on headers and body response. Hurl is very versatile: it can be used for both fetching data and testing HTTP sessions: https://hurl.dev/</li>
 <li>PacketSender - utility to allow sending and receiving TCP, UDP, and SSL (encrypted TCP) packets: https://github.com/dannagle/PacketSender</li>
 <li>Ddosify - High-performance load testing tool: https://github.com/ddosify/ddosify</li>
+ <li>vegeta - a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate. It can be used both as a command line utility and a library: https://github.com/tsenart/vegeta</li>
+ <li>ddosify - high-performance load testing tool: https://github.com/ddosify/ddosify</li>
