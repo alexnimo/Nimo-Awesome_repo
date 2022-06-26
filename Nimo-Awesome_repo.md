@@ -456,8 +456,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>shhgit - finds secrets and sensitive files across GitHub (including Gists), GitLab and BitBucket committed in near real time: https://github.com/eth0izzle/shhgit</li>
   <li>Sken - One tool to do all scans. Sken packages and manages open source scanners across all scan types, adds a SaaS orchestration layer and automates them in CI/CD: https://www.sken.ai/ </li>
   <li>Hack-Tools - the all-in-one Red Team browser extension for Web Pentesters: https://github.com/LasCC/Hack-Tools</li>
-  <li><a target="_blank" rel="no-image" href="https://github.com/epi052/feroxbuster"><img border="0" src="https://github.com/epi052/feroxbuster/raw/master/img/logo/default-cropped.png" width="95" height="45" style="vertical-align:middle"></a> - A simple, fast, recursive content discovery tool written in Rust</li>
-  <li><a target="_blank" rel="no-image" href="https://github.com/jaeles-project/jaeles"><img border="0" src="https://github.com/jaeles-project/jaeles-plugins/raw/master/assets/jaeles.png?raw=true" width="60" height="50" style="vertical-align:middle"></a><center>Jaeles - a powerful, flexible and easily extensible framework written in Go for building your own Web Application Scanner: https://github.com/jaeles-project/jaeles</center></li>
+  <li>feroxbuster - a simple, fast, recursive content discovery tool written in Rust: https://github.com/epi052/feroxbuster</li>
+  <li>Jaeles - a powerful, flexible and easily extensible framework written in Go for building your own Web Application Scanner: https://github.com/jaeles-project/jaeles</li>
   <li>tamper.dev - an extension that allows you to edit HTTP/HTTPS requests and responses as they happen without the need of a proxy: https://tamper.dev/ </li>
   <li>proxify - Swiss Army Knife Proxy for rapid deployments. Supports multiple operations such as request/response dump, filtering and manipulation via DSL language, upstream HTTP/Socks5 proxy: https://github.com/projectdiscovery/proxify</li>
   <li>XSSTRON - Powerful Chromium Browser to find XSS Vulnerabilites automatically while browsing web: https://github.com/RenwaX23/XSSTRON</li>
@@ -487,6 +487,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>TamperThemAll - a tampered payload generator to Fuzz Web Application Firewalls for Testing and Bypassing: https://github.com/francescolacerenza/TamperThemAll</li>
   <li>API Security Empire - mindmaps, tips & tricks, resources and every thing related to API Security and API Penetration Testing: https://github.com/cyprosecurity/API-SecurityEmpire</li>
   <li>Arjun - HTTP Parameter Discovery Suite: https://github.com/s0md3v/Arjun</li>
+  <li>httploot - an automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites: https://github.com/redhuntlabs/httploot</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
