@@ -488,6 +488,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>API Security Empire - mindmaps, tips & tricks, resources and every thing related to API Security and API Penetration Testing: https://github.com/cyprosecurity/API-SecurityEmpire</li>
   <li>Arjun - HTTP Parameter Discovery Suite: https://github.com/s0md3v/Arjun</li>
   <li>httploot - an automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites: https://github.com/redhuntlabs/httploot</li>
+  <li>Request smuggler - http request smuggling vulnerability scanner: https://github.com/Sh1Yo/request_smuggler</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
@@ -597,6 +598,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Petstore - a sample server Petstore server: https://petstore.swagger.io/</li>
   <li>Parabank REST API: http://parabank.parasoft.com/parabank/api-docs/index.html</li>
   <li>Use curl to interact with an API: https://www.redhat.com/sysadmin/use-curl-api</li>
+  <li>HTTP API Development Tools: https://github.com/yosriady/api-development-tools</li>
   </ul>
   
 </br>
