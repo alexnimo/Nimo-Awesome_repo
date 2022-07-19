@@ -107,6 +107,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>AWS CloudSaga - Simulate security events in AWS: https://github.com/awslabs/aws-cloudsaga</li>
           <li>flightsim - a lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility. The tool performs tests to simulate DNS tunneling, DGA traffic, requests to known active C2 destinations, and other suspicious traffic patterns: https://github.com/alphasoc/flightsim</li>
           <li>Red-Teaming-Toolkit - this repository contains cutting-edge open-source security tools (OST) that will help you during adversary simulation and as information intended for threat hunter can make detection and prevention control easier.: https://github.com/infosecn1nja/Red-Teaming-Toolkit</li>
+          <li>SysmonSimulator - an Open source Windows event simulation utility created in C language, that can be used to simulate most of the attacks using WINAPIs: https://github.com/ScarredMonk/SysmonSimulator</li>
+          <li>goreplay - an open-source network monitoring tool which can record your live traffic and use it for shadowing, load testing, monitoring and detailed analysis: https://github.com/buger/goreplay</li>
   </p3>
   </ul>
     <h3><b>Cyber Ranges / Labs</b></h3>
