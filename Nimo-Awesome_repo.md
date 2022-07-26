@@ -293,6 +293,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>moonwalk -  a 400 KB single-binary executable that can clear your traces while penetration testing a Unix machine: https://github.com/mufeedvh/moonwalk</li>
       <li>Viper - a graphical intranet penetration tool, which modularizes and weaponizes the tactics and technologies commonly used in the process of Intranet penetration: https://github.com/FunnyWolf/Viper</li>
       <li>CandyPotato -  leverages the privilege escalation chain based on certain COM Servers, using a MiTM listener hosted on 127.0.0.1, and it works when you have SeImpersonate or SeAssignPrimaryToken privileges. By default, JuicyPotato uses the BITS service CLSID, and provides other tools (a set of PowerShell and Batch scripts), to enumerate and test other CLSIDs: https://github.com/klezVirus/CandyPotato</li>
+      <li>Diamorphine - a LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x and ARM64: https://github.com/m0nad/Diamorphine</li>
       </span> 
   </p3>
   </ul>
@@ -491,6 +492,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Arjun - HTTP Parameter Discovery Suite: https://github.com/s0md3v/Arjun</li>
   <li>httploot - an automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites: https://github.com/redhuntlabs/httploot</li>
   <li>Request smuggler - http request smuggling vulnerability scanner: https://github.com/Sh1Yo/request_smuggler</li>
+  <li>GraphCrawler - the most powerful automated testing toolkit for any GraphQL endpoint: https://github.com/gsmith257-cyber/GraphCrawler</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
