@@ -109,6 +109,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Red-Teaming-Toolkit - this repository contains cutting-edge open-source security tools (OST) that will help you during adversary simulation and as information intended for threat hunter can make detection and prevention control easier.: https://github.com/infosecn1nja/Red-Teaming-Toolkit</li>
           <li>SysmonSimulator - an Open source Windows event simulation utility created in C language, that can be used to simulate most of the attacks using WINAPIs: https://github.com/ScarredMonk/SysmonSimulator</li>
           <li>goreplay - an open-source network monitoring tool which can record your live traffic and use it for shadowing, load testing, monitoring and detailed analysis: https://github.com/buger/goreplay</li>
+          <li>Top 10 Awesome Open-Source Adversary Simulation Tools: https://fourcore.io/blogs/top-10-open-source-adversary-emulation-tools</li>
   </p3>
   </ul>
     <h3><b>Cyber Ranges / Labs</b></h3>
@@ -135,6 +136,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
    <li>HazProne - a Cloud Pentesting Framework that emulates close to Real-World Scenarios by deploying Vulnerable-By-Demand aws resources enabling you to pentest Vulnerabilities within, and hence, gain a better understanding of what could go wrong and why. The framework helps gain practical, AWS Penetration testing knowledge/skills: https://github.com/stafordtituss/HazProne</li>
    <li>cicd-goat - deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, catch the flags: https://github.com/cider-security-research/cicd-goat</li>
    <li>CI/CDon't - This project will deploy intentionally vulnerable software/infrastructure to your AWS account: https://hackingthe.cloud/aws/capture_the_flag/cicdont/</li>
+   <li>Azure Red Team Attack and Detect Workshop - a vulnerable-by-design Azure lab, containing 2 x attack paths with common misconfigurations: https://github.com/mandiant/Azure_Workshop</li>
     </span>
   </p3>
   </ul>
@@ -294,6 +296,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>Viper - a graphical intranet penetration tool, which modularizes and weaponizes the tactics and technologies commonly used in the process of Intranet penetration: https://github.com/FunnyWolf/Viper</li>
       <li>CandyPotato -  leverages the privilege escalation chain based on certain COM Servers, using a MiTM listener hosted on 127.0.0.1, and it works when you have SeImpersonate or SeAssignPrimaryToken privileges. By default, JuicyPotato uses the BITS service CLSID, and provides other tools (a set of PowerShell and Batch scripts), to enumerate and test other CLSIDs: https://github.com/klezVirus/CandyPotato</li>
       <li>Diamorphine - a LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x and ARM64: https://github.com/m0nad/Diamorphine</li>
+      <li>TripleCross - a Linux eBPF rootkit that demonstrates the offensive capabilities of the eBPF technology: https://github.com/h3xduck/TripleCross</li>
       </span> 
   </p3>
   </ul>
