@@ -86,6 +86,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
    <li>GitGoat - enables DevOps and Engineering teams to test security products intending to integrate with GitHub. GitGoat is a learning and training project that demonstrates common configuration errors that can potentially allow adversaries to introduce code to production: https://github.com/arnica-ext/GitGoat</li>
    <li>cloudgoat - s Rhino Security Labs' "Vulnerable by Design" AWS deployment tool: https://github.com/RhinoSecurityLabs/cloudgoat</li>
    <li>CyberRange - this project provides a bootstrap framework for a complete offensive, defensive, reverse engineering, & security intelligence tooling in a private research lab using the AWS Cloud: https://github.com/secdevops-cuse/CyberRange</li>
+   <li>AWSGoat - A Damn Vulnerable AWS Infrastructure. AWSGoat is a vulnerable by design infrastructure on AWS featuring the latest released OWASP Top 10 web application security risks (2021) and other misconfiguration: https://github.com/ine-labs/AWSGoat</li>
+   <li>AzureGoat - a vulnerable by design infrastructure on Azure featuring the latest released OWASP Top 10 web application security risks (2021) and other misconfiguration: https://github.com/ine-labs/AzureGoat</li>
     </span>
   </p3>
   </ul>
@@ -254,6 +256,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       PowerShdll can be run with: rundll32.exe, installutil.exe, regsvcs.exe, regasm.exe and regsvr32.exe: https://github.com/p3nt4/PowerShdll/tree/master/dll</li>
       <li>PSAmsi - a tool for auditing and defeating AMSI signatures: https://github.com/cobbr/PSAmsi</li>
       <li>OffensivePipeline -  allows to download, compile (without Visual Studio) and obfuscate C# tools for Red Team exercises: https://github.com/Aetsu/OffensivePipeline</li>
+      <li>MrKaplan - a tool aimed to help red teamers to stay hidden by clearing evidence of execution. It works by saving information such as the time it ran, snapshot of files and associate each evidence to the related user: https://github.com/Idov31/MrKaplan</li>
       </span> 
       </span>
   </p3>
@@ -442,6 +445,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>changeme - ocuses on detecting default and backdoor credentials and not necessarily common credentials. It's default mode is to scan HTTP default credentials, but has support for other credentials: https://github.com/ztgrace/changeme</li>
   <li>dalfox - an powerful open source XSS scanning tool and parameter analyzer and utility that fast the process of detecting and verify XSS flaws: https://github.com/hahwul/dalfox</li>
   <li>hakoriginfinder - Tool for discovering the origin host behind a reverse proxy. Useful for bypassing WAFs and other reverse proxies: https://github.com/hakluke/hakoriginfinder</li>
+  <li>JavaScript obfuscator - a powerful free obfuscator for JavaScript, containing a variety of features which provide protection for your source code: https://github.com/javascript-obfuscator/javascript-obfuscator</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
@@ -498,6 +502,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>AzureAD_Autologon_Brute - Brute force attack tool for Azure AD Autologon: https://github.com/nyxgeek/AzureAD_Autologon_Brute</li>
 <li>MicroBurst -  includes functions and scripts that support Azure Services discovery, weak configuration auditing, and post exploitation actions such as credential dumping: https://github.com/NetSPI/MicroBurst</li>
 <li>Go365 - a tool designed to perform user enumeration* and password guessing attacks on organizations that use Office365 (now/soon Microsoft365). Go365 uses a unique SOAP API endpoint on login.microsoftonline.com that most other tools do not use: https://github.com/optiv/Go365</li>
+<li>BlueHound - a tool that helps blue teams pinpoint the security issues that actually matter. By combining information about user permissions, network access and unpatched vulnerabilities, BlueHound reveals the paths attackers would take if they were inside your networkhttps://github.com/zeronetworks/BlueHound | https://zeronetworks.com/blog/bluehound-community-driven-resilience/</li>
 </ul>
 </br>
 
