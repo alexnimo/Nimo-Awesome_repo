@@ -114,7 +114,6 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>SysmonSimulator - an Open source Windows event simulation utility created in C language, that can be used to simulate most of the attacks using WINAPIs: https://github.com/ScarredMonk/SysmonSimulator</li>
           <li>goreplay - an open-source network monitoring tool which can record your live traffic and use it for shadowing, load testing, monitoring and detailed analysis: https://github.com/buger/goreplay</li>
           <li>Top 10 Awesome Open-Source Adversary Simulation Tools: https://fourcore.io/blogs/top-10-open-source-adversary-emulation-tools</li>
-          <li>Demo using Tracee and Postee:: - https://github.com/krol3/demo-fileless</li>
 
   </p3>
   </ul>
