@@ -34,10 +34,14 @@
   <ul ul style="list-style-type:circle">
   <li> Connect to local host with persistance : <b>docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v /path/on/host/data:/data portainer/portainer</b></li>
   </ul>
+    <li> Kali linux base + web tools installation: https://hub.docker.com/r/kalilinux/kali-linux-docker/
+  <ul style="list-style-type:circle">
+  <li>apt-get -y install kali-linux-web && apt-get purge</li>
+  </ul>
   <li>Malware sample downloader - https://hub.docker.com/r/remnux/maltrieve/ </li>
   <li> Awesome docker repo: https://github.com/veggiemonk/awesome-docker </li>
   <li> OWASP Security Knowledge Framework: https://github.com/blabla1337/skf-flask <br>
-  <li><center> <a target="_blank" rel="no-image" href="https://camo.githubusercontent.com/ed1547b1b7f6060ad464d180a0c28975ba876830/68747470733a2f2f6861646f6c696e742e6769746875622e696f2f6861646f6c696e742f696d672f6361745f636f6e7461696e65722e706e67"><img border="0" src="https://bit.ly/2ODiXs5" width="50" height="50" style="vertical-align:middle" class="CircleBadge CircleBadge--small float-left mr-2"></a>Haskell Dockerfile Linter - A smarter Dockerfile linter that helps you build best practice Docker images: https://github.com/hadolint/hadolint</center> </li>
+  <li>Haskell Dockerfile Linter - A smarter Dockerfile linter that helps you build best practice Docker images: https://github.com/hadolint/hadolint</li>
   <b>docker run -ti -p 127.0.0.1:443:5443 blabla1337/skf-flask</b></li>
   <li>OWASP security Shepard: https://hub.docker.com/r/ismisepaul/securityshepherd/<br>
   <b>docker run -i -p 80:80 -p 443:443 -t ismisepaul/securityshepherd /bin/bash /usr/bin/mysqld_safe & service tomcat7 start </b><br>
@@ -137,7 +141,13 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
    <li>cicd-goat - deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, catch the flags: https://github.com/cider-security-research/cicd-goat</li>
    <li>CI/CDon't - This project will deploy intentionally vulnerable software/infrastructure to your AWS account: https://hackingthe.cloud/aws/capture_the_flag/cicdont/</li>
    <li>Azure Red Team Attack and Detect Workshop - a vulnerable-by-design Azure lab, containing 2 x attack paths with common misconfigurations: https://github.com/mandiant/Azure_Workshop</li>
-    </span>
+      <li>AWSGoat - A Damn Vulnerable AWS Infrastructure. AWSGoat is a vulnerable by design infrastructure on AWS featuring the latest released OWASP Top 10 web application security risks (2021) and other misconfiguration: https://github.com/ine-labs/AWSGoat</li>
+   <li>AzureGoat - a vulnerable by design infrastructure on Azure featuring the latest released OWASP Top 10 web application security risks (2021) and other misconfiguration: https://github.com/ine-labs/AzureGoat</li>
+    <li>Datadog Security Labs Research - this repository aims at providing proof of concept exploits and technical demos to help the community respond to threats: https://github.com/DataDog/security-labs-pocs</li>
+   <li>GitGoat - enables DevOps and Engineering teams to test security products intending to integrate with GitHub. GitGoat is a learning and training project that demonstrates common configuration errors that can potentially allow adversaries to introduce code to production: https://github.com/arnica-ext/GitGoat</li>
+   <li>cloudgoat - s Rhino Security Labs' "Vulnerable by Design" AWS deployment tool: https://github.com/RhinoSecurityLabs/cloudgoat</li>
+   <li>CyberRange - this project provides a bootstrap framework for a complete offensive, defensive, reverse engineering, & security intelligence tooling in a private research lab using the AWS Cloud: https://github.com/secdevops-cuse/CyberRange</li>
+  <li>Red-Baron - a set of modules and custom/third-party providers for Terraform which tries to automate creating resilient, disposable, secure and agile infrastructure for Red Teams: https://github.com/Coalfire-Research/Red-Baron</li>
   </p3>
   </ul>
 
@@ -236,6 +246,9 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>GoWard - a robust and rapidly-deployable Red Team proxy with strong OPSEC considerations.: https://github.com/chdav/GoWard</li>
           <li>awesome-tunneling - The purpose of this list is to track and compare tunneling solutions. This is primarily targeted toward self-hosters and developers who want to do things like exposing a local webserver via a public domain name, with automatic HTTPS, even if behind a NAT or other restricted network: https://github.com/anderspitman/awesome-tunneling</li>
           <li>bore - a modern, simple TCP tunnel in Rust that exposes local ports to a remote server, bypassing standard NAT connection firewalls: https://github.com/ekzhang/bore</li>
+                    <li>rconn - a multiplatform program for creating reverse connections. It lets you consume services that are behind NAT and/or firewall without adding firewall rules or port-forwarding: https://github.com/jafarlihi/rconn</li>
+          <li>GoSH - Golang reverse/bind shell generator. This tool generates a Go binary that launches a shell of the desired type on the targeted host: https://github.com/redcode-labs/GoSH</li>
+          <li>tornado - anonymously reverse shell over onion network using hidden services without portfortwarding: https://github.com/samet-g/tornado</li>
            </span>
           </p3>
        
@@ -297,6 +310,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>CandyPotato -  leverages the privilege escalation chain based on certain COM Servers, using a MiTM listener hosted on 127.0.0.1, and it works when you have SeImpersonate or SeAssignPrimaryToken privileges. By default, JuicyPotato uses the BITS service CLSID, and provides other tools (a set of PowerShell and Batch scripts), to enumerate and test other CLSIDs: https://github.com/klezVirus/CandyPotato</li>
       <li>Diamorphine - a LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x and ARM64: https://github.com/m0nad/Diamorphine</li>
       <li>TripleCross - a Linux eBPF rootkit that demonstrates the offensive capabilities of the eBPF technology: https://github.com/h3xduck/TripleCross</li>
+            <li>MrKaplan - a tool aimed to help red teamers to stay hidden by clearing evidence of execution. It works by saving information such as the time it ran, snapshot of files and associate each evidence to the related user: https://github.com/Idov31/MrKaplan</li>
       </span> 
   </p3>
   </ul>
@@ -326,6 +340,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>muraena -  an almost-transparent reverse proxy aimed at automating phishing and post-phishing activities: https://github.com/muraenateam/muraena</li>
           <li>AdvPhishing - phishing with otp bypass techinques: https://github.com/Ignitetch/AdvPhishing</li>
           <li>espoofer - testing tool to bypass SPF, DKIM, and DMARC authentication in email systems: https://github.com/chenjj/espoofer</li>
+                    <li>O365-Doppelganger - a quick handy script to harvest credentials of a user during Red Teams: https://github.com/paranoidninja/O365-Doppelganger</li>
+          <li>BITB - Browser templates for Browser In The Browser (BITB) attack: https://github.com/mrd0x/BITB</li>
       </span>
     </p3>
     </ul><br>
@@ -496,6 +512,9 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>httploot - an automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites: https://github.com/redhuntlabs/httploot</li>
   <li>Request smuggler - http request smuggling vulnerability scanner: https://github.com/Sh1Yo/request_smuggler</li>
   <li>GraphCrawler - the most powerful automated testing toolkit for any GraphQL endpoint: https://github.com/gsmith257-cyber/GraphCrawler</li>
+    <li>dalfox - an powerful open source XSS scanning tool and parameter analyzer and utility that fast the process of detecting and verify XSS flaws: https://github.com/hahwul/dalfox</li>
+  <li>hakoriginfinder - Tool for discovering the origin host behind a reverse proxy. Useful for bypassing WAFs and other reverse proxies: https://github.com/hakluke/hakoriginfinder</li>
+  <li>JavaScript obfuscator - a powerful free obfuscator for JavaScript, containing a variety of features which provide protection for your source code: https://github.com/javascript-obfuscator/javascript-obfuscator</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
@@ -515,7 +534,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>serverless-prey - a collection of serverless functions (FaaS), that, once launched to a cloud environment and invoked, establish a TCP reverse shell, enabling the user to introspect the underlying container: https://github.com/pumasecurity/serverless-prey </li>
 <li>Deepfence Runtime Threat Mapper - is a subset of the Deepfence cloud native workload protection platform, released as a community edition: https://github.com/deepfence/ThreatMapper/blob/master/README.md</li>
 <li>Dow Jones Hammer - a multi-account cloud security tool for AWS. It identifies misconfigurations and insecure data exposures within most popular AWS resources, across all regions and accounts: https://github.com/dowjones/hammer/blob/master/README.md</li>
-<li><a target="_blank" rel="no-image" href="https://github.com/cyberark/SkyArk"><img border="0" src="https://github.com/Hechtov/Photos/raw/master/SkyArk/SkyArkLogo2.png" width="120" height="50" style="vertical-align:middle"></a> -  a cloud security project with two main scanning modules- AzureStealth | AWStealth: https://github.com/cyberark/SkyArk </li>
+<li>SkyArk -  a cloud security project with two main scanning modules- AzureStealth | AWStealth: https://github.com/cyberark/SkyArk </li>
 <li>serverless-prey - a collection of serverless functions (FaaS), that, once launched to a cloud environment and invoked, establish a TCP reverse shell, enabling the user to introspect the underlying container: https://github.com/pumasecurity/serverless-prey</li>
 <li>Prowler - AWS Security Toola command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool: https://github.com/toniblyx/prowler</li>
 <li>cloudsploit (Aqua) - an open-source project designed to allow detection of security risks in cloud infrastructure accounts: https://github.com/aquasecurity/cloudsploit </li>
@@ -534,7 +553,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 
 <h3><b>office365 / AAD Security</h3></b>
 <ul>
-<li><a target="_blank" rel="no-image" href="https://github.com/dirkjanm/ROADtools"><img border="0" src="https://github.com/dirkjanm/ROADtools/raw/master/roadrecon/frontend/src/assets/rt_transparent.svg" width="120" height="50" style="vertical-align:middle"></a> -  a framework to interact with Azure AD. It currently consists of a library (roadlib) and the ROADrecon Azure AD exploration tool: https://github.com/dirkjanm/ROADtools </li>
+<li>Roadtools -  a framework to interact with Azure AD. It currently consists of a library (roadlib) and the ROADrecon Azure AD exploration tool: https://github.com/dirkjanm/ROADtools </li>
 <li>o365recon - script to retrieve information via O365 with a valid cred: https://github.com/nyxgeek/o365recon</li>
 <li>MailSniper -  a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.). It can be used as a non-administrative user to search their own email, or by an Exchange administrator to search the mailboxes of every user in a domain: https://github.com/dafthack/MailSniper</li>
 <li>o365creeper - is a simple Python script used to validate email accounts that belong to Office 365 tenants: https://github.com/LMGsec/o365creeper</li>
@@ -559,6 +578,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>TREVORspray - a modular password sprayer with threading, SSH proxying, loot modules, and more: https://github.com/blacklanternsecurity/TREVORspray</li>
 <li>aadcookiespoof - cookie replay client for testing Azure AD Identity Protection: https://github.com/jsa2/aadcookiespoof</li>
 <li>SSOh-No - this tool is designed to enumerate users, password spray and perform brute force attacks against any organisation that utilises Azure AD or O365: https://github.com/optionalCTF/SSOh-No</li>
+<li>Go365 - a tool designed to perform user enumeration* and password guessing attacks on organizations that use Office365 (now/soon Microsoft365). Go365 uses a unique SOAP API endpoint on login.microsoftonline.com that most other tools do not use: https://github.com/optiv/Go365</li>
+<li>BlueHound - a tool that helps blue teams pinpoint the security issues that actually matter. By combining information about user permissions, network access and unpatched vulnerabilities, BlueHound reveals the paths attackers would take if they were inside your networkhttps://github.com/zeronetworks/BlueHound | https://zeronetworks.com/blog/bluehound-community-driven-resilience/</li>
 </ul>
 </br>
 
@@ -606,6 +627,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Parabank REST API: http://parabank.parasoft.com/parabank/api-docs/index.html</li>
   <li>Use curl to interact with an API: https://www.redhat.com/sysadmin/use-curl-api</li>
   <li>HTTP API Development Tools: https://github.com/yosriady/api-development-tools</li>
+    <li>Cherrybomb - a CLI tool that helps you avoid undefined user behavior by validating your API specifications: https://www.blstsecurity.com/</li>
   </ul>
   
 </br>
@@ -642,3 +664,5 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>PacketSender - utility to allow sending and receiving TCP, UDP, and SSL (encrypted TCP) packets: https://github.com/dannagle/PacketSender</li>
 <li>Ddosify - High-performance load testing tool: https://github.com/ddosify/ddosify</li>
 <li>hey - a tiny program that sends some load to a web application: https://github.com/rakyll/hey</li>
+ <li>vegeta - a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate. It can be used both as a command line utility and a library: https://github.com/tsenart/vegeta</li>
+ <li>ddosify - high-performance load testing tool: https://github.com/ddosify/ddosify</li>
