@@ -516,6 +516,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     <li>dalfox - an powerful open source XSS scanning tool and parameter analyzer and utility that fast the process of detecting and verify XSS flaws: https://github.com/hahwul/dalfox</li>
   <li>hakoriginfinder - Tool for discovering the origin host behind a reverse proxy. Useful for bypassing WAFs and other reverse proxies: https://github.com/hakluke/hakoriginfinder</li>
   <li>JavaScript obfuscator - a powerful free obfuscator for JavaScript, containing a variety of features which provide protection for your source code: https://github.com/javascript-obfuscator/javascript-obfuscator</li>
+  <li>WebHackersWeapons - a collection of awesome tools used by Web hackers: https://github.com/hahwul/WebHackersWeapons</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
