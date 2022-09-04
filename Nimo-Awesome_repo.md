@@ -250,6 +250,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
                     <li>rconn - a multiplatform program for creating reverse connections. It lets you consume services that are behind NAT and/or firewall without adding firewall rules or port-forwarding: https://github.com/jafarlihi/rconn</li>
           <li>GoSH - Golang reverse/bind shell generator. This tool generates a Go binary that launches a shell of the desired type on the targeted host: https://github.com/redcode-labs/GoSH</li>
           <li>tornado - anonymously reverse shell over onion network using hidden services without portfortwarding: https://github.com/samet-g/tornado</li>
+          <li>Pitraix - modern Cross-Platform HTTP-Based P2P Botnet over TOR that cannot be traced: https://github.com/ThrillQuks/Pitraix</li>
            </span>
           </p3>
        
@@ -517,6 +518,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>hakoriginfinder - Tool for discovering the origin host behind a reverse proxy. Useful for bypassing WAFs and other reverse proxies: https://github.com/hakluke/hakoriginfinder</li>
   <li>JavaScript obfuscator - a powerful free obfuscator for JavaScript, containing a variety of features which provide protection for your source code: https://github.com/javascript-obfuscator/javascript-obfuscator</li>
   <li>WebHackersWeapons - a collection of awesome tools used by Web hackers: https://github.com/hahwul/WebHackersWeapons</li>
+  <li>awesome-api-security - a collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community: https://github.com/arainho/awesome-api-security</li>
+  <li>jwt-reauth - Burp plugin to cache authentication tokens from an "auth" URL, and then add them as headers on all requests going to a certain scope: https://github.com/nccgroup/jwt-reauth</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
@@ -603,6 +606,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>social IDE: https://codepen.io/</li>
 <li>json path finder: https://jsonpath.com/ </li>
 <li>json query language: https://jmespath.org/ </li>
+<li>A tool that generates graph diagrams from JSON objects: https://jsoncrack.com/editor | https://github.com/AykutSarac/jsoncrack.com</li>
 <li>repl.it - online Python compiler: https://repl.it/languages/Python%3F__s=ws9cqndijs3fipi6sacu</li>
 <li>dillinger - live markdown editor https://dillinger.io/ </li>
 <li>glitch -  the friendly community where everyone codes together: https://glitch.com/</li>
