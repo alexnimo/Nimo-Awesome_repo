@@ -257,6 +257,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>PSAmsi - a tool for auditing and defeating AMSI signatures: https://github.com/cobbr/PSAmsi</li>
       <li>OffensivePipeline -  allows to download, compile (without Visual Studio) and obfuscate C# tools for Red Team exercises: https://github.com/Aetsu/OffensivePipeline</li>
       <li>MrKaplan - a tool aimed to help red teamers to stay hidden by clearing evidence of execution. It works by saving information such as the time it ran, snapshot of files and associate each evidence to the related user: https://github.com/Idov31/MrKaplan</li>
+      <li>Freeze -  a payload creation tool used for circumventing EDR security controls to execute shellcode in a stealthy manner. Freeze utilizes multiple techniques to not only remove Userland EDR hooks, but to also execute shellcode in such a way that it circumvents other endpoint monitoring controls: https://github.com/optiv/Freeze</li>
       </span> 
       </span>
   </p3>
