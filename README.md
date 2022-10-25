@@ -88,6 +88,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
    <li>CyberRange - this project provides a bootstrap framework for a complete offensive, defensive, reverse engineering, & security intelligence tooling in a private research lab using the AWS Cloud: https://github.com/secdevops-cuse/CyberRange</li>
    <li>AWSGoat - A Damn Vulnerable AWS Infrastructure. AWSGoat is a vulnerable by design infrastructure on AWS featuring the latest released OWASP Top 10 web application security risks (2021) and other misconfiguration: https://github.com/ine-labs/AWSGoat</li>
    <li>AzureGoat - a vulnerable by design infrastructure on Azure featuring the latest released OWASP Top 10 web application security risks (2021) and other misconfiguration: https://github.com/ine-labs/AzureGoat</li>
+   <li>Supply Chain Goat - provides a training ground to practice implementing countermeasures specific to the software supply chain: https://github.com/step-security/supply-chain-goat</li>
+   <li>oidc-ssrf - evil OIDC server: the OpenID Configuration URL returns a 307 to cause SSRF: https://github.com/doyensec/oidc-ssrf</li>
     </span>
   </p3>
   </ul>
@@ -207,6 +209,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>GoSH - Golang reverse/bind shell generator. This tool generates a Go binary that launches a shell of the desired type on the targeted host: https://github.com/redcode-labs/GoSH</li>
           <li>tornado - anonymously reverse shell over onion network using hidden services without portfortwarding: https://github.com/samet-g/tornado</li>
           <li>bore - a modern, simple TCP tunnel in Rust that exposes local ports to a remote server, bypassing standard NAT connection firewalls: https://github.com/ekzhang/bore</li>
+          <li>Outline - lets anyone create, run, and share access to their own VPN. Outline is designed to be resistant to blocking.: https://getoutline.org/</li>
           </p3>
         </span>
  </ul>
@@ -289,6 +292,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>awsssome_phish - phish aws sso code with dynamic url creation with lambda function: https://github.com/sebastian-mora/awsssome_phish</li>
           <li>O365-Doppelganger - a quick handy script to harvest credentials of a user during Red Teams: https://github.com/paranoidninja/O365-Doppelganger</li>
           <li>BITB - Browser templates for Browser In The Browser (BITB) attack: https://github.com/mrd0x/BITB</li>
+          <li>phishsticks - a phishing framework for OAuth 2.0 device code authentication grant flow: https://github.com/dunderhay/phishsticks</li>
       </span>
     </p3>
     </ul><br>
@@ -351,6 +355,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     <li>nzyme - a free and open WiFi defense system that detects and physically locates threats using an easy to build and deploy sensor system: https://www.nzyme.org/</li>
     <li>Certified Pre-Owned - Abusing Active Directory Certificate Services: https://posts.specterops.io/certified-pre-owned-d95910965cd2</li>
     <li>pimpmykali - a shell script that fixes bunch a bugs on a Kali Linux virtual machines https://github.com/Dewalt-arch/pimpmykali</li>
+    <li>RedEye - n open-source analytic tool developed by CISA and DOE’s Pacific Northwest National Laboratory to assist Red Teams with visualizing and reporting command and control activities: https://github.com/cisagov/RedEye/</li>
 
     </span>
   </p3>
@@ -407,6 +412,10 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Awesome CobaltStrike Defence: https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence </li>
           <li>Crossfeed - a tool that continuously enumerates and monitors an organization's public-facing attack surface in order to discover assets and flag potential security flaws: https://github.com/cisagov/crossfeed</li>
           <li>Awesome Incident Response - https://github.com/meirwah/awesome-incident-response</li>
+          <li>dradis-ce - an open-source collaboration framework, tailored to InfoSec teams: https://github.com/dradis/dradis-ce</li>
+          <li>osquery-defense-kit- production-ready detection & response queries for osquery: https://github.com/chainguard-dev/osquery-defense-kit</li>
+          <li>sandboxprofiler - collect information of internet-connected sandboxes, no backend needed.
+This is achieved using telegram and interact.sh to collect data, however custom listeners are also supported: https://gitlab.com/brn1337/sandboxprofiler</li>
 
             </span>
             </p3>
@@ -447,6 +456,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>dalfox - an powerful open source XSS scanning tool and parameter analyzer and utility that fast the process of detecting and verify XSS flaws: https://github.com/hahwul/dalfox</li>
   <li>hakoriginfinder - Tool for discovering the origin host behind a reverse proxy. Useful for bypassing WAFs and other reverse proxies: https://github.com/hakluke/hakoriginfinder</li>
   <li>JavaScript obfuscator - a powerful free obfuscator for JavaScript, containing a variety of features which provide protection for your source code: https://github.com/javascript-obfuscator/javascript-obfuscator</li>
+  <li>caido - a lightweight web security auditing toolkit. Built from the ground up in Rust, Caido aims to help security professionals and enthusiasts audit web applications with efficiency and ease: https://caido.io/</li>
+  <li>metlo - Create an Inventory of all your API Endpoints. Proactively test your APIs before they go into production. Detect API attacks in real time: https://github.com/metlo-labs/metlo</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
@@ -525,7 +536,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>social IDE: https://codepen.io/</li>
 <li>json path finder: https://jsonpath.com/ </li>
 <li>json query language: https://jmespath.org/ </li>
-<li>repl.it - online Python compiler: https://repl.it/languages/Python%3F__s=ws9cqndijs3fipi6sacu</li>
+<li>repl.it - online Python compiler: https://repl.it/</li>
+<li>codepen - a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration: https://codepen.io/</li>
 <li>dillinger - live markdown editor https://dillinger.io/ </li>
 <li>glitch -  the friendly community where everyone codes together: https://glitch.com/</li>
 <li>JS lint: https://jshint.com/</li>
@@ -534,6 +546,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Python Regex tester: https://pythex.org/ </li>
   <li>dnstwister - domain name permutation engine: https://dnstwister.report/ </li>
   <li>mozilla SSL Configuration Generator: https://ssl-config.mozilla.org/ </li>
+  <li>graphql-playground: https://github.com/graphql/graphql-playground</li>
   </ul>
 </br>
   <p2><b><u>API Stuff</u></b><p2>
