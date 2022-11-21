@@ -98,6 +98,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Azure purple team lab by BLackHills InfoSec:  https://www.blackhillsinfosec.com/how-to-applied-purple-teaming-lab-build-on-azure-with-terraform/ | https://github.com/DefensiveOrigins/APT-Lab-Terraform </li>
   <li>Redcloud -  a powerful and user-friendly toolbox for deploying a fully featured Red Team Infrastructure using Docker: https://github.com/khast3x/Redcloud </li>
   <li>BlueCloud - Cyber Range deployment of HELK and Velociraptor! Automated terraform deployment of one system running HELK + Velociraptor server with one registered Windows endpoint in Azure or AWS: https://github.com/iknowjason/BlueCloud</li>
+  <li>Damn Vulnerable Functions as a Service: https://github.com/we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service</li>
 </span>
   </p3>
   </ul>
@@ -220,6 +221,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>tornado - anonymously reverse shell over onion network using hidden services without portfortwarding: https://github.com/samet-g/tornado</li>
           <li>bore - a modern, simple TCP tunnel in Rust that exposes local ports to a remote server, bypassing standard NAT connection firewalls: https://github.com/ekzhang/bore</li>
           <li>Outline - lets anyone create, run, and share access to their own VPN. Outline is designed to be resistant to blocking.: https://getoutline.org/</li>
+          <li>RedGuard - provide a better C2 channel hiding solution for the red team, that provides the flow control for the C2 channel, blocks the "malicious" analysis traffic, and better completes the entire attack task: https://github.com/wikiZ/RedGuard</li>
+          <li>RedWarden - was created to solve the problem of IR/AV/EDRs/Sandboxes evasion on the C2 redirector layer. It's intended to supersede classical Apache2 + mod_rewrite setups used for that purpose: https://github.com/mgeeky/RedWarden</li>
           </p3>
         </span>
  </ul>
@@ -272,6 +275,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>MrKaplan - a tool aimed to help red teamers to stay hidden by clearing evidence of execution. It works by saving information such as the time it ran, snapshot of files and associate each evidence to the related user: https://github.com/Idov31/MrKaplan</li>
       <li>Freeze -  a payload creation tool used for circumventing EDR security controls to execute shellcode in a stealthy manner. Freeze utilizes multiple techniques to not only remove Userland EDR hooks, but to also execute shellcode in such a way that it circumvents other endpoint monitoring controls: https://github.com/optiv/Freeze</li>
       <li>garble - produce a binary that works as well as a regular build, but that has as little information about the original source code as possible: https://github.com/burrowers/garble</li>
+      <li>shennina - an automated host exploitation framework. The mission of the project is to fully automate the scanning, vulnerability scanning/analysis, and exploitation using Artificial Intelligence: https://github.com/mazen160/shennina</li>
       </span> 
       </span>
   </p3>
@@ -462,6 +466,7 @@ This is achieved using telegram and interact.sh to collect data, however custom 
   <li>caido - a lightweight web security auditing toolkit. Built from the ground up in Rust, Caido aims to help security professionals and enthusiasts audit web applications with efficiency and ease: https://caido.io/</li>
   <li>metlo - Create an Inventory of all your API Endpoints. Proactively test your APIs before they go into production. Detect API attacks in real time: https://github.com/metlo-labs/metlo</li>
   <li>dastardly - a lightweight web application security scanner for your CI/CD pipeline: https://portswigger.net/burp/dastardly</li>
+  <li>burp-awesome-tls - this extension hijacks Burp's HTTP/TLS stack and allows you to spoof any browser fingerprint in order to make it more powerful and less prone to fingerprinting by all kinds of WAFs: https://github.com/sleeyax/burp-awesome-tls</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
