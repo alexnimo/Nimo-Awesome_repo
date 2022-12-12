@@ -223,6 +223,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Outline - lets anyone create, run, and share access to their own VPN. Outline is designed to be resistant to blocking.: https://getoutline.org/</li>
           <li>RedGuard - provide a better C2 channel hiding solution for the red team, that provides the flow control for the C2 channel, blocks the "malicious" analysis traffic, and better completes the entire attack task: https://github.com/wikiZ/RedGuard</li>
           <li>RedWarden - was created to solve the problem of IR/AV/EDRs/Sandboxes evasion on the C2 redirector layer. It's intended to supersede classical Apache2 + mod_rewrite setups used for that purpose: https://github.com/mgeeky/RedWarden</li>
+          <li>RedditC2 - Abusing Reddit API to host the C2 traffic: https://github.com/kleiton0x00/RedditC2</li>
           </p3>
         </span>
  </ul>
@@ -467,6 +468,7 @@ This is achieved using telegram and interact.sh to collect data, however custom 
   <li>metlo - Create an Inventory of all your API Endpoints. Proactively test your APIs before they go into production. Detect API attacks in real time: https://github.com/metlo-labs/metlo</li>
   <li>dastardly - a lightweight web application security scanner for your CI/CD pipeline: https://portswigger.net/burp/dastardly</li>
   <li>burp-awesome-tls - this extension hijacks Burp's HTTP/TLS stack and allows you to spoof any browser fingerprint in order to make it more powerful and less prone to fingerprinting by all kinds of WAFs: https://github.com/sleeyax/burp-awesome-tls</li>
+  <li>IPRotate_Burp_Extension - extension for Burp Suite which uses AWS API Gateway to change your IP on every request: https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
@@ -573,6 +575,7 @@ This is achieved using telegram and interact.sh to collect data, however custom 
   <li>Parabank REST API: http://parabank.parasoft.com/parabank/api-docs/index.html</li>
   <li>Use curl to interact with an API: https://www.redhat.com/sysadmin/use-curl-api</li>
   <li>Cherrybomb - a CLI tool that helps you avoid undefined user behavior by validating your API specifications: https://www.blstsecurity.com/</li>
+  <li>hurl - a command line tool that runs HTTP requests defined in a simple plain text format: https://github.com/Orange-OpenSource/hurl</li>
   </ul>
   
 </br>
