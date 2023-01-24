@@ -88,6 +88,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
    <li>CyberRange - this project provides a bootstrap framework for a complete offensive, defensive, reverse engineering, & security intelligence tooling in a private research lab using the AWS Cloud: https://github.com/secdevops-cuse/CyberRange</li>
    <li>AWSGoat - A Damn Vulnerable AWS Infrastructure. AWSGoat is a vulnerable by design infrastructure on AWS featuring the latest released OWASP Top 10 web application security risks (2021) and other misconfiguration: https://github.com/ine-labs/AWSGoat</li>
    <li>AzureGoat - a vulnerable by design infrastructure on Azure featuring the latest released OWASP Top 10 web application security risks (2021) and other misconfiguration: https://github.com/ine-labs/AzureGoat</li>
+   <li>GCPGoat - A Damn Vulnerable GCP Infrastructure: https://github.com/ine-labs/GCPGoat</li>
    <li>Supply Chain Goat - provides a training ground to practice implementing countermeasures specific to the software supply chain: https://github.com/step-security/supply-chain-goat</li>
    <li>oidc-ssrf - evil OIDC server: the OpenID Configuration URL returns a 307 to cause SSRF: https://github.com/doyensec/oidc-ssrf</li>
   <li>PurpleCloud - Pentest Cyber Range for a small Active Directory Domain. Automated templates for building your own Pentest/Red Team/Cyber Range in the Azure cloud: https://github.com/iknowjason/PurpleCloud </li>

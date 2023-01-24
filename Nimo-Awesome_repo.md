@@ -520,6 +520,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>WebHackersWeapons - a collection of awesome tools used by Web hackers: https://github.com/hahwul/WebHackersWeapons</li>
   <li>awesome-api-security - a collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community: https://github.com/arainho/awesome-api-security</li>
   <li>jwt-reauth - Burp plugin to cache authentication tokens from an "auth" URL, and then add them as headers on all requests going to a certain scope: https://github.com/nccgroup/jwt-reauth</li>
+  <li>guardara - a comprehensive dynamic testing tool to find bugs and zero-day vulnerabilities in custom/proprietary products, protocols, web services and applications, and complex environments: https://guardara-community.gitlab.io/documentation/docs/intro</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
@@ -671,4 +672,4 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>Ddosify - High-performance load testing tool: https://github.com/ddosify/ddosify</li>
 <li>hey - a tiny program that sends some load to a web application: https://github.com/rakyll/hey</li>
  <li>vegeta - a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate. It can be used both as a command line utility and a library: https://github.com/tsenart/vegeta</li>
- <li>ddosify - high-performance load testing tool: https://github.com/ddosify/ddosify</li>
+ <li>ddosify - high-performance load testing tool: https://github.com/ddosify/ddosify | https://ddosify.com/blog/testing-the-performance-of-user-authentication-flow</li>
