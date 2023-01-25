@@ -1,5 +1,31 @@
 # Nimo-Awesome_repo
 
+***
+
+## Table of Contents
+
+1. [Useful Docker Images](#useful-docker-images)
+2. [Misc Docker](#misc-docker)
+3. [Misc Useful Stuff](#misc-useful-stuff)
+4. Threat Hunting & Simulation
+   - [Adversary/Threat Simulation](#adversary-threat-simulation)
+   - [Cyber Ranges / Labs](#cyber-ranges-labs)
+5. [Payloads / RATS](#payloads-rats)
+6. [Stealthy Communication / Covert Channel](#stealthy-communication-covert-channel)
+7. [Post Exploitation](#post-exploitation)
+8. [Social Engineering](#social-engineering)
+9. [AIO Tools / Frameworks](#aio-tools-frameworks)
+10. [Hunting Guides / Forensics / MISC](#hunting-guides-forensics-misc)
+11. [Blue Teams - Honeypots / IDS / Traps/ CTR](#blue-teams-honeypots-ids-traps-ctr)
+12. [Web Security](#web-security)
+13. [XSS Resources](#xss-resources)
+14. [Cloud Security](#cloud-security)
+15. [Office365 / AAD Security](#office365-aad-security)
+16. [Online Tools](#online-tools)
+17. [API Stuff](#api-stuff)
+18. [Password Lists](#password-lists)
+19. [Stress Test / Web Traffic Simulation / Test Automation](#stress-test-web-traffic-simulation-test-automation)
+
 <h2><b><u>Usefull Docker Images</u></b></h2>
 <ul><p1><b>Vulnerable Apps</b></p1>
 <li>https://github.com/citizen-stig/dockermutillidae</li>
@@ -19,7 +45,6 @@
  <li>Instatbox -  a project that spins up temporary Linux systems with instant webshell access from any browser: https://github.com/instantbox/instantbox/blob/master/Dockerfile</li>
  <li>envizon - state of the art network visualization and vulnerability reporting tool: https://github.com/evait-security/envizon/tree/master/docker </li>
  <li>vapi - is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios in the means of Exercises: https://github.com/roottusk/vapi</li>
- <li>Docker-OSX - runn Mac OS X in Docker with near-native performance! X11 Forwarding! iMessage security research! iPhone USB working! macOS in a Docker container: https://github.com/sickcodes/Docker-OSX | https://gombosg.com/2022/01/running-macos-inside-linux/</li>
   <br>
 
 <p1 class="lead"><b>Misc Docker</b></p1>
@@ -60,6 +85,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>goca - a FOCA fork written in Go: https://github.com/gocaio/goca</li>
 <li>Mondoo - docker image scanner: https://github.com/mondoolabs/mondoo</li>
 <li>fake-service - can handle both HTTP and gRPC traffic, for testing upstream service communications and testing service mesh and other scenarios: https://github.com/nicholasjackson/fake-service</li>
+ <li>Docker-OSX - runn Mac OS X in Docker with near-native performance! X11 Forwarding! iMessage security research! iPhone USB working! macOS in a Docker container: https://github.com/sickcodes/Docker-OSX | https://gombosg.com/2022/01/running-macos-inside-linux/</li>
+ <li>Nightingale - Docker image for Pentesters: https://github.com/RAJANAGORI/Nightingale</li>
 </br>
 
 <p2><b>Misc Usefull Stuff</b></p2>
@@ -149,6 +176,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
    <li>cloudgoat - s Rhino Security Labs' "Vulnerable by Design" AWS deployment tool: https://github.com/RhinoSecurityLabs/cloudgoat</li>
    <li>CyberRange - this project provides a bootstrap framework for a complete offensive, defensive, reverse engineering, & security intelligence tooling in a private research lab using the AWS Cloud: https://github.com/secdevops-cuse/CyberRange</li>
   <li>Red-Baron - a set of modules and custom/third-party providers for Terraform which tries to automate creating resilient, disposable, secure and agile infrastructure for Red Teams: https://github.com/Coalfire-Research/Red-Baron</li>
+  <li>cloudsec-tidbits - a blogpost series showcasing interesting bugs found by Doyensec during cloud security testing activities: https://github.com/doyensec/cloudsec-tidbits</li>
   </p3>
   </ul>
 
@@ -251,6 +279,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>GoSH - Golang reverse/bind shell generator. This tool generates a Go binary that launches a shell of the desired type on the targeted host: https://github.com/redcode-labs/GoSH</li>
           <li>tornado - anonymously reverse shell over onion network using hidden services without portfortwarding: https://github.com/samet-g/tornado</li>
           <li>Pitraix - modern Cross-Platform HTTP-Based P2P Botnet over TOR that cannot be traced: https://github.com/ThrillQuks/Pitraix</li>
+          <li>revshells - online reverse shell generator: https://www.revshells.com/</li>
            </span>
           </p3>
        
@@ -521,6 +550,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>awesome-api-security - a collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community: https://github.com/arainho/awesome-api-security</li>
   <li>jwt-reauth - Burp plugin to cache authentication tokens from an "auth" URL, and then add them as headers on all requests going to a certain scope: https://github.com/nccgroup/jwt-reauth</li>
   <li>guardara - a comprehensive dynamic testing tool to find bugs and zero-day vulnerabilities in custom/proprietary products, protocols, web services and applications, and complex environments: https://guardara-community.gitlab.io/documentation/docs/intro</li>
+  <li>JAW - prototype implementation of property graphs for JavaScript based on the esprima parser, and the EsTree SpiderMonkey Spec. JAW can be used for analyzing the client-side of web applications and JavaScript-based programs: https://github.com/SoheilKhodayari/JAW</li>
+  <li>graphicator - a GraphQL "scraper" / extractor. The tool iterates over the introspection document returned by the targeted GraphQL endpoint, and then re-structures the schema in an internal form so it can re-create the supported queries: https://github.com/cybervelia/graphicator</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
