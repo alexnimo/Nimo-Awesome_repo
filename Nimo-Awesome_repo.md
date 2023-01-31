@@ -489,6 +489,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>ssh-audit - a tool for ssh server & client configuration auditing: https://github.com/jtesta/ssh-audit</li>
           <li>IVRE - an open-source framework for network recon. It relies on open-source well-known tools (Nmap, Masscan, ZGrab2, ZDNS and Zeek (Bro)) to gather data (network intelligence), stores it in a database (MongoDB is the recommended backend), and provides tools to analyze it: https://ivre.rocks/</li>
           <li>pcf - Pentest Collaboration Framework - an opensource, cross-platform and portable toolkit for automating routine processes when carrying out various works for testing: https://gitlab.com/invuls/pentest-projects/pcf</li>
+          <li>Somnium - a script to test prevention and detection of network threats: https://github.com/asluppiter/Somnium</li>
             </span>
             </p3>
             </ul><br>
@@ -552,6 +553,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>guardara - a comprehensive dynamic testing tool to find bugs and zero-day vulnerabilities in custom/proprietary products, protocols, web services and applications, and complex environments: https://guardara-community.gitlab.io/documentation/docs/intro</li>
   <li>JAW - prototype implementation of property graphs for JavaScript based on the esprima parser, and the EsTree SpiderMonkey Spec. JAW can be used for analyzing the client-side of web applications and JavaScript-based programs: https://github.com/SoheilKhodayari/JAW</li>
   <li>graphicator - a GraphQL "scraper" / extractor. The tool iterates over the introspection document returned by the targeted GraphQL endpoint, and then re-structures the schema in an internal form so it can re-create the supported queries: https://github.com/cybervelia/graphicator</li>
+  <li>caido - A lightweight web security auditing toolkit built from the ground up in Rust: https://caido.io/</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>

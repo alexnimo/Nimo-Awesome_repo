@@ -1,6 +1,30 @@
 # Nimo-Awesome_repo
 
-<h2><b><u>Usefull Docker Images</u></b></h2>
+## Table of Contents
+
+[Useful Docker Images](#useful-docker-images)
+[Misc Docker](#misc-docker)
+[Misc Useful Stuff](#misc-useful-stuff)
+Threat Hunting & Simulation
+  - [Adversary/Threat Simulation](#adversary-threat-simulation)
+  - [Cyber Ranges / Labs](#cyber-ranges-labs)
+[Payloads / RATS](#payloads-rats)
+[Stealthy Communication / Covert Channel](#stealthy-communication-covert-channel)
+[Post Exploitation](#post-exploitation)
+[Social Engineering](#social-engineering)
+[AIO Tools / Frameworks](#aio-tools-frameworks)
+[Hunting Guides / Forensics / MISC](#hunting-guides-forensics-misc)
+[Blue Teams - Honeypots / IDS / Traps/ CTR](#blue-teams-honeypots-ids-traps-ctr)
+[Web Security](#web-security)
+[XSS Resources](#xss-resources)
+[Cloud Security](#cloud-security)
+[Office365 / AAD Security](#office365-aad-security)
+[Online Tools](#online-tools)
+[API Stuff](#api-stuff)
+[Password Lists](#password-lists)
+[Stress Test / Web Traffic Simulation / Test Automation](#stress-test-web-traffic-simulation-test-automation)
+
+<h2><p><b><u>Usefull Docker Images</u></b></p></h2>
 <ul><p1><b>Vulnerable Apps</b></p1>
 <li>https://github.com/citizen-stig/dockermutillidae</li>
 <li>https://hub.docker.com/r/opendns/security-ninjas/</li>
@@ -69,10 +93,10 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>awesome-pentest: https://github.com/enaqx/awesome-pentest </li>
 </ul>
 
-<h2><strong><u>Threat Hunting && Simulation</u></strong></h2>
+<h2><p><strong><u>Threat Hunting && Simulation</u></strong></p></h2>
 
  
-<h3><b>Cyber Ranges / Labs</b></h3>
+<h3><p><b>Cyber Ranges / Labs</b></p></h3>
 <ul>
     <p3>
     <span>
@@ -84,7 +108,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
    <li>CI/CDon't - This project will deploy intentionally vulnerable software/infrastructure to your AWS account: https://hackingthe.cloud/aws/capture_the_flag/cicdont/ </li>
    <li>Datadog Security Labs Research - this repository aims at providing proof of concept exploits and technical demos to help the community respond to threats: https://github.com/DataDog/security-labs-pocs</li>
    <li>GitGoat - enables DevOps and Engineering teams to test security products intending to integrate with GitHub. GitGoat is a learning and training project that demonstrates common configuration errors that can potentially allow adversaries to introduce code to production: https://github.com/arnica-ext/GitGoat</li>
-   <li>cloudgoat - s Rhino Security Labs' "Vulnerable by Design" AWS deployment tool: https://github.com/RhinoSecurityLabs/cloudgoat</li>
+   <li>cloudgoat - is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool: https://github.com/RhinoSecurityLabs/cloudgoat</li>
    <li>CyberRange - this project provides a bootstrap framework for a complete offensive, defensive, reverse engineering, & security intelligence tooling in a private research lab using the AWS Cloud: https://github.com/secdevops-cuse/CyberRange</li>
    <li>AWSGoat - A Damn Vulnerable AWS Infrastructure. AWSGoat is a vulnerable by design infrastructure on AWS featuring the latest released OWASP Top 10 web application security risks (2021) and other misconfiguration: https://github.com/ine-labs/AWSGoat</li>
    <li>AzureGoat - a vulnerable by design infrastructure on Azure featuring the latest released OWASP Top 10 web application security risks (2021) and other misconfiguration: https://github.com/ine-labs/AzureGoat</li>
@@ -92,19 +116,20 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
    <li>Supply Chain Goat - provides a training ground to practice implementing countermeasures specific to the software supply chain: https://github.com/step-security/supply-chain-goat</li>
    <li>oidc-ssrf - evil OIDC server: the OpenID Configuration URL returns a 307 to cause SSRF: https://github.com/doyensec/oidc-ssrf</li>
   <li>PurpleCloud - Pentest Cyber Range for a small Active Directory Domain. Automated templates for building your own Pentest/Red Team/Cyber Range in the Azure cloud: https://github.com/iknowjason/PurpleCloud </li>
-  <li>BadBlood -  fills a Microsoft Active Directory Domain with a structure and thousands of objects: https://github.com/davidprowe/BadBlood</li>
+  <li>BadBlood - fills a Microsoft Active Directory Domain with a structure and thousands of objects: https://github.com/davidprowe/BadBlood</li>
     <li>Detection Lab - this lab has been designed with defenders in mind. Its primary purpose is to allow the user to quickly build a Windows domain that comes pre-loaded with security tooling and some best practices when it comes to system logging configurations: https://github.com/clong/DetectionLab</li>
   <li>vulnerable-AD - create a vulnerable active directory that's allowing you to test most of active directory attacks in local lab: https://github.com/WazeHell/vulnerable-AD</li>
   <li>ADLab - a tool created in PowerShell to quickly setup an Active directory lab for testing purposes. This tool can help setup a Domain controller and Workstation in a lab environment quickly and effectively: https://browninfosecguy.com/Active-Directory-Lab-Setup-Tool | https://github.com/browninfosecguy/ADLab</li>
   <li>Azure purple team lab by BLackHills InfoSec:  https://www.blackhillsinfosec.com/how-to-applied-purple-teaming-lab-build-on-azure-with-terraform/ | https://github.com/DefensiveOrigins/APT-Lab-Terraform </li>
-  <li>Redcloud -  a powerful and user-friendly toolbox for deploying a fully featured Red Team Infrastructure using Docker: https://github.com/khast3x/Redcloud </li>
+  <li>Redcloud - a powerful and user-friendly toolbox for deploying a fully featured Red Team Infrastructure using Docker: https://github.com/khast3x/Redcloud </li>
   <li>BlueCloud - Cyber Range deployment of HELK and Velociraptor! Automated terraform deployment of one system running HELK + Velociraptor server with one registered Windows endpoint in Azure or AWS: https://github.com/iknowjason/BlueCloud</li>
   <li>Damn Vulnerable Functions as a Service: https://github.com/we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service</li>
+  <li>kali-purple - the ultimate SOC in a box: https://gitlab.com/kalilinux/documentation/kali-purple</li>
 </span>
   </p3>
   </ul>
 
-  <h3><b>Adversary/Threat Simulation</b></h3>
+  <h3><p><b>Adversary/Threat Simulation</b></p></h3>
   <ul>
     <p3>
     <span>
