@@ -45,6 +45,8 @@
  <li>Instatbox -  a project that spins up temporary Linux systems with instant webshell access from any browser: https://github.com/instantbox/instantbox/blob/master/Dockerfile</li>
  <li>envizon - state of the art network visualization and vulnerability reporting tool: https://github.com/evait-security/envizon/tree/master/docker </li>
  <li>vapi - is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios in the means of Exercises: https://github.com/roottusk/vapi</li>
+ <li>capital - the Checkmarx research team created c{api}tal to provide users with an active playground in which they hone their API Security skills: https://github.com/Checkmarx/capital</li>
+ <li>axiom - a dynamic infrastructure framework to efficiently work with multi-cloud environments, build and deploy repeatable infrastructure focussed on offensive and defensive security: https://github.com/pry0cc/axiom</li>
   <br>
 
 <p1 class="lead"><b>Misc Docker</b></p1>
