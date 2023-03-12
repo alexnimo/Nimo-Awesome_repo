@@ -46,7 +46,9 @@
  <li>envizon - state of the art network visualization and vulnerability reporting tool: https://github.com/evait-security/envizon/tree/master/docker </li>
  <li>vapi - is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios in the means of Exercises: https://github.com/roottusk/vapi</li>
  <li>capital - the Checkmarx research team created c{api}tal to provide users with an active playground in which they hone their API Security skills: https://github.com/Checkmarx/capital</li>
+ <li>bankground - banking playground project to learn REST/OpenAPI and GraphQL APIs: https://gitlab.com/karelhusa/bankground | https://bankground.apimate.eu/</li>
  <li>axiom - a dynamic infrastructure framework to efficiently work with multi-cloud environments, build and deploy repeatable infrastructure focussed on offensive and defensive security: https://github.com/pry0cc/axiom</li>
+ <li>Exegol - a community-driven hacking environment, powerful and yet simple enough to be used by anyone in day to day engagements. Exegol is the best solution to deploy powerful hacking environments securely, easily, professionally: https://github.com/ThePorgs/Exegol</li>
   <br>
 
 <p1 class="lead"><b>Misc Docker</b></p1>
@@ -143,6 +145,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>SysmonSimulator - an Open source Windows event simulation utility created in C language, that can be used to simulate most of the attacks using WINAPIs: https://github.com/ScarredMonk/SysmonSimulator</li>
           <li>goreplay - an open-source network monitoring tool which can record your live traffic and use it for shadowing, load testing, monitoring and detailed analysis: https://github.com/buger/goreplay</li>
           <li>Top 10 Awesome Open-Source Adversary Simulation Tools: https://fourcore.io/blogs/top-10-open-source-adversary-emulation-tools</li>
+          <li>artifact malware-samples - malicious artifacts which can be used to test code SCA and SAST scanners: https://github.com/DataDog/security-labs-pocs/tree/main/malware-samples</li>
 
   </p3>
   </ul>
@@ -282,6 +285,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>tornado - anonymously reverse shell over onion network using hidden services without portfortwarding: https://github.com/samet-g/tornado</li>
           <li>Pitraix - modern Cross-Platform HTTP-Based P2P Botnet over TOR that cannot be traced: https://github.com/ThrillQuks/Pitraix</li>
           <li>revshells - online reverse shell generator: https://www.revshells.com/</li>
+          <li>NimPlant - a light first-stage C2 implant written in Nim and Python: https://github.com/chvancooten/NimPlant</li>
            </span>
           </p3>
        
@@ -375,6 +379,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>espoofer - testing tool to bypass SPF, DKIM, and DMARC authentication in email systems: https://github.com/chenjj/espoofer</li>
                     <li>O365-Doppelganger - a quick handy script to harvest credentials of a user during Red Teams: https://github.com/paranoidninja/O365-Doppelganger</li>
           <li>BITB - Browser templates for Browser In The Browser (BITB) attack: https://github.com/mrd0x/BITB</li>
+          <li>phishim - a phishing tool which reduces configuration time and bypasses most types of MFA by running a chrome tab on the server that the user unknowingly interacts with: https://github.com/jackmichalak/phishim</li>
+          <li>PyPhisher - ultimate phishing tool in python. Includes popular websites like facebook, twitter, instagram, github, reddit, gmail and many others: https://github.com/KasRoudra/PyPhisher</li>
       </span>
     </p3>
     </ul><br>
@@ -399,6 +405,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>zuthaka - a collaborative free open-source Command & Control integration framework that allows developers to concentrate on the core function and goal of their C2: https://github.com/pucarasec/zuthaka</li>
       <li>bantam - an advanced PHP backdoor management tool, with a lightweight server footprint, multi-threaded communication, and an advanced payload generation and obfuscation tool: https://github.com/gellin/bantam</li>
       <li>osmedeus - a Workflow Engine for Offensive Security: https://github.com/j3ssie/osmedeus/</li>
+      <li>Cyberonix - a complete resource hub for Cyber Security Community. Our aim is to make this tool an 1 stop solution for all the Hackers out there to get resources of various topics in Cyber Security: https://github.com/TeamMetaxone/Cyberonix</li>
       </span>
   </p3>
   </ul><br>
@@ -556,6 +563,10 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>JAW - prototype implementation of property graphs for JavaScript based on the esprima parser, and the EsTree SpiderMonkey Spec. JAW can be used for analyzing the client-side of web applications and JavaScript-based programs: https://github.com/SoheilKhodayari/JAW</li>
   <li>graphicator - a GraphQL "scraper" / extractor. The tool iterates over the introspection document returned by the targeted GraphQL endpoint, and then re-structures the schema in an internal form so it can re-create the supported queries: https://github.com/cybervelia/graphicator</li>
   <li>caido - A lightweight web security auditing toolkit built from the ground up in Rust: https://caido.io/</li>
+  <li>firefly - an advanced black-box fuzzer and not just a standard asset discovery tool. Firefly provides the advantage of testing a target with a large number of built-in checks to detect behaviors in the target: https://github.com/Brum3ns/firefly</li>
+  <li>recollapse - a helper tool for black-box regex fuzzing to bypass validations and discover normalizations in web applications: https://github.com/0xacb/recollapse</li>
+  <li>IPRotate_Burp_Extension - Extension for Burp Suite which uses AWS API Gateway to change your IP on every request: https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension</li>
+  <li>waf-bypass - an open source tool to analyze the security of any WAF for False Positives and False Negatives using predefined and customizable payloads: https://github.com/nemesida-waf/waf-bypass</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
@@ -568,6 +579,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>HTML5 attack Vectors: https://dl.packetstormsecurity.net/papers/attack/HTML5AttackVectors_RafayBaloch_UPDATED.pdf </li>
 <li>XSS Vulnerability Payload List: https://github.com/ismailtasdelen/xss-payload-list</li>
 <li><a target="_blank" rel="no-image" href="https://portswigger.net/web-security/cross-site-scripting/cheat-sheet"><img border="0" src="https://socbox.com/wp-content/uploads/2019/06/portswigger.png" width="65" height="20" style="vertical-align:middle"></a><center>portswigger XSS cheat-sgeet: https://portswigger.net/web-security/cross-site-scripting/cheat-sheet</center></li>
+<li>PESD-Exporter-Extension - generate security-oriented sequence diagrams and fine-grained parsed traffic from Burp Suite Proxy history: https://github.com/doyensec/PESD-Exporter-Extension</li>
 </ul></br>
 
 <h3><b>Cloud Security</h3></b>
@@ -644,6 +656,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>json query language: https://jmespath.org/ </li>
 <li>A tool that generates graph diagrams from JSON objects: https://jsoncrack.com/editor | https://github.com/AykutSarac/jsoncrack.com</li>
 <li>repl.it - online Python compiler: https://repl.it/languages/Python%3F__s=ws9cqndijs3fipi6sacu</li>
+<li>Playgrounds by codedamn are free in-browser IDE environments: https://codedamn.com/playgrounds</li>
+<li>codesandbox - supercharge your workflow with instant cloud development environments: https://codesandbox.io/</li>
 <li>dillinger - live markdown editor https://dillinger.io/ </li>
 <li>glitch -  the friendly community where everyone codes together: https://glitch.com/</li>
 <li>JS lint: https://jshint.com/</li>
@@ -670,6 +684,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Use curl to interact with an API: https://www.redhat.com/sysadmin/use-curl-api</li>
   <li>HTTP API Development Tools: https://github.com/yosriady/api-development-tools</li>
     <li>Cherrybomb - a CLI tool that helps you avoid undefined user behavior by validating your API specifications: https://www.blstsecurity.com/</li>
+    <li>Sample Swagger files: http://rackerlabs.github.io/wadl2swagger/openstack.html</li>
   </ul>
   
 </br>
