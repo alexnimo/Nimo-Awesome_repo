@@ -128,7 +128,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Redcloud - a powerful and user-friendly toolbox for deploying a fully featured Red Team Infrastructure using Docker.https://github.com/khast3x/Redcloud </li>
       <li>Red Teaming/Adversary Simulation Toolkit - a collection of open source and commercial tools that aid in red team operationshttps://github.com/infosecn1nja/Red-Teaming-Toolkit </li>
       <li>racketeer - Ransomware emulation toolkit: https://github.com/dsnezhkov/racketeer</li>
-      <li>- adversary simulation tool written in C# that executes adversary techniques within Windows Active Directory environments. The resulting telemetry can be leveraged to measure and improve the efficacy of a detection engineering program. PurpleSharp leverages the MITRE ATT&CK Framework and executes different techniques across the attack life cycle: execution, persistence, privilege escalation, credential access, lateral movement, etc. It currently supports 47 unique ATT&CK techniques: https://github.com/mvelazc0/PurpleSharp</li>
+      <li>PurpleSharp - adversary simulation tool written in C# that executes adversary techniques within Windows Active Directory environments. The resulting telemetry can be leveraged to measure and improve the efficacy of a detection engineering program. PurpleSharp leverages the MITRE ATT&CK Framework and executes different techniques across the attack life cycle: execution, persistence, privilege escalation, credential access, lateral movement, etc. It currently supports 47 unique ATT&CK techniques: https://github.com/mvelazc0/PurpleSharp</li>
       <li>pingcastle -  a tool designed to assess quickly the Active Directory security level with a methodology based on risk assessment and a maturity framework: https://github.com/vletoux/pingcastle</li>
       <li>Some red team automation (RTA) python scripts that run on Windows, Mac OS, and *nix. RTA scripts emulate known attacker behaviors and are an easy way too verify that your rules are active and working as expected - https://github.com/elastic/detection-rules/tree/3e511965b49eae69d103b9210765bceee9cb6396/rta</li>
       <li>Teqnix - Penetration Testing Platform. Along with all the cool automation features, some of the benefits of TEQNIX is having access to a set of tools that do not 
@@ -146,6 +146,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>goreplay - an open-source network monitoring tool which can record your live traffic and use it for shadowing, load testing, monitoring and detailed analysis: https://github.com/buger/goreplay</li>
           <li>Top 10 Awesome Open-Source Adversary Simulation Tools: https://fourcore.io/blogs/top-10-open-source-adversary-emulation-tools</li>
           <li>artifact malware-samples - malicious artifacts which can be used to test code SCA and SAST scanners: https://github.com/DataDog/security-labs-pocs/tree/main/malware-samples</li>
+            <li>ATTPwn - a computer security tool designed to emulate adversaries. The tool aims to bring emulation of a real threat into closer contact with implementations based on the techniques and tactics from the MITRE ATT&CK framework: https://github.com/ElevenPaths/ATTPwn</li>
 
   </p3>
   </ul>
@@ -160,7 +161,6 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     <li>BadBlood -  fills a Microsoft Active Directory Domain with a structure and thousands of objects: https://github.com/davidprowe/BadBlood</li>
     <li>PurpleCloud - Pentest Cyber Range for a small Active Directory Domain. Automated templates for building your own Pentest/Red Team/Cyber Range in the Azure cloud: https://github.com/iknowjason/PurpleCloud </li>
     <li>Azure purple team lab by BLackHills InfoSec:  https://www.blackhillsinfosec.com/how-to-applied-purple-teaming-lab-build-on-azure-with-terraform/ | https://github.com/DefensiveOrigins/APT-Lab-Terraform </li>
-    <li>ATTPwn - a computer security tool designed to emulate adversaries. The tool aims to bring emulation of a real threat into closer contact with implementations based on the techniques and tactics from the MITRE ATT&CK framework: https://github.com/ElevenPaths/ATTPwn</li>
     <li>Redcloud -  a powerful and user-friendly toolbox for deploying a fully featured Red Team Infrastructure using Docker: https://github.com/khast3x/Redcloud </li>
     <li>BlueCloud - Cyber Range deployment of HELK and Velociraptor! Automated terraform deployment of one system running HELK + Velociraptor server with one registered Windows endpoint in Azure or AWS: https://github.com/iknowjason/BlueCloud</li>
     <li>Sadcloud - a tool for spinning up insecure AWS infrastructure with Terraform: https://github.com/nccgroup/sadcloud</li>
@@ -183,6 +183,10 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Red-Baron - a set of modules and custom/third-party providers for Terraform which tries to automate creating resilient, disposable, secure and agile infrastructure for Red Teams: https://github.com/Coalfire-Research/Red-Baron</li>
   <li>cloudsec-tidbits - a blogpost series showcasing interesting bugs found by Doyensec during cloud security testing activities: https://github.com/doyensec/cloudsec-tidbits</li>
   <li>kali-purple - the ultimate SOC in a box. Practice Ops, red, blue and purple teaming: https://gitlab.com/kalilinux/kali-purple/documentation</li>
+   <li>GCPGoat - A Damn Vulnerable GCP Infrastructure: https://github.com/ine-labs/GCPGoat</li>
+   <li>Supply Chain Goat - provides a training ground to practice implementing countermeasures specific to the software supply chain: https://github.com/step-security/supply-chain-goat</li>
+   <li>oidc-ssrf - evil OIDC server: the OpenID Configuration URL returns a 307 to cause SSRF: https://github.com/doyensec/oidc-ssrf</li>
+     <li>Damn Vulnerable Functions as a Service: https://github.com/we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service</li>
   <li>Awesome Cloud Security Labs - a list of free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs: https://github.com/iknowjason/Awesome-CloudSec-Labs</li>
   </p3>
   </ul>
@@ -234,6 +238,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Koppeling - a demonstration of advanced DLL hijack techniques. It was released in conjunction with the "Adaptive DLL Hijacking" blog post: https://github.com/monoxgas/Koppeling</li>
           <li>SillyRAT - A Cross Platform multifunctional (Windows/Linux/Mac) RAT: https://github.com/hash3liZer/SillyRAT</li>
           <li>mortar - red teaming evasion technique to defeat and divert detection and prevention of security products.Mortar Loader performs encryption and decryption of selected binary inside the memory streams and execute it directly with out writing any malicious indicator into the hard-drive: https://github.com/0xsp-SRD/mortar</li>
+            <li>go-shellcode - a repository of Windows Shellcode runners and supporting utilities. The applications load and execute Shellcode using various API calls or techniques: https://github.com/Ne0nd0g/go-shellcode</li>
       </span>
      </p3>
           </ul>
@@ -291,6 +296,10 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>reverse_ssh - A Fast, Stable Reverse Shell Handler: https://github.com/NHAS/reverse_ssh | https://research.aurainfosec.io/pentest/rssh/</li>
           <li>Pyramid - a Python HTTP/S server that can deliver encrypted files (chacha, xor), load in-memory dependencies of offensive tooling such as Bloodhound-py, secretsdump, LaZagne, Pythonnet, DonPAPI, pythonmemorymodule, paramiko, pproxy and Python cradle that can download, decrypt and execute in memory Pyramid modules: https://github.com/naksyn/Pyramid</li>
           <li>resocks - a reverse/back-connect SOCKS5 proxy tunnel that can be used to route traffic through a system that can't be directly accessed (e.g. due to NAT): https://github.com/RedTeamPentesting/resocks</li>
+                    <li>Outline - lets anyone create, run, and share access to their own VPN. Outline is designed to be resistant to blocking.: https://getoutline.org/</li>
+          <li>RedGuard - provide a better C2 channel hiding solution for the red team, that provides the flow control for the C2 channel, blocks the "malicious" analysis traffic, and better completes the entire attack task: https://github.com/wikiZ/RedGuard</li>
+          <li>RedWarden - was created to solve the problem of IR/AV/EDRs/Sandboxes evasion on the C2 redirector layer. It's intended to supersede classical Apache2 + mod_rewrite setups used for that purpose: https://github.com/mgeeky/RedWarden</li>
+          <li>RedditC2 - Abusing Reddit API to host the C2 traffic: https://github.com/kleiton0x00/RedditC2</li>
            </span>
           </p3>
        
@@ -353,6 +362,9 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
       <li>Diamorphine - a LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x and ARM64: https://github.com/m0nad/Diamorphine</li>
       <li>TripleCross - a Linux eBPF rootkit that demonstrates the offensive capabilities of the eBPF technology: https://github.com/h3xduck/TripleCross</li>
             <li>MrKaplan - a tool aimed to help red teamers to stay hidden by clearing evidence of execution. It works by saving information such as the time it ran, snapshot of files and associate each evidence to the related user: https://github.com/Idov31/MrKaplan</li>
+                <li>Freeze -  a payload creation tool used for circumventing EDR security controls to execute shellcode in a stealthy manner. Freeze utilizes multiple techniques to not only remove Userland EDR hooks, but to also execute shellcode in such a way that it circumvents other endpoint monitoring controls: https://github.com/optiv/Freeze</li>
+      <li>garble - produce a binary that works as well as a regular build, but that has as little information about the original source code as possible: https://github.com/burrowers/garble</li>
+      <li>shennina - an automated host exploitation framework. The mission of the project is to fully automate the scanning, vulnerability scanning/analysis, and exploitation using Artificial Intelligence: https://github.com/mazen160/shennina</li>
       </span> 
   </p3>
   </ul>
@@ -386,6 +398,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>BITB - Browser templates for Browser In The Browser (BITB) attack: https://github.com/mrd0x/BITB</li>
           <li>phishim - a phishing tool which reduces configuration time and bypasses most types of MFA by running a chrome tab on the server that the user unknowingly interacts with: https://github.com/jackmichalak/phishim</li>
           <li>PyPhisher - ultimate phishing tool in python. Includes popular websites like facebook, twitter, instagram, github, reddit, gmail and many others: https://github.com/KasRoudra/PyPhisher</li>
+                    <li>phishsticks - a phishing framework for OAuth 2.0 device code authentication grant flow: https://github.com/dunderhay/phishsticks</li>
       </span>
     </p3>
     </ul><br>
@@ -452,6 +465,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
     <li>Certified Pre-Owned - Abusing Active Directory Certificate Services: https://posts.specterops.io/certified-pre-owned-d95910965cd2</li>
     <li>pimpmykali - a shell script that fixes bunch a bugs on a Kali Linux virtual machines https://github.com/Dewalt-arch/pimpmykali</li>
     <li>The Cyber Plumber's Handbook - the definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss: https://github.com/opsdisk/the_cyber_plumbers_handbook</li>
+     <li>RedEye - n open-source analytic tool developed by CISA and DOE’s Pacific Northwest National Laboratory to assist Red Teams with visualizing and reporting command and control activities: https://github.com/cisagov/RedEye/</li>
     </span>
   </p3>
   </ul>
@@ -504,6 +518,11 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>IVRE - an open-source framework for network recon. It relies on open-source well-known tools (Nmap, Masscan, ZGrab2, ZDNS and Zeek (Bro)) to gather data (network intelligence), stores it in a database (MongoDB is the recommended backend), and provides tools to analyze it: https://ivre.rocks/</li>
           <li>pcf - Pentest Collaboration Framework - an opensource, cross-platform and portable toolkit for automating routine processes when carrying out various works for testing: https://gitlab.com/invuls/pentest-projects/pcf</li>
           <li>Somnium - a script to test prevention and detection of network threats: https://github.com/asluppiter/Somnium</li>
+                    <li>dradis-ce - an open-source collaboration framework, tailored to InfoSec teams: https://github.com/dradis/dradis-ce</li>
+          <li>APTRS (Automated Penetration Testing Reporting System) - The tool allows Penetration testers to create a report directly without using the Traditional Docx file. It also provides an approach to keeping track of the projects and vulnerabilities: https://github.com/Anof-cyber/APTRS</li>
+          <li>osquery-defense-kit- production-ready detection & response queries for osquery: https://github.com/chainguard-dev/osquery-defense-kit</li>
+          <li>sandboxprofiler - collect information of internet-connected sandboxes, no backend needed.
+This is achieved using telegram and interact.sh to collect data, however custom listeners are also supported: https://gitlab.com/brn1337/sandboxprofiler</li>
             </span>
             </p3>
             </ul><br>
@@ -574,6 +593,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>waf-bypass - an open source tool to analyze the security of any WAF for False Positives and False Negatives using predefined and customizable payloads: https://github.com/nemesida-waf/waf-bypass</li>
   <li>metlo - an open-source API security platform: https://github.com/metlo-labs/metlo</li>
   <li>burp-vps-proxy - a Burp Suite extension that allows for the automatic creation and deletion of upstream SOCKS5 proxies on popular cloud providers from within Burp Suite: https://github.com/d3mondev/burp-vps-proxy</li>
+    <li>dastardly - a lightweight web application security scanner for your CI/CD pipeline: https://portswigger.net/burp/dastardly</li>
+  <li>burp-awesome-tls - this extension hijacks Burp's HTTP/TLS stack and allows you to spoof any browser fingerprint in order to make it more powerful and less prone to fingerprinting by all kinds of WAFs: https://github.com/sleeyax/burp-awesome-tls</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
@@ -658,7 +679,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>HTML/CSS/JS interactive Cheatsheet: http://htmlcheatsheet.com/</li>
 <li>JSfiddle: https://jsfiddle.net/ </li>
 <li>Code validator (Yaml, JSON, JS, etc): https://codebeautify.org/yaml-validator </li>
-<li>social IDE: https://codepen.io/</li>
+<li>codepen - a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration: https://codepen.io/: https://codepen.io/</li>
 <li>json path finder: https://jsonpath.com/ </li>
 <li>json query language: https://jmespath.org/ </li>
 <li>A tool that generates graph diagrams from JSON objects: https://jsoncrack.com/editor | https://github.com/AykutSarac/jsoncrack.com</li>
@@ -669,6 +690,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
 <li>glitch -  the friendly community where everyone codes together: https://glitch.com/</li>
 <li>JS lint: https://jshint.com/</li>
 <li>JSON schema data generator: https://json-schema-faker.js.org/ </li>
+  <li>graphql-playground: https://github.com/graphql/graphql-playground</li>
   <li>Search for open source repositories on github, gitlab, and bitbucket: https://www.bithublab.org/</li>
   <li>Python Regex tester: https://pythex.org/ </li>
   <li>dnstwister - domain name permutation engine: https://dnstwister.report/ </li>
