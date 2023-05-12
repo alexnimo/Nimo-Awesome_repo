@@ -182,6 +182,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
    <li>CyberRange - this project provides a bootstrap framework for a complete offensive, defensive, reverse engineering, & security intelligence tooling in a private research lab using the AWS Cloud: https://github.com/secdevops-cuse/CyberRange</li>
   <li>Red-Baron - a set of modules and custom/third-party providers for Terraform which tries to automate creating resilient, disposable, secure and agile infrastructure for Red Teams: https://github.com/Coalfire-Research/Red-Baron</li>
   <li>cloudsec-tidbits - a blogpost series showcasing interesting bugs found by Doyensec during cloud security testing activities: https://github.com/doyensec/cloudsec-tidbits</li>
+  <li>kali-purple - the ultimate SOC in a box. Practice Ops, red, blue and purple teaming: https://gitlab.com/kalilinux/kali-purple/documentation</li>
+  <li>Awesome Cloud Security Labs - a list of free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs: https://github.com/iknowjason/Awesome-CloudSec-Labs</li>
   </p3>
   </ul>
 
@@ -286,6 +288,9 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Pitraix - modern Cross-Platform HTTP-Based P2P Botnet over TOR that cannot be traced: https://github.com/ThrillQuks/Pitraix</li>
           <li>revshells - online reverse shell generator: https://www.revshells.com/</li>
           <li>NimPlant - a light first-stage C2 implant written in Nim and Python: https://github.com/chvancooten/NimPlant</li>
+          <li>reverse_ssh - A Fast, Stable Reverse Shell Handler: https://github.com/NHAS/reverse_ssh | https://research.aurainfosec.io/pentest/rssh/</li>
+          <li>Pyramid - a Python HTTP/S server that can deliver encrypted files (chacha, xor), load in-memory dependencies of offensive tooling such as Bloodhound-py, secretsdump, LaZagne, Pythonnet, DonPAPI, pythonmemorymodule, paramiko, pproxy and Python cradle that can download, decrypt and execute in memory Pyramid modules: https://github.com/naksyn/Pyramid</li>
+          <li>resocks - a reverse/back-connect SOCKS5 proxy tunnel that can be used to route traffic through a system that can't be directly accessed (e.g. due to NAT): https://github.com/RedTeamPentesting/resocks</li>
            </span>
           </p3>
        
@@ -567,6 +572,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>recollapse - a helper tool for black-box regex fuzzing to bypass validations and discover normalizations in web applications: https://github.com/0xacb/recollapse</li>
   <li>IPRotate_Burp_Extension - Extension for Burp Suite which uses AWS API Gateway to change your IP on every request: https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension</li>
   <li>waf-bypass - an open source tool to analyze the security of any WAF for False Positives and False Negatives using predefined and customizable payloads: https://github.com/nemesida-waf/waf-bypass</li>
+  <li>metlo - an open-source API security platform: https://github.com/metlo-labs/metlo</li>
+  <li>burp-vps-proxy - a Burp Suite extension that allows for the automatic creation and deletion of upstream SOCKS5 proxies on popular cloud providers from within Burp Suite: https://github.com/d3mondev/burp-vps-proxy</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
