@@ -93,7 +93,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
  <li>Nightingale - Docker image for Pentesters: https://github.com/RAJANAGORI/Nightingale</li>
 </br>
 
-<h2><p2><b>Misc Usefull Stuff</b></p2></h2>
+<h2><u><p2><b>Misc Usefull Stuff</b></p2></u></h2>
 <ul>
 <li>Bypass application whitelisting: http://www.blackhillsinfosec.com/?p=5633</li>
 <li>Malcious outlook rules: https://silentbreaksecurity.com/malicious-outlook-rules/ </li>
@@ -106,9 +106,9 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>awesome-pentest: https://github.com/enaqx/awesome-pentest </li>
 </ul>
 
-<h2><strong><u>Threat Hunting && Simulation</u></strong></h2>
+<h2><u><strong>Threat Hunting && Simulation</strong></u></h2>
 
-  <h3><b>Adversary/Threat Simulation</b></h3>
+  <h3><u><b>Adversary/Threat Simulation</b></u></h3>
   <ul>
     <p3>
    <li>Uber metta: https://github.com/uber-common/metta </li>
