@@ -51,7 +51,7 @@
  <li>Exegol - a community-driven hacking environment, powerful and yet simple enough to be used by anyone in day to day engagements. Exegol is the best solution to deploy powerful hacking environments securely, easily, professionally: https://github.com/ThePorgs/Exegol</li>
   <br>
 
-<p1 class="lead"><b>Misc Docker</b></p1>
+<h2><u><p1 class="lead"><b>Misc Docker</b></p1></u></h2>
 <li>https://hub.docker.com/r/blacktop/cuckoo/    https://github.com/blacktop/docker-cuckoo </li>
 <li>Script to check docker security(CIS) - https://hub.docker.com/r/diogomonica/docker-bench-security/ </li>
   <li>clair - static analysis of vulnerabilities in application containers: https://github.com/coreos/clair</li>
@@ -93,7 +93,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
  <li>Nightingale - Docker image for Pentesters: https://github.com/RAJANAGORI/Nightingale</li>
 </br>
 
-<p2><b>Misc Usefull Stuff</b></p2>
+<h2><p2><b>Misc Usefull Stuff</b></p2></h2>
 <ul>
 <li>Bypass application whitelisting: http://www.blackhillsinfosec.com/?p=5633</li>
 <li>Malcious outlook rules: https://silentbreaksecurity.com/malicious-outlook-rules/ </li>
