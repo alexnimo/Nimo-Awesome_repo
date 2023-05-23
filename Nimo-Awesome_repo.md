@@ -523,6 +523,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>osquery-defense-kit- production-ready detection & response queries for osquery: https://github.com/chainguard-dev/osquery-defense-kit</li>
           <li>sandboxprofiler - collect information of internet-connected sandboxes, no backend needed.
 This is achieved using telegram and interact.sh to collect data, however custom listeners are also supported: https://gitlab.com/brn1337/sandboxprofiler</li>
+<li>vectr - facilitates tracking of your red and blue team testing activities to measure detection and prevention capabilities across different attack scenarios: https://vectr.io/</li>
             </span>
             </p3>
             </ul><br>
@@ -595,6 +596,7 @@ This is achieved using telegram and interact.sh to collect data, however custom 
   <li>burp-vps-proxy - a Burp Suite extension that allows for the automatic creation and deletion of upstream SOCKS5 proxies on popular cloud providers from within Burp Suite: https://github.com/d3mondev/burp-vps-proxy</li>
     <li>dastardly - a lightweight web application security scanner for your CI/CD pipeline: https://portswigger.net/burp/dastardly</li>
   <li>burp-awesome-tls - this extension hijacks Burp's HTTP/TLS stack and allows you to spoof any browser fingerprint in order to make it more powerful and less prone to fingerprinting by all kinds of WAFs: https://github.com/sleeyax/burp-awesome-tls</li>
+  <li>burpgpt - leverages the power of AI to detect security vulnerabilities that traditional scanners might miss: https://github.com/aress31/burpgpt</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
@@ -714,6 +716,7 @@ This is achieved using telegram and interact.sh to collect data, however custom 
   <li>HTTP API Development Tools: https://github.com/yosriady/api-development-tools</li>
     <li>Cherrybomb - a CLI tool that helps you avoid undefined user behavior by validating your API specifications: https://www.blstsecurity.com/</li>
     <li>Sample Swagger files: http://rackerlabs.github.io/wadl2swagger/openstack.html</li>
+    <li>swagroutes - a command-line tool that extracts and lists API routes from Swagger files in YAML or JSON format: https://github.com/amalmurali47/swagroutes</li>
   </ul>
   
 </br>
