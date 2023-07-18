@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-1. [Useful Docker Images](#usefull-docker-images)
+1. [Nimo awesomerepo](#nimo-awesomerepo)
 2. [Misc Docker](#misc-docker)
 3. [Misc Useful Stuff](#misc-useful-stuff)
 4. [Threat Hunting & Simulation](#Threat-Hunting-&-Simulation)
@@ -188,6 +188,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
    <li>oidc-ssrf - evil OIDC server: the OpenID Configuration URL returns a 307 to cause SSRF: https://github.com/doyensec/oidc-ssrf</li>
      <li>Damn Vulnerable Functions as a Service: https://github.com/we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service</li>
   <li>Awesome Cloud Security Labs - a list of free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs: https://github.com/iknowjason/Awesome-CloudSec-Labs</li>
+  <li>cloudfoxable - an intentionally vulnerable AWS environment created specifically to showcase CloudFox’s capabilities and help you find latent attack paths more effectively: https://github.com/BishopFox/cloudfoxable</li>
   </p3>
   </ul>
 
@@ -524,6 +525,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>sandboxprofiler - collect information of internet-connected sandboxes, no backend needed.
 This is achieved using telegram and interact.sh to collect data, however custom listeners are also supported: https://gitlab.com/brn1337/sandboxprofiler</li>
 <li>vectr - facilitates tracking of your red and blue team testing activities to measure detection and prevention capabilities across different attack scenarios: https://vectr.io/</li>
+<li>hash(HTTP Agnostic Software Honeypot) - a framework for creating and launching low interactive honeypots: https://github.com/DataDog/hash</li>
             </span>
             </p3>
             </ul><br>
@@ -597,6 +599,8 @@ This is achieved using telegram and interact.sh to collect data, however custom 
     <li>dastardly - a lightweight web application security scanner for your CI/CD pipeline: https://portswigger.net/burp/dastardly</li>
   <li>burp-awesome-tls - this extension hijacks Burp's HTTP/TLS stack and allows you to spoof any browser fingerprint in order to make it more powerful and less prone to fingerprinting by all kinds of WAFs: https://github.com/sleeyax/burp-awesome-tls</li>
   <li>burpgpt - leverages the power of AI to detect security vulnerabilities that traditional scanners might miss: https://github.com/aress31/burpgpt</li>
+  <li>GraphQLmap - a scripting engine to interact with a graphql endpoint for pentesting purposes: https://github.com/swisskyrepo/GraphQLmap</li>
+  <li>graphquail - a Burp Suite extension that offers a toolkit for testing GraphQL endpoints: https://github.com/forcesunseen/graphquail</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
