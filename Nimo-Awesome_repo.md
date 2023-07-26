@@ -189,6 +189,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
      <li>Damn Vulnerable Functions as a Service: https://github.com/we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service</li>
   <li>Awesome Cloud Security Labs - a list of free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs: https://github.com/iknowjason/Awesome-CloudSec-Labs</li>
   <li>cloudfoxable - an intentionally vulnerable AWS environment created specifically to showcase CloudFox’s capabilities and help you find latent attack paths more effectively: https://github.com/BishopFox/cloudfoxable</li>
+  <li>[BadZure](https://github.com/mvelazc0/BadZure) - a PowerShell script that leverages the Microsoft Graph SDK to orchestrate the setup of Azure Active Directory tenants, populating them with diverse entities while also introducing common security misconfigurations to create vulnerable tenants with multiple attack paths.</li>
   </p3>
   </ul>
 
