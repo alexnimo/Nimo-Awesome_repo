@@ -147,6 +147,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
           <li>Top 10 Awesome Open-Source Adversary Simulation Tools: https://fourcore.io/blogs/top-10-open-source-adversary-emulation-tools</li>
           <li>artifact malware-samples - malicious artifacts which can be used to test code SCA and SAST scanners: https://github.com/DataDog/security-labs-pocs/tree/main/malware-samples</li>
             <li>ATTPwn - a computer security tool designed to emulate adversaries. The tool aims to bring emulation of a real threat into closer contact with implementations based on the techniques and tactics from the MITRE ATT&CK framework: https://github.com/ElevenPaths/ATTPwn</li>
+            <li>derf (Detection Replay Framework) - is an "Attacks As A Service" framework, allowing the emulation of offensive techniques and generation of repeatable detection samples from a UI - without the need for End Users to install software, use the CLI or possess credentials in the target environment: https://github.com/vectra-ai-research/derf</li>
 
   </p3>
   </ul>
@@ -190,9 +191,14 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Awesome Cloud Security Labs - a list of free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs: https://github.com/iknowjason/Awesome-CloudSec-Labs</li>
   <li>cloudfoxable - an intentionally vulnerable AWS environment created specifically to showcase CloudFox’s capabilities and help you find latent attack paths more effectively: https://github.com/BishopFox/cloudfoxable</li>
   <li>[BadZure](https://github.com/mvelazc0/BadZure) - a PowerShell script that leverages the Microsoft Graph SDK to orchestrate the setup of Azure Active Directory tenants, populating them with diverse entities while also introducing common security misconfigurations to create vulnerable tenants with multiple attack paths.</li>
+  <li>cnappgoat - a multi-cloud, vulnerable-by-design environment deployment tool – specifically engineered to facilitate practice arenas for defenders and pentesters. Its main function is to deploy intentionally vulnerable environments across multiple cloud service providers, to help you sharpen your skills in exploiting, detecting, and preventing such vulnerabilities: https://github.com/ermetic-research/cnappgoat</i>
+  <li>XMGoat - a composed of XM Cyber terraform templates that help you learn about common Azure security issues: https://github.com/XMCyber/XMGoat</li>
+  <li>github-actions-goat - an educational project that simulates common security attacks and vulnerabilities in a GitHub Actions CI/CD environment and shows how to defend against such attacks: https://github.com/step-security/github-actions-goat</li>
+  <li>DVFaaS(Damn Vulnerable Functions as a Service) - deploy and run a bunch of 'orribly insecure functions on AWS Lambda: https://github.com/we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service</li>
+  <li>SinCity - a GPT-powered, MITRE ATT&CK-based tool which automates the provisioning and management of an IT environment in a conversational way: https://github.com/tenable/SinCity</li>
   </p3>
   </ul>
-
+s
   <h3><b>Payloads / RATS</b></h3>
     <ul>
       <p3>
@@ -367,6 +373,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
                 <li>Freeze -  a payload creation tool used for circumventing EDR security controls to execute shellcode in a stealthy manner. Freeze utilizes multiple techniques to not only remove Userland EDR hooks, but to also execute shellcode in such a way that it circumvents other endpoint monitoring controls: https://github.com/optiv/Freeze</li>
       <li>garble - produce a binary that works as well as a regular build, but that has as little information about the original source code as possible: https://github.com/burrowers/garble</li>
       <li>shennina - an automated host exploitation framework. The mission of the project is to fully automate the scanning, vulnerability scanning/analysis, and exploitation using Artificial Intelligence: https://github.com/mazen160/shennina</li>
+      <li>shell-backdoor - collection of shell backdoors: https://github.com/beruangsalju/shell-backdoor</li>
       </span> 
   </p3>
   </ul>
@@ -602,6 +609,7 @@ This is achieved using telegram and interact.sh to collect data, however custom 
   <li>burpgpt - leverages the power of AI to detect security vulnerabilities that traditional scanners might miss: https://github.com/aress31/burpgpt</li>
   <li>GraphQLmap - a scripting engine to interact with a graphql endpoint for pentesting purposes: https://github.com/swisskyrepo/GraphQLmap</li>
   <li>graphquail - a Burp Suite extension that offers a toolkit for testing GraphQL endpoints: https://github.com/forcesunseen/graphquail</li>
+  <li>route-detect - find authentication (authn) and authorization (authz) security bugs in web application routes: https://github.com/mschwager/route-detect</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
