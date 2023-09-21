@@ -308,6 +308,7 @@ s
           <li>RedGuard - provide a better C2 channel hiding solution for the red team, that provides the flow control for the C2 channel, blocks the "malicious" analysis traffic, and better completes the entire attack task: https://github.com/wikiZ/RedGuard</li>
           <li>RedWarden - was created to solve the problem of IR/AV/EDRs/Sandboxes evasion on the C2 redirector layer. It's intended to supersede classical Apache2 + mod_rewrite setups used for that purpose: https://github.com/mgeeky/RedWarden</li>
           <li>RedditC2 - Abusing Reddit API to host the C2 traffic: https://github.com/kleiton0x00/RedditC2</li>
+          <li>skyhook - a REST-driven utility used to smuggle files into and out of networks defended by IDS implementations. It comes with a pre-packaged web client that uses a blend of React, vanilla JS, and web assembly to manage file transfers: https://github.com/blackhillsinfosec/skyhook</li>
            </span>
           </p3>
        
@@ -534,6 +535,7 @@ s
 This is achieved using telegram and interact.sh to collect data, however custom listeners are also supported: https://gitlab.com/brn1337/sandboxprofiler</li>
 <li>vectr - facilitates tracking of your red and blue team testing activities to measure detection and prevention capabilities across different attack scenarios: https://vectr.io/</li>
 <li>hash(HTTP Agnostic Software Honeypot) - a framework for creating and launching low interactive honeypots: https://github.com/DataDog/hash</li>
+<li>DIAL (Did I Alert Lambda?) - a centralized security misconfiguration detection framework which completely runs on AWS Managed services like AWS API Gateway, AWS Event Bridge & AWS Lambda: https://github.com/CRED-CLUB/DIAL</li>
             </span>
             </p3>
             </ul><br>
@@ -610,6 +612,7 @@ This is achieved using telegram and interact.sh to collect data, however custom 
   <li>GraphQLmap - a scripting engine to interact with a graphql endpoint for pentesting purposes: https://github.com/swisskyrepo/GraphQLmap</li>
   <li>graphquail - a Burp Suite extension that offers a toolkit for testing GraphQL endpoints: https://github.com/forcesunseen/graphquail</li>
   <li>route-detect - find authentication (authn) and authorization (authz) security bugs in web application routes: https://github.com/mschwager/route-detect</li>
+  <li>offat(OFFensive Api Tester) - automatically Tests for vulnerabilities after generating tests from openapi specification file: https://github.com/dmdhrumilmistry/offat</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
