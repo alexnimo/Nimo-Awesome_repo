@@ -196,6 +196,8 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>github-actions-goat - an educational project that simulates common security attacks and vulnerabilities in a GitHub Actions CI/CD environment and shows how to defend against such attacks: https://github.com/step-security/github-actions-goat</li>
   <li>DVFaaS(Damn Vulnerable Functions as a Service) - deploy and run a bunch of 'orribly insecure functions on AWS Lambda: https://github.com/we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service</li>
   <li>SinCity - a GPT-powered, MITRE ATT&CK-based tool which automates the provisioning and management of an IT environment in a conversational way: https://github.com/tenable/SinCity</li>
+  <li>WolfPack - combines the capabilities of Terraform and Packer to streamline the deployment of red team redirectors on a large scale: https://github.com/RoseSecurity-Research/WolfPack</li>
+  <li>GOAD - a pentest active directory LAB project. The purpose of this lab is to give pentesters a vulnerable Active directory environment ready to use to practice usual attack techniques: https://github.com/Orange-Cyberdefense/GOAD</li>
   </p3>
   </ul>
 s
@@ -309,6 +311,7 @@ s
           <li>RedWarden - was created to solve the problem of IR/AV/EDRs/Sandboxes evasion on the C2 redirector layer. It's intended to supersede classical Apache2 + mod_rewrite setups used for that purpose: https://github.com/mgeeky/RedWarden</li>
           <li>RedditC2 - Abusing Reddit API to host the C2 traffic: https://github.com/kleiton0x00/RedditC2</li>
           <li>skyhook - a REST-driven utility used to smuggle files into and out of networks defended by IDS implementations. It comes with a pre-packaged web client that uses a blend of React, vanilla JS, and web assembly to manage file transfers: https://github.com/blackhillsinfosec/skyhook</li>
+          <li>BounceBack - a powerful, highly customizable and configurable reverse proxy with WAF functionality for hiding your C2/phishing/etc infrastructure from blue teams, sandboxes, scanners, etc: https://github.com/D00Movenok/BounceBack</li>
            </span>
           </p3>
        
