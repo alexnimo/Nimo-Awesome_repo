@@ -273,6 +273,7 @@ s
           <li>hershell - Simple TCP reverse shell written in Go: https://github.com/lesnuages/hershell</li>
           <li>Reverse Shell Cheat Sheet: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md </li>
           <li>Silver - a general purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS: https://github.com/BishopFox/sliver/blob/master/README.md </li>
+          <li>Sliver and Cursed Chrome for Post Exploitation - a blog post that guides you through using Cursed Chrome within Sliver to more effectively perform adversary emulation tests: https://dev.to/living_syn/sliver-and-cursed-chrome-for-post-exploitation-4gnk</li>
           <li>Slackor - A Golang implant that uses Slack as a command and control channel: https://github.com/Coalfire-Research/Slackor </li>
           <li>FudgeC2 - a campaign orientated Powershell C2 framework built on Python3/Flask - Designed for team collaboration, client interaction, campaign timelining, and usage visibility: https://github.com/Ziconius/FudgeC2 </li>
           <li>HRShell - an HTTPS/HTTP reverse shell built with flask. It is an advanced C2 server with many features & capabilities: https://github.com/chrispetrou/HRShell</li>
@@ -412,6 +413,7 @@ s
           <li>phishim - a phishing tool which reduces configuration time and bypasses most types of MFA by running a chrome tab on the server that the user unknowingly interacts with: https://github.com/jackmichalak/phishim</li>
           <li>PyPhisher - ultimate phishing tool in python. Includes popular websites like facebook, twitter, instagram, github, reddit, gmail and many others: https://github.com/KasRoudra/PyPhisher</li>
                     <li>phishsticks - a phishing framework for OAuth 2.0 device code authentication grant flow: https://github.com/dunderhay/phishsticks</li>
+                    <li>cuddlephish - Weaponized multi-user browser-in-the-middle (BitM) for penetration testers. This attack can be used to bypass multi-factor authentication on many high-value web applications: https://github.com/fkasler/cuddlephish</li>
       </span>
     </p3>
     </ul><br>
@@ -616,6 +618,7 @@ This is achieved using telegram and interact.sh to collect data, however custom 
   <li>graphquail - a Burp Suite extension that offers a toolkit for testing GraphQL endpoints: https://github.com/forcesunseen/graphquail</li>
   <li>route-detect - find authentication (authn) and authorization (authz) security bugs in web application routes: https://github.com/mschwager/route-detect</li>
   <li>offat(OFFensive Api Tester) - automatically Tests for vulnerabilities after generating tests from openapi specification file: https://github.com/dmdhrumilmistry/offat</li>
+  <li>Swagger-EZ - a tool geared towards pentesting APIs using OpenAPI definitions: https://github.com/RhinoSecurityLabs/Swagger-EZ</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
@@ -736,6 +739,9 @@ This is achieved using telegram and interact.sh to collect data, however custom 
     <li>Cherrybomb - a CLI tool that helps you avoid undefined user behavior by validating your API specifications: https://www.blstsecurity.com/</li>
     <li>Sample Swagger files: http://rackerlabs.github.io/wadl2swagger/openstack.html</li>
     <li>swagroutes - a command-line tool that extracts and lists API routes from Swagger files in YAML or JSON format: https://github.com/amalmurali47/swagroutes</li>
+    <li>Altair GraphQL Client -  debug GraphQL queries and implementations - taking care of the hard part so you can focus on actually getting things done: https://altairgraphql.dev/</li>
+    <li>openapi-devtools - effortlessly discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website: https://github.com/AndrewWalsh/openapi-devtools</li>
+    <li>graphql-voyager: https://graphql-kit.com/graphql-voyager/</li>
   </ul>
   
 </br>
