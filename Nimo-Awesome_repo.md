@@ -198,6 +198,9 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>SinCity - a GPT-powered, MITRE ATT&CK-based tool which automates the provisioning and management of an IT environment in a conversational way: https://github.com/tenable/SinCity</li>
   <li>WolfPack - combines the capabilities of Terraform and Packer to streamline the deployment of red team redirectors on a large scale: https://github.com/RoseSecurity-Research/WolfPack</li>
   <li>GOAD - a pentest active directory LAB project. The purpose of this lab is to give pentesters a vulnerable Active directory environment ready to use to practice usual attack techniques: https://github.com/Orange-Cyberdefense/GOAD</li>
+  <li>cdk-goat - a demonstration of a "vulnerable-by-design" AWS Cloud Development Kit (CDK) infrastructure: https://github.com/avishayil/cdk-goat</li>
+  <li>[vulnerable-apps - Over 100 forks of deliberately vulnerable web applications and APIs: ](https://github.com/vulnerable-apps)</li>
+  <li><[AutomatedEmulation - a simple terraform template creating a customizable and automated Breach and Attack Simulation lab(caldera, perlude, VECTR)](https://github.com/iknowjason/AutomatedEmulation)/li>
   </p3>
   </ul>
 s
@@ -379,6 +382,7 @@ s
       <li>garble - produce a binary that works as well as a regular build, but that has as little information about the original source code as possible: https://github.com/burrowers/garble</li>
       <li>shennina - an automated host exploitation framework. The mission of the project is to fully automate the scanning, vulnerability scanning/analysis, and exploitation using Artificial Intelligence: https://github.com/mazen160/shennina</li>
       <li>shell-backdoor - collection of shell backdoors: https://github.com/beruangsalju/shell-backdoor</li>
+      <li>SSH-Snake - a powerful tool designed to perform automatic network traversal using SSH private keys discovered on systems, with the objective of creating a comprehensive map of a network and its dependencies, identifying to what extent a network can be compromised using SSH and SSH private keys starting from a particular system: https://github.com/MegaManSec/SSH-Snake</li>
       </span> 
   </p3>
   </ul>
@@ -498,16 +502,11 @@ s
           <li>Dejavu - open source deception framework which can be used to deploys deploy multiple interactive decoys: https://github.com/bhdresh/Dejavu</li>
           <li>fireeye capa - detects capabilities in executable files. You run it against a PE file or shellcode and it tells you what it thinks the program can do: https://github.com/fireeye/capa </li>
           <li>gravwell-community-edition: https://www.gravwell.io/blog/gravwell-community-edition</li>
-          <li>logz.io: https://logz.io/</li>
-          <li>SIEMonster: https://siemonster.com/</li>
           <li>Dsiem - Dsiem is a security event correlation engine for ELK stack, allowing the platform to be used as a       dedicated and full-featured SIEM system: https://github.com/defenxor/dsiem </li>
           <li>siembol - provides a scalable, advanced security analytics framework based on open-source big data technologies. Siembol normalizes, enriches, and alerts on data from various sources, which allows security teams to respond to attacks before they become incidents: https://github.com/G-Research/siembol</li>
-          <li>CyberSponse - community edtion: https://cybersponse.com/community-edition/</li>
-          <li>Dflabs - community edition: https://www.dflabs.com/incman-soar-community-edition/</li>
           <li>thehive-project - A scalable, open source and free Security Incident Response Platform, tightly integrated with MISP: https://thehive-project.org/ </li>
           <li>Sigma - generic and open signature format that allows you to describe relevant log events in a straight forward manner: https://github.com/Neo23x0/sigma | https://github.com/socprime/SigmaUI </li>
-          <li>MozDef - The Mozilla Enterprise Defense Platform (MozDef) seeks to automate the security incident handling process and facilitate the real-time activities of incident handlers: https://github.com/mozilla/MozDef </li>
-          <li>opencti - Unified platform for all levels of Cyber Threat Intelligence: https://www.opencti.io/en/</li>
+          <li>opencti - Unified platform for all levels of Cyber Threat Intelligence: https://github.com/OpenCTI-Platform/opencti</li>
           <li>wazuh - enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance: https://wazuh.com/</li>
           <li>spidertrap - Trap web crawlers and spiders in an infinite set of dynamically generated webpage: https://github.com/adhdproject/adhdproject.github.io/blob/master/Tools/Spidertrap.md </li>
           <li>ElastAlert - a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch: https://github.com/Yelp/elastalert</li>
@@ -546,7 +545,7 @@ This is achieved using telegram and interact.sh to collect data, however custom 
             </ul><br>
 
 
-<h3><b>Web Security</h3></b>
+<h3><b>Web & API Security</h3></b>
 <ul>
 <li>Automatic API Attack Tool - Imperva's customizable API attack tool takes an API specification as an input, and generates and runs attacks that are based on it as an output: https://github.com/imperva/automatic-api-attack-tool</li>
 <li>Taipan - an automated web application vulnerability scanner that allows to identify web vulnerabilities in an automatic fashion: https://github.com/enkomio/Taipan/blob/master/README.md </li>
@@ -619,7 +618,15 @@ This is achieved using telegram and interact.sh to collect data, however custom 
   <li>route-detect - find authentication (authn) and authorization (authz) security bugs in web application routes: https://github.com/mschwager/route-detect</li>
   <li>offat(OFFensive Api Tester) - automatically Tests for vulnerabilities after generating tests from openapi specification file: https://github.com/dmdhrumilmistry/offat</li>
   <li>Swagger-EZ - a tool geared towards pentesting APIs using OpenAPI definitions: https://github.com/RhinoSecurityLabs/Swagger-EZ</li>
-</ul></br>
+  <li>schemathesis - a tool that automates your API testing to catch crashes and spec violations: https://github.com/schemathesis/schemathesis</li>
+  <li>reaper - a reconnaissance and attack proxy, built to be a modern, lightweight, and efficient equivalent to Burp Suite/ZAP etc: https://github.com/ghostsecurity/reaper</li>
+  <li>sj - a command line tool designed to assist with auditing of exposed Swagger/OpenAPI definition files by checking the associated API endpoints for weak authentication: https://github.com/BishopFox/sj</li>
+  <li>[fingerprint-suite - a handcrafted assembly of tools for browser fingerprint generation and injection: ](https://github.com/apify/fingerprint-suite)</li>
+  <li>[GAP-Burp-Extension - an evolution of the original getAllParams extension for Burp. Not only does it find more potential parameters for you to investigate, but it also finds potential links to try these parameters on, and produces a target specific wordlist to use for fuzzing: ](https://github.com/xnl-h4ck3r/GAP-Burp-Extension)</li>
+  <li>[xsshunter - a working and easy to install fork of XSSHunter](https://github.com/rs-loves-bugs/xsshunter)</li>
+  <li>sessionprobe - a multi-threaded pentesting tool designed to assist in evaluating user privileges in web applications. It takes a user's session token and checks for a list of URLs if access is possible, highlighting potential authorization issues: https://github.com/dub-flow/sessionprobe</li>
+  <li>apidetector - a powerful and efficient tool designed for testing exposed Swagger endpoints in various subdomains with unique smart capabilities to detect false-positives: https://github.com/brinhosa/apidetector</li>
+  </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
 <li>HTML5: http://html5sec.org/</li>
@@ -685,6 +692,7 @@ This is achieved using telegram and interact.sh to collect data, however custom 
 <li>SSOh-No - this tool is designed to enumerate users, password spray and perform brute force attacks against any organisation that utilises Azure AD or O365: https://github.com/optionalCTF/SSOh-No</li>
 <li>Go365 - a tool designed to perform user enumeration* and password guessing attacks on organizations that use Office365 (now/soon Microsoft365). Go365 uses a unique SOAP API endpoint on login.microsoftonline.com that most other tools do not use: https://github.com/optiv/Go365</li>
 <li>BlueHound - a tool that helps blue teams pinpoint the security issues that actually matter. By combining information about user permissions, network access and unpatched vulnerabilities, BlueHound reveals the paths attackers would take if they were inside your networkhttps://github.com/zeronetworks/BlueHound | https://zeronetworks.com/blog/bluehound-community-driven-resilience/</li>
+<li><[GraphRunner - a post-exploitation toolset for interacting with the Microsoft Graph API: ](https://github.com/dafthack/GraphRunner)/li>
 </ul>
 </br>
 
@@ -704,6 +712,7 @@ This is achieved using telegram and interact.sh to collect data, however custom 
 <li>JSfiddle: https://jsfiddle.net/ </li>
 <li>Code validator (Yaml, JSON, JS, etc): https://codebeautify.org/yaml-validator </li>
 <li>codepen - a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration: https://codepen.io/: https://codepen.io/</li>
+<li>[CodeSandbox - consistent development environments that boost productivity and empower collaboration: ](https://codesandbox.io/)</li>
 <li>json path finder: https://jsonpath.com/ </li>
 <li>json query language: https://jmespath.org/ </li>
 <li>A tool that generates graph diagrams from JSON objects: https://jsoncrack.com/editor | https://github.com/AykutSarac/jsoncrack.com</li>
