@@ -201,6 +201,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>cdk-goat - a demonstration of a "vulnerable-by-design" AWS Cloud Development Kit (CDK) infrastructure: https://github.com/avishayil/cdk-goat</li>
   <li>[vulnerable-apps - Over 100 forks of deliberately vulnerable web applications and APIs: ](https://github.com/vulnerable-apps)</li>
   <li><[AutomatedEmulation - a simple terraform template creating a customizable and automated Breach and Attack Simulation lab(caldera, perlude, VECTR)](https://github.com/iknowjason/AutomatedEmulation)/li>
+  <li>AutomatedLab - enables you to setup test and lab environments on Hyper-v or Azure with multiple products or just a single VM in a very short time: https://github.com/AutomatedLab/AutomatedLab</li>
   </p3>
   </ul>
 s
@@ -316,6 +317,7 @@ s
           <li>RedditC2 - Abusing Reddit API to host the C2 traffic: https://github.com/kleiton0x00/RedditC2</li>
           <li>skyhook - a REST-driven utility used to smuggle files into and out of networks defended by IDS implementations. It comes with a pre-packaged web client that uses a blend of React, vanilla JS, and web assembly to manage file transfers: https://github.com/blackhillsinfosec/skyhook</li>
           <li>BounceBack - a powerful, highly customizable and configurable reverse proxy with WAF functionality for hiding your C2/phishing/etc infrastructure from blue teams, sandboxes, scanners, etc: https://github.com/D00Movenok/BounceBack</li>
+          <li>gsocket - the Global Socket Tookit allows two users behind NAT/Firewall to establish a TCP connection with each other: https://github.com/hackerschoice/gsocket</li>
            </span>
           </p3>
        
@@ -383,6 +385,7 @@ s
       <li>shennina - an automated host exploitation framework. The mission of the project is to fully automate the scanning, vulnerability scanning/analysis, and exploitation using Artificial Intelligence: https://github.com/mazen160/shennina</li>
       <li>shell-backdoor - collection of shell backdoors: https://github.com/beruangsalju/shell-backdoor</li>
       <li>SSH-Snake - a powerful tool designed to perform automatic network traversal using SSH private keys discovered on systems, with the objective of creating a comprehensive map of a network and its dependencies, identifying to what extent a network can be compromised using SSH and SSH private keys starting from a particular system: https://github.com/MegaManSec/SSH-Snake</li>
+      <li>ThievingFox - a collection of post-exploitation tools to gather credentials from various password managers and windows utilities: https://github.com/Slowerzs/ThievingFox</li>
       </span> 
   </p3>
   </ul>
@@ -626,6 +629,7 @@ This is achieved using telegram and interact.sh to collect data, however custom 
   <li>[xsshunter - a working and easy to install fork of XSSHunter](https://github.com/rs-loves-bugs/xsshunter)</li>
   <li>sessionprobe - a multi-threaded pentesting tool designed to assist in evaluating user privileges in web applications. It takes a user's session token and checks for a list of URLs if access is possible, highlighting potential authorization issues: https://github.com/dub-flow/sessionprobe</li>
   <li>apidetector - a powerful and efficient tool designed for testing exposed Swagger endpoints in various subdomains with unique smart capabilities to detect false-positives: https://github.com/brinhosa/apidetector</li>
+  <li>mitmproxy2swagger - a tool for automatically converting mitmproxy captures to OpenAPI 3.0 specifications: https://github.com/alufers/mitmproxy2swagger</li>
   </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
