@@ -543,6 +543,7 @@ This is achieved using telegram and interact.sh to collect data, however custom 
 <li>vectr - facilitates tracking of your red and blue team testing activities to measure detection and prevention capabilities across different attack scenarios: https://vectr.io/</li>
 <li>hash(HTTP Agnostic Software Honeypot) - a framework for creating and launching low interactive honeypots: https://github.com/DataDog/hash</li>
 <li>DIAL (Did I Alert Lambda?) - a centralized security misconfiguration detection framework which completely runs on AWS Managed services like AWS API Gateway, AWS Event Bridge & AWS Lambda: https://github.com/CRED-CLUB/DIAL</li>
+<li>modpot - a modular web application honeypot framework written in Golang and making use of gin framework. It is the antithesis to honeydet in many ways and allows the user to deploy simple html/js honeypots that mimic web applications in order to detect requests and form entries that are related to attacks: https://github.com/referefref/modpot</li>
             </span>
             </p3>
             </ul><br>
@@ -570,7 +571,7 @@ This is achieved using telegram and interact.sh to collect data, however custom 
   <li>XSSTRON - Powerful Chromium Browser to find XSS Vulnerabilites automatically while browsing web: https://github.com/RenwaX23/XSSTRON</li>
   <li>AutoRepeater - Automated HTTP Request Repeating With Burp Suite: https://github.com/nccgroup/AutoRepeater</li>
 <li>xsshunter - allows you to find all kinds of cross-site scripting vulnerabilities, including the often-missed blind XSS. The service works by hosting specialized XSS probes which, upon firing, scan the page and send information about the vulnerable page to the XSS Hunter service: https://xsshunter.com/</li>
-  <li>vajra - utomated web hacking framework to automate boring recon tasks and same scans for multiple target during web applications penetration testing. Vajra has highly customizable target scope based scan feature: https://github.com/r3curs1v3-pr0xy/vajra</li>
+  <li>vajra - automated web hacking framework to automate boring recon tasks and same scans for multiple target during web applications penetration testing. Vajra has highly customizable target scope based scan feature: https://github.com/r3curs1v3-pr0xy/vajra</li>
   <li>MindAPI - a mindmap which combines years of experience in testing API security: https://github.com/dsopas/MindAPI</li>
   <li>gotestwaf - Go project to test different web application firewalls (WAF) for detection logic and bypasses: https://github.com/wallarm/gotestwaf</li>
   <li>kiterunner - API and content discovery at lightning fast speeds, bruteforcing routes/endpoints in modern applications: https://github.com/assetnote/kiterunner</li>
@@ -610,6 +611,7 @@ This is achieved using telegram and interact.sh to collect data, however custom 
   <li>firefly - an advanced black-box fuzzer and not just a standard asset discovery tool. Firefly provides the advantage of testing a target with a large number of built-in checks to detect behaviors in the target: https://github.com/Brum3ns/firefly</li>
   <li>recollapse - a helper tool for black-box regex fuzzing to bypass validations and discover normalizations in web applications: https://github.com/0xacb/recollapse</li>
   <li>IPRotate_Burp_Extension - Extension for Burp Suite which uses AWS API Gateway to change your IP on every request: https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension</li>
+  <li>burp-vps-proxy - a Burp Suite extension that allows for the automatic creation and deletion of upstream SOCKS5 proxies on popular cloud providers from within Burp Suite: https://github.com/d3mondev/burp-vps-proxy</li>
   <li>waf-bypass - an open source tool to analyze the security of any WAF for False Positives and False Negatives using predefined and customizable payloads: https://github.com/nemesida-waf/waf-bypass</li>
   <li>metlo - an open-source API security platform: https://github.com/metlo-labs/metlo</li>
   <li>burp-vps-proxy - a Burp Suite extension that allows for the automatic creation and deletion of upstream SOCKS5 proxies on popular cloud providers from within Burp Suite: https://github.com/d3mondev/burp-vps-proxy</li>
@@ -619,7 +621,7 @@ This is achieved using telegram and interact.sh to collect data, however custom 
   <li>GraphQLmap - a scripting engine to interact with a graphql endpoint for pentesting purposes: https://github.com/swisskyrepo/GraphQLmap</li>
   <li>graphquail - a Burp Suite extension that offers a toolkit for testing GraphQL endpoints: https://github.com/forcesunseen/graphquail</li>
   <li>route-detect - find authentication (authn) and authorization (authz) security bugs in web application routes: https://github.com/mschwager/route-detect</li>
-  <li>offat(OFFensive Api Tester) - automatically Tests for vulnerabilities after generating tests from openapi specification file: https://github.com/dmdhrumilmistry/offat</li>
+  <li>OWASP OFFAT(OFFensive Api Tester) - automatically Tests for vulnerabilities after generating tests from openapi specification file: https://github.com/OWASP/OFFAT</li>
   <li>Swagger-EZ - a tool geared towards pentesting APIs using OpenAPI definitions: https://github.com/RhinoSecurityLabs/Swagger-EZ</li>
   <li>schemathesis - a tool that automates your API testing to catch crashes and spec violations: https://github.com/schemathesis/schemathesis</li>
   <li>reaper - a reconnaissance and attack proxy, built to be a modern, lightweight, and efficient equivalent to Burp Suite/ZAP etc: https://github.com/ghostsecurity/reaper</li>
@@ -630,6 +632,10 @@ This is achieved using telegram and interact.sh to collect data, however custom 
   <li>sessionprobe - a multi-threaded pentesting tool designed to assist in evaluating user privileges in web applications. It takes a user's session token and checks for a list of URLs if access is possible, highlighting potential authorization issues: https://github.com/dub-flow/sessionprobe</li>
   <li>apidetector - a powerful and efficient tool designed for testing exposed Swagger endpoints in various subdomains with unique smart capabilities to detect false-positives: https://github.com/brinhosa/apidetector</li>
   <li>mitmproxy2swagger - a tool for automatically converting mitmproxy captures to OpenAPI 3.0 specifications: https://github.com/alufers/mitmproxy2swagger</li>
+  <li>restler-fuzzer -the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services: https://github.com/microsoft/restler-fuzzer</li>
+  <li>BypassFuzzer - this tool performs various checks via headers, path normalization, verbs, etc. to attempt to bypass ACL's or URL validation: https://github.com/intrudir/BypassFuzzer</li>
+  <li>nomore403 - an innovative tool designed to help cybersecurity professionals and enthusiasts bypass HTTP 40X errors encountered during web security assessments: https://github.com/devploit/nomore403</li>
+  <li>bypass-url-parser - tool that tests MANY url bypasses to reach a 40X protected page: https://github.com/laluka/bypass-url-parser</li>
   </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
@@ -755,6 +761,8 @@ This is achieved using telegram and interact.sh to collect data, however custom 
     <li>Altair GraphQL Client -  debug GraphQL queries and implementations - taking care of the hard part so you can focus on actually getting things done: https://altairgraphql.dev/</li>
     <li>openapi-devtools - effortlessly discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website: https://github.com/AndrewWalsh/openapi-devtools</li>
     <li>graphql-voyager: https://graphql-kit.com/graphql-voyager/</li>
+    <li>Bruno - opensource IDE for exploring and testing APIs: https://github.com/usebruno/bruno</li>
+    <li>Stay up to date with a community-driven list of high-quality, modern tools for OpenAPI: https://openapi.tools/</li>
   </ul>
   
 </br>

@@ -125,6 +125,7 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>BlueCloud - Cyber Range deployment of HELK and Velociraptor! Automated terraform deployment of one system running HELK + Velociraptor server with one registered Windows endpoint in Azure or AWS: https://github.com/iknowjason/BlueCloud</li>
   <li>Damn Vulnerable Functions as a Service: https://github.com/we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service</li>
   <li>kali-purple - the ultimate SOC in a box: https://gitlab.com/kalilinux/documentation/kali-purple</li>
+  <li>AHHHZURE - n automated vulnerable Azure deployment script designed for offensive security practitioners and enthusiasts to brush up their cloud sec skills: https://github.com/gladstomych/AHHHZURE</li>
 </span>
   </p3>
   </ul>
@@ -515,7 +516,6 @@ This is achieved using telegram and interact.sh to collect data, however custom 
 <li>Deepfence Runtime Threat Mapper - is a subset of the Deepfence cloud native workload protection platform, released as a community edition: https://github.com/deepfence/ThreatMapper/blob/master/README.md</li>
 <li>Dow Jones Hammer - a multi-account cloud security tool for AWS. It identifies misconfigurations and insecure data exposures within most popular AWS resources, across all regions and accounts: https://github.com/dowjones/hammer/blob/master/README.md</li>
 <li><a target="_blank" rel="no-image" href="https://github.com/cyberark/SkyArk"><img border="0" src="https://github.com/Hechtov/Photos/raw/master/SkyArk/SkyArkLogo2.png" width="120" height="50" style="vertical-align:middle"></a> -  a cloud security project with two main scanning modules- AzureStealth | AWStealth: https://github.com/cyberark/SkyArk </li>
-<li>serverless-prey - a collection of serverless functions (FaaS), that, once launched to a cloud environment and invoked, establish a TCP reverse shell, enabling the user to introspect the underlying container: https://github.com/pumasecurity/serverless-prey</li>
 <li>Prowler - AWS Security Toola command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool: https://github.com/toniblyx/prowler</li>
 <li>cloudsploit (Aqua) - an open-source project designed to allow detection of security risks in cloud infrastructure accounts: https://github.com/aquasecurity/cloudsploit </li>
 <li>deepfence SecretScanner - helps users scan their container images or local directories on hosts and outputs JSON file with details of all the secrets found: https://github.com/deepfence/SecretScanner </li>
@@ -602,6 +602,8 @@ This is achieved using telegram and interact.sh to collect data, however custom 
   <li>Use curl to interact with an API: https://www.redhat.com/sysadmin/use-curl-api</li>
   <li>Cherrybomb - a CLI tool that helps you avoid undefined user behavior by validating your API specifications: https://www.blstsecurity.com/</li>
   <li>hurl - a command line tool that runs HTTP requests defined in a simple plain text format: https://github.com/Orange-OpenSource/hurl</li>
+  <li>hoppscotch - Open Source API Development Ecosystem: https://github.com/hoppscotch/hoppscotch</li>
+  <li>httptoolkit - an open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac: https://github.com/httptoolkit/httptoolkit</li>
   </ul>
   
 </br>
