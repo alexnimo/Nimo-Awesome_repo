@@ -25,7 +25,7 @@ Threat Hunting & Simulation
 [Stress Test / Web Traffic Simulation / Test Automation](#stress-test-web-traffic-simulation-test-automation)
 
 <h2><p><b><u>Usefull Docker Images</u></b></p></h2>
-<ul><p1><b>Vulnerable Apps</b></p1>
+<ul><p1><b>Vulnerable Apps</b></p1>`
 <li>https://github.com/citizen-stig/dockermutillidae</li>
 <li>https://hub.docker.com/r/opendns/security-ninjas/</li>
 <li>https://github.com/remotephone/dvwa-lamp</li>
@@ -126,6 +126,10 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Damn Vulnerable Functions as a Service: https://github.com/we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service</li>
   <li>kali-purple - the ultimate SOC in a box: https://gitlab.com/kalilinux/documentation/kali-purple</li>
   <li>AHHHZURE - n automated vulnerable Azure deployment script designed for offensive security practitioners and enthusiasts to brush up their cloud sec skills: https://github.com/gladstomych/AHHHZURE</li>
+  <li>Damn Vulnerable Restaurant API Game - An intentionally vulnerable API service designed for learning and training purposes dedicated to developers, ethical hackers and security engineers: https://github.com/theowni/Damn-Vulnerable-Restaurant-API-Game
+  </li>
+  <li>messypoutine -  a GitHub organization demonstrating ⚠️ purposely vulnerable build pipelines: https://github.com/messypoutine/</li>
+  <li>DVAPI - DVAPI Damn Vulnerable API: https://github.com/payatu/DVAPI</li>
 </span>
   </p3>
   </ul>
@@ -146,7 +150,6 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>Redhunt - Virtual Machine for Adversary Emulation and Threat Hunting: https://github.com/redhuntlabs/RedHunt-OS </li>
   <li> Blue Team Training Kit: https://www.bt3.no/ </li>
   <li>UBoat - POC HTTP Botnet designed to replicate a full weaponised commercial botnet: https://github.com/Souhardya/UBoat</li>
-  <li>FireProx - FireProx leverages the AWS API Gateway to create pass-through proxies that rotate the source IP address with every request: https://github.com/ustayready/fireprox</li>
   <li>Chain Reactor - is an open source framework for composing executables that can simulate adversary behaviors and techniques on Linux endpoints: https://github.com/redcanaryco/chain-reactor </li>
   <li>Redcloud - a powerful and user-friendly toolbox for deploying a fully featured Red Team Infrastructure using Docker.https://github.com/khast3x/Redcloud </li>
       <li>Red Teaming/Adversary Simulation Toolkit - a collection of open source and commercial tools that aid in red team operationshttps://github.com/infosecn1nja/Red-Teaming-Toolkit </li>
@@ -496,6 +499,16 @@ This is achieved using telegram and interact.sh to collect data, however custom 
   <li>dastardly - a lightweight web application security scanner for your CI/CD pipeline: https://portswigger.net/burp/dastardly</li>
   <li>burp-awesome-tls - this extension hijacks Burp's HTTP/TLS stack and allows you to spoof any browser fingerprint in order to make it more powerful and less prone to fingerprinting by all kinds of WAFs: https://github.com/sleeyax/burp-awesome-tls</li>
   <li>IPRotate_Burp_Extension - extension for Burp Suite which uses AWS API Gateway to change your IP on every request: https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension</li>
+    <li>FireProx - FireProx leverages the AWS API Gateway to create pass-through proxies that rotate the source IP address with every request: https://github.com/ustayready/fireprox</li>
+    <li>gigaproxy - a tool is designed to rotate IPs using mitmproxy, AWS API Gateway, and Lambda: https://github.com/Sprocket-Security/gigaproxy</li>
+  <li>sign-saboteur - a Burp Suite extension for editing, signing, verifying, and attacking signed tokens. It supports different types of tokens: https://github.com/d0ge/sign-saboteur</li>
+  <li>gotestwaf - a tool for API and OWASP attack simulation that supports a wide range of API protocols including REST, GraphQL, gRPC, WebSockets, SOAP, XMLRPC, and others: https://github.com/wallarm/gotestwaf</li>
+  <li>ShadowClone - allows you to distribute your long running tasks dynamically across thousands of serverless functions and gives you the results within seconds where it would have taken hours to complete: https://github.com/fyoorer/ShadowClone</li>
+  <li>jwt-hack - Hack the JWT(JSON Web Token): https://github.com/hahwul/jwt-hack</li>
+  <li>GAP-Burp-Extension - an evolution of the original getAllParams extension for Burp. Not only does it find more potential parameters for you to investigate, but it also finds potential links to try these parameters on, and produces a target specific wordlist to use for fuzzing: https://github.com/xnl-h4ck3r/GAP-Burp-Extension</li>
+  <li>domloggerpp - a browser extension that allows you to monitor, intercept, and debug JavaScript sinks based on customizable configurations: https://github.com/kevin-mizu/domloggerpp</li>
+  <li>GAP-Burp-Extension - this is an evolution of the original getAllParams extension for Burp. Not only does it find more potential parameters for you to investigate, but it also finds potential links to try these parameters on, and produces a target specific wordlist to use for fuzzing: https://github.com/xnl-h4ck3r/GAP-Burp-Extension</li>
+  <li>http-garden - a collection of HTTP servers and proxies configured to be composable, along with scripts to interact with them in a way that makes finding vulnerabilities much much easier: https://github.com/narfindustries/http-garden</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
@@ -552,6 +565,8 @@ This is achieved using telegram and interact.sh to collect data, however custom 
 <li>MicroBurst -  includes functions and scripts that support Azure Services discovery, weak configuration auditing, and post exploitation actions such as credential dumping: https://github.com/NetSPI/MicroBurst</li>
 <li>Go365 - a tool designed to perform user enumeration* and password guessing attacks on organizations that use Office365 (now/soon Microsoft365). Go365 uses a unique SOAP API endpoint on login.microsoftonline.com that most other tools do not use: https://github.com/optiv/Go365</li>
 <li>BlueHound - a tool that helps blue teams pinpoint the security issues that actually matter. By combining information about user permissions, network access and unpatched vulnerabilities, BlueHound reveals the paths attackers would take if they were inside your networkhttps://github.com/zeronetworks/BlueHound | https://zeronetworks.com/blog/bluehound-community-driven-resilience/</li>
+<li>GraphSpy - THE SWISS ARMY KNIFE FOR ATTACKING M365 & ENTRA: https://github.com/RedByte1337/GraphSpy</li>
+<li>Graphpython - a modular Python tool for cross-platform Microsoft Graph API enumeration and exploitation: https://github.com/mlcsec/Graphpython</li>
 </ul>
 </br>
 
@@ -575,6 +590,7 @@ This is achieved using telegram and interact.sh to collect data, however custom 
 <li>json query language: https://jmespath.org/ </li>
 <li>repl.it - online Python compiler: https://repl.it/</li>
 <li>codepen - a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration: https://codepen.io/</li>
+<li>render - Build, deploy, and scale your apps with unparalleled ease – from your first user to your billionth: https://render.com/</li>
 <li>dillinger - live markdown editor https://dillinger.io/ </li>
 <li>glitch -  the friendly community where everyone codes together: https://glitch.com/</li>
 <li>JS lint: https://jshint.com/</li>
@@ -604,6 +620,7 @@ This is achieved using telegram and interact.sh to collect data, however custom 
   <li>hurl - a command line tool that runs HTTP requests defined in a simple plain text format: https://github.com/Orange-OpenSource/hurl</li>
   <li>hoppscotch - Open Source API Development Ecosystem: https://github.com/hoppscotch/hoppscotch</li>
   <li>httptoolkit - an open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac: https://github.com/httptoolkit/httptoolkit</li>
+  <li>schemathesis - a tool that levels-up your API testing by leveraging API specs as a blueprints for generating test cases. It focuses on testing for general properties — such as ensuring no input leads to server errors and all responses adhere to the API spec — rather than just checking specific input-output combinations: https://schemathesis.readthedocs.io/en/stable/index.html</li>
   </ul>
   
 </br>
