@@ -202,9 +202,10 @@ chown tomcat7 /etc/authbind/byport/443</b></li>
   <li>[vulnerable-apps - Over 100 forks of deliberately vulnerable web applications and APIs: ](https://github.com/vulnerable-apps)</li>
   <li><[AutomatedEmulation - a simple terraform template creating a customizable and automated Breach and Attack Simulation lab(caldera, perlude, VECTR)](https://github.com/iknowjason/AutomatedEmulation)/li>
   <li>AutomatedLab - enables you to setup test and lab environments on Hyper-v or Azure with multiple products or just a single VM in a very short time: https://github.com/AutomatedLab/AutomatedLab</li>
+  <li>EH-Patch-Todo-App - Goof - Snyk's vulnerable demo app: https://github.com/snyk-workshops/EH-Patch-Todo-App</li>
   </p3>
   </ul>
-s
+
   <h3><b>Payloads / RATS</b></h3>
     <ul>
       <p3>
@@ -636,6 +637,7 @@ This is achieved using telegram and interact.sh to collect data, however custom 
   <li>BypassFuzzer - this tool performs various checks via headers, path normalization, verbs, etc. to attempt to bypass ACL's or URL validation: https://github.com/intrudir/BypassFuzzer</li>
   <li>nomore403 - an innovative tool designed to help cybersecurity professionals and enthusiasts bypass HTTP 40X errors encountered during web security assessments: https://github.com/devploit/nomore403</li>
   <li>bypass-url-parser - tool that tests MANY url bypasses to reach a 40X protected page: https://github.com/laluka/bypass-url-parser</li>
+  <li>Gecko - is a powerful Chrome extension designed to automate the discovery of Client-Side Path Traversals (CSPT) in web applications. It seamlessly integrates with Chrome DevTools and provides a user-friendly interface for identifying and analyzing CSPT vulnerabilities: https://github.com/vitorfhc/gecko | https://vitorfalcao.com/posts/automating-cspt-discovery | https://github.com/doyensec/CSPTPlayground</li>
   </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>

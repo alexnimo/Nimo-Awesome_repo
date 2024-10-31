@@ -509,6 +509,9 @@ This is achieved using telegram and interact.sh to collect data, however custom 
   <li>domloggerpp - a browser extension that allows you to monitor, intercept, and debug JavaScript sinks based on customizable configurations: https://github.com/kevin-mizu/domloggerpp</li>
   <li>GAP-Burp-Extension - this is an evolution of the original getAllParams extension for Burp. Not only does it find more potential parameters for you to investigate, but it also finds potential links to try these parameters on, and produces a target specific wordlist to use for fuzzing: https://github.com/xnl-h4ck3r/GAP-Burp-Extension</li>
   <li>http-garden - a collection of HTTP servers and proxies configured to be composable, along with scripts to interact with them in a way that makes finding vulnerabilities much much easier: https://github.com/narfindustries/http-garden</li>
+  <li>sj (Swagger Jacker) - a command line tool designed to assist with auditing of exposed Swagger/OpenAPI definition files by checking the associated API endpoints for weak authentication. It also provides command templates for manual vulnerability testing: https://github.com/BishopFox/sj</li>
+  <li>GraphQLer -  a cutting-edge tool designed to dynamically test GraphQL APIs with a focus on awareness. It offers a range of sophisticated features that streamline the testing process and ensure robust analysis of GraphQL APIs such as being able to automatically read a schema and run tests against an API using the schema: https://github.com/omar2535/GraphQLer</li>
+  <li>DalFox - is a powerful open-source tool that focuses on automation, making it ideal for quickly scanning for XSS flaws and analyzing parameters. Its advanced testing engine and niche features are designed to streamline the process of detecting and verifying vulnerabilities: https://github.com/hahwul/dalfox</li>
 </ul></br>
 <p2><b><u>XSS Resources</u></b></p2>
 <ul>
